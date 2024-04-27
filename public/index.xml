@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://kalestahl.xyz/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://kalestahl.xyz/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://kalestahl.xyz/about/</link>
+      <pubDate>Sat, 27 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://kalestahl.xyz/about/</guid>
+      <description>I am originally from Topeka, KS and am currently a senior finishing my undergraduate degree in Mathematics and Physics at Kansas State University in Manhattan, KS. I will be pursuing my Ph.D. in mathematics at Purdue University this fall. After my Ph.D., my ultimate goal is to be a professor at a university and teach and conduct research full time. My current research interests and in applied math and PDE, and I am particularly fond of mathematical application to physics, especially within wave equations.</description>
+    </item>
+  </channel>
+</rss>

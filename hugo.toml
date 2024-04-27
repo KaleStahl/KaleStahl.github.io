@@ -1,0 +1,4 @@
+baseURL = 'https://kalestahl.xyz/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'xmin'
