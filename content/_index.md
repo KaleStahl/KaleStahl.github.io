@@ -1,6 +1,8 @@
 ---
-title: Kale Stahl's Personal Webpage
-author: Kale Stahl
+title: Home
+author: ""
+menu: main
+footer: "&copy; Kale Stahl 2024 -- {Year}"
 ---
 
 Hi all! Welcome to my webpage. My name is Kale Stahl, and I am currently in my final year of my undergraduate studies in mathematics and physics at Kansas State University. My research interests are in inverse problems and applied analysis, especially within inverse scattering problems and scattering theory in general
