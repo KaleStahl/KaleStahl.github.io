@@ -1,5 +1,6 @@
 +++
 title = 'About Me'
+menu = "About"
 description = "my bio and current cv"
 date = "2024-04-27"
 author = ""
