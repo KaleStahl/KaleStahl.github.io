@@ -1,7 +1,4 @@
 ---
-title: Fun Stuff
-author: ""
+title: Math Adjacent Stuff
 menu: main
-params: 
-    footer: "&copy; Kale Stahl 2024 -- {Year}"
 ---

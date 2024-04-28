@@ -1,13 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Kale Stahl</title>
+    <title>Home on Kale Stahl&#39;s Personal Website</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Kale Stahl</description>
+    <description>Recent content in Home on Kale Stahl&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Research</title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>I am currently supported with funding as an NSF Graduate Research Fellow.&#xA;My current research involves numerical methods for shape reconstruction in inverse scattering problems. In an inverse scattering problem, waves are scattered from an object, and the incident wave \(u^{in}\) and resulting wave \(u^{sc}\) are measured, with no a priori information about the scattering object. It is the goal of my work to use the information about the incident and scattered wave to determine characteristics about the unknown object.</description>
+    </item>
+    <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Click here to see my current CV.&#xA;For a list of my recent publications and other writings, see here.&#xA;For a list of talks and presentations, see here.</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -16,25 +29,18 @@
       <description>I am originally from Topeka, KS and am currently a senior finishing my undergraduate degree in Mathematics and Physics at Kansas State University in Manhattan, KS. I will be pursuing my Ph.D. in mathematics at Purdue University this fall. After my Ph.D., my ultimate goal is to be a professor at a university and teach and conduct research full time.&#xA;My current research interests and in applied math and PDE, and I am particularly fond of mathematical application to physics, especially within wave equations.</description>
     </item>
     <item>
-      <title>CV</title>
-      <link>http://localhost:1313/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/cv/</guid>
-      <description>Click here to see my current CV.</description>
-    </item>
-    <item>
-      <title>Fun Stuff</title>
+      <title>Math Adjacent Stuff</title>
       <link>http://localhost:1313/fun_stuff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fun_stuff/</guid>
       <description></description>
     </item>
     <item>
-      <title>Research</title>
-      <link>http://localhost:1313/research/</link>
+      <title>Presentations</title>
+      <link>http://localhost:1313/presentations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
-      <description>I am currently supported with funding as an NSF Graduate Research Fellow.&#xA;My current research involves numerical methods for shape reconstruction in inverse scattering problems. In an inverse scattering problem, waves are scattered from an object, and the incident and resulting wave are measured, with no a priori information about the scattering object. It is the goal of my work to use the information about the incident and scattered wave to determine characteristics about the unknown object.</description>
+      <guid>http://localhost:1313/presentations/</guid>
+      <description>Presentations Upcoming None upcoming&#xA;Previous [12-02-23] Geometric Measure Theory final presentation, &amp;ldquo;Sobolev Inequalities&amp;rdquo; &amp;ndash; 60 minute talk [11-18-23] Kansas Honors Connections Conference at Emporia State University, &amp;ldquo;A New Sampling Imaging Functional for Imaging Photonic Crystals&amp;rdquo;&amp;ndash; 10 minute talk [10-30-23] Physics Undergraduate Colloquium at KSU, &amp;ldquo;A New Sampling Imaging Functional for Imaging Photonic Crystals&amp;rdquo; &amp;ndash; 15 minute talk [02-25-23] Central States Undergraduate Research Conference, &amp;ldquo;A New Sampling Imaging Functional for Imaging Photonic Crystals&amp;rdquo; &amp;ndash; 15 minute talk [11-29-22] Office of Undergraduate Research &amp;amp; Creative Inquiry Research Showcase &amp;ndash; poster [07-15-22] Summer Undergraduate Michigan Mathematics Research Conference &amp;ndash; 30 minute talk [04-08-22] JMM 2022 &amp;ndash; virtual poster presentation Travel and Conferences in Attendance Upcoming None upcoming</description>
     </item>
   </channel>
 </rss>
