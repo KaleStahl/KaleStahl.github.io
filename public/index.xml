@@ -12,7 +12,7 @@
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>I am currently supported with funding as an NSF Graduate Research Fellow.&#xA;My current research involves numerical methods for shape reconstruction in inverse scattering problems. In an inverse scattering problem, waves are scattered from an object, and the incident wave \(u^{in}\) and resulting wave \(u^{sc}\) are measured, with no a priori information about the scattering object. It is the goal of my work to use the information about the incident and scattered wave to determine characteristics about the unknown object.</description>
+      <description>I am currently supported with funding as an NSF Graduate Research Fellow.&#xA;My current research involves numerical methods for shape reconstruction in inverse scattering problems. In an inverse scattering problem, waves are scattered from an object, and the incident wave and resulting wave are measured, with no a priori information about the scattering object. It is the goal of my work to use the information about the incident and scattered wave to determine characteristics about the unknown object.</description>
     </item>
     <item>
       <title>Curriculum Vitae</title>
