@@ -12,6 +12,8 @@ Outside of math, I am just generally a nerd. I enjoy making spreadsheets for fun
 
 As if all of the above wasn't enough, I also play the Pokemon Trading Card game competitively. I started play competitively a few years ago, and since then have attended numerous large regional and national championships, with my best finish being 164th at the 2023 San Antonio Regionals with my beloved [SableZard deck](https://limitlesstcg.com/decks/list/9576). Indiana is much closer to more regionals than Kansas, so I hope to be able to compete more during my time in graduate school!
 
-{{< figure src="/pikachu.jpg" width="400">}}
+<p align="center">
+  <img src = "/pikachu.jpg" width="300" class="center" alt = "me at pokemon" />
+</p>
 
 Me and a giant Pikachu at the 2023 North American International Championships in Colombus, Ohio.
