@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Kale Stahls Personal Website</title>
+    <title>Kale Stahls Personal Website</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on Kale Stahls Personal Website</description>
+    <description>Recent content on Kale Stahls Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
@@ -16,11 +16,25 @@
       <description>I am originally from Topeka, KS and am currently a senior finishing my undergraduate degree in Mathematics and Physics at Kansas State University in Manhattan, KS. I will be pursuing my Ph.D. in mathematics at Purdue University this fall. After my Ph.D., my ultimate goal is to be a professor at a university and teach and conduct research full time.&#xA;My current research interests and in applied math and PDE, and I am particularly fond of mathematical application to physics, especially within wave equations.</description>
     </item>
     <item>
+      <title>CV</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>Click here to see my current CV.</description>
+    </item>
+    <item>
+      <title>Fun Stuff</title>
+      <link>http://localhost:1313/fun_stuff/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fun_stuff/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Research</title>
       <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/research/</guid>
-      <description>Publications D.L. Nguyen, K. Stahl, and T. Truong. A new sampling indicator function for stable imaging of periodic scattering media in Inverse Problems, Volume 39, Number 6, May 9, 2023.https://iopscience.iop.org/article/10.1088/1361-6420/acce5f/meta&#xA;Grants </description>
+      <description>I am currently supported with funding as an NSF Graduate Research Fellow.&#xA;My current research involves numerical methods for shape reconstruction in inverse scattering problems. In an inverse scattering problem, waves are scattered from an object, and the incident and resulting wave are measured, with no a priori information about the scattering object. It is the goal of my work to use the information about the incident and scattered wave to determine characteristics about the unknown object.</description>
     </item>
   </channel>
 </rss>

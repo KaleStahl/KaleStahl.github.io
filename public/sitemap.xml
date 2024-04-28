@@ -12,6 +12,10 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/cv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/fun_stuff/</loc>
+  </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
