@@ -16,9 +16,19 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/code_snippets/</loc>
+  </url><url>
+    <loc>http://localhost:1313/gallery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/ramblings/</loc>
+  </url><url>
     <loc>http://localhost:1313/fun_stuff/</loc>
   </url><url>
     <loc>http://localhost:1313/presentations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/publications/</loc>
+  </url><url>
+    <loc>http://localhost:1313/spreadsheets/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

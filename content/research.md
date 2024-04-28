@@ -15,6 +15,9 @@ There are many classes of methods proposed to solve this, but my work has been w
 
 {{< figure src="/reconstructions.png" width="650">}}
 
+---
+
+# Publications and Papers
 
 ## Publications in Referreed Journals
 1. D.L. Nguyen, **K. Stahl**, and T. Truong. *A new sampling indicator function for stable imaging of periodic scattering media* in Inverse Problems, Volume 39, Number 6, May 9, 2023. 

@@ -15,7 +15,7 @@
       <description>I am currently supported with funding as an NSF Graduate Research Fellow.&#xA;My current research involves numerical methods for shape reconstruction in inverse scattering problems. In an inverse scattering problem, waves are scattered from an object, and the incident wave \(u^{in}\) and resulting wave \(u^{sc}\) are measured, with no a priori information about the scattering object. It is the goal of my work to use the information about the incident and scattered wave to determine characteristics about the unknown object.</description>
     </item>
     <item>
-      <title>CV</title>
+      <title>Curriculum Vitae</title>
       <link>http://localhost:1313/cv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cv/</guid>
@@ -26,14 +26,35 @@
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>I am originally from Topeka, KS and am currently a senior finishing my undergraduate degree in Mathematics and Physics at Kansas State University in Manhattan, KS. I will be pursuing my Ph.D. in mathematics at Purdue University this fall. After my Ph.D., my ultimate goal is to be a professor at a university and teach and conduct research full time.&#xA;My current research interests and in applied math and PDE, and I am particularly fond of mathematical application to physics, especially within wave equations.</description>
+      <description>I am originally from Topeka, KS and am currently a senior finishing my undergraduate degree in Mathematics and Physics at Kansas State University in Manhattan, KS. I will be pursuing my Ph.D. in mathematics at Purdue University this fall. After my Ph.D., my goal is to be a professor at a university and teach and conduct research full time.&#xA;My current research interests lie within applied anlaysis and PDE, and I am particularly fond of mathematical application to physics, especially within wave equations.</description>
+    </item>
+    <item>
+      <title>Code Snippets</title>
+      <link>http://localhost:1313/code_snippets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/code_snippets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gallery</title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Incoherent Ramblings</title>
+      <link>http://localhost:1313/ramblings/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ramblings/</guid>
+      <description></description>
     </item>
     <item>
       <title>Math Adjacent Stuff</title>
       <link>http://localhost:1313/fun_stuff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/fun_stuff/</guid>
-      <description></description>
+      <description>Spreadsheets Here you&amp;rsquo;ll find a bunch of spreadsheets and spreasheet templates for various things: video games, tests, physics labs, Pokemon Cards, and so much more.&#xA;Code Snippets that Aren&amp;rsquo;t Cool Enough for Github For things that don&amp;rsquo;t work well as spreadsheets, I make poorlyncoded python applications to serve their purpose. Here you&amp;rsquo;ll find code that isn&amp;rsquo;t good enough to be on my Github profile, primarily for my own archival reasons.</description>
     </item>
     <item>
       <title>Presentations</title>
@@ -41,6 +62,20 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/presentations/</guid>
       <description>Presentations Upcoming None upcoming&#xA;Previous [12-02-23] Geometric Measure Theory final presentation, &amp;ldquo;Sobolev Inequalities&amp;rdquo; &amp;ndash; 60 minute talk [11-18-23] Kansas Honors Connections Conference at Emporia State University, &amp;ldquo;A New Sampling Imaging Functional for Imaging Photonic Crystals&amp;rdquo;&amp;ndash; 10 minute talk [10-30-23] Physics Undergraduate Colloquium at KSU, &amp;ldquo;A New Sampling Imaging Functional for Imaging Photonic Crystals&amp;rdquo; &amp;ndash; 15 minute talk [02-25-23] Central States Undergraduate Research Conference, &amp;ldquo;A New Sampling Imaging Functional for Imaging Photonic Crystals&amp;rdquo; &amp;ndash; 15 minute talk [11-29-22] Office of Undergraduate Research &amp;amp; Creative Inquiry Research Showcase &amp;ndash; poster [07-15-22] Summer Undergraduate Michigan Mathematics Research Conference &amp;ndash; 30 minute talk [04-08-22] JMM 2022 &amp;ndash; virtual poster presentation Travel and Conferences in Attendance Upcoming None upcoming</description>
+    </item>
+    <item>
+      <title>Publications and Papers</title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>Publications in Referreed Journals D.L. Nguyen, K. Stahl, and T. Truong. A new sampling indicator function for stable imaging of periodic scattering media in Inverse Problems, Volume 39, Number 6, May 9, 2023. Link: https://iopscience.iop.org/article/10.1088/1361-6420/acce5f/meta arXiv: https://arxiv.org/abs/2205.01206 Expository Works Undergraduate Honors Thesis: &amp;ldquo;Additional Proofs to Kirsch and Grinberg&amp;rsquo;s &amp;lsquo;The Factorization Method for Inverse Problems&amp;rsquo;&amp;rdquo; [pdf]&#xA;Lecture Notes Lecture Notes on Sobolev Inequalities [pdf] Lecture Notes on Bipolar Green&amp;rsquo;s Functions (in progress) </description>
+    </item>
+    <item>
+      <title>Spreadsheets</title>
+      <link>http://localhost:1313/spreadsheets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/spreadsheets/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>
