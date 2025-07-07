@@ -13,6 +13,8 @@ arXiv: [https://arxiv.org/abs/2205.01206](https://arxiv.org/pdf/2205.01206)
 ### Lecture Notes
 - Lecture Notes on Sobolev Inequalities [[pdf]](/files/GMT%20Lecture.pdf)
 - Lecture Notes on Bipolar Green's Functions [[pdf]](/files/bipolarGreen.pdf)
+- Lecture Notes on Discrete Mathematics [[pdf]](/files/discrete.pdf)
+- Some Notes on Scattering Resonances [[pdf]](/files/scatteringresonances.pdf)
 
 ### Purdue Qualifying Exam Study Materials
 - MA 530 Complex Analysis [[pdf]](/files/ma530.pdf)
