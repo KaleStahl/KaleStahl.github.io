@@ -8,7 +8,12 @@ Link: [https://iopscience.iop.org/article/10.1088/1361-6420/acce5f/meta](https:/
 arXiv: [https://arxiv.org/abs/2205.01206](https://arxiv.org/pdf/2205.01206)
 
 ## Expository Works
-**Undergraduate Honors Thesis**: *"Additional Proofs to Kirsch and Grinberg's 'The Factorization Method for Inverse Problems'"* [[pdf]](/files/Factorization%20Method.pdf)
+**Undergraduate Honors Thesis**: *"On the Factorization Method for Inverse Scattering Problems"* [[pdf]](/files/Factorization%20Method.pdf)
+
 ### Lecture Notes
 - Lecture Notes on Sobolev Inequalities [[pdf]](/files/GMT%20Lecture.pdf)
-- Lecture Notes on Bipolar Green's Functions (in progress)
+- Lecture Notes on Bipolar Green's Functions [[pdf]](/files/bipolarGreen.pdf)
+
+### Purdue Qualifying Exam Study Materials
+- MA 530 Complex Analysis [[pdf]](/files/ma530.pdf)
+- MA 553 Abstract Algebra [[pdf]](/files/ma553.pdf)
