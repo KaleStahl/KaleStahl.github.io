@@ -10,7 +10,7 @@ author: ""
 *None upcoming*
 
 ### Previous
-
+- [2-28-25] Purdue Graduate Analysis Seminar, "A New Sampling Imaging Functional for Imaging Photonic Crystals" -- 45 minute talk
 - [12-02-23] Geometric Measure Theory final presentation, "Sobolev Inequalities" -- 60 minute talk
 - [11-18-23] Kansas Honors Connections Conference at Emporia State University, "A New Sampling Imaging Functional for Imaging Photonic Crystals"-- 10 minute talk
 - [10-30-23] Physics Undergraduate Colloquium at KSU, "A New Sampling Imaging Functional for Imaging Photonic Crystals" -- 15 minute talk
