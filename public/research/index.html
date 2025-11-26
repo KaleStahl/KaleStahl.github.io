@@ -6,7 +6,17 @@
     <title>Research | Kale Stahl&#39;s Personal Website</title>
     <link rel="stylesheet" href="/css/style.css" />
     <link rel="stylesheet" href="/css/fonts.css" />
-    
+    <script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+  }
+});
+</script>
+<script async type="text/javascript"
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
   </head>
 
   <body>
@@ -21,8 +31,6 @@
       
       <li><a href="/about/">About</a></li>
       
-      <li><a href="/fun_stuff/">Math Adjacent Stuff</a></li>
-      
     </ul>
     <hr/>
     </nav>
@@ -34,31 +42,16 @@
 </div>
 
 <main>
-
 <p>I am currently supported with funding as an NSF Graduate Research Fellow.</p>
-<p>My current research involves numerical methods for shape reconstruction in inverse scattering problems. In an inverse scattering problem, waves are scattered from an object, and the incident wave $u^{in}$ and resulting wave are measured, with no a priori information about the scattering object. It is the goal of my work to use the information about the incident and scattered wave to determine characteristics about the unknown object. We can see a simple problem setup in the below image.</p>
-<p align="center">
-  <img src = "/scattering_object_diagram.jpg" width="650" class="center" alt = "scattering process" />
-</p>
-<p>There are many classes of methods proposed to solve this, but my work has been with sampling methods. In a sampling method, the domain is discretized and then an imaging functional is applied to each point. This functional returns a high value if the point is inside the object and a low value if it is outside. This allows us to numerically calculate the shape of the scattering object. In the below image, you can see the imaging method proposed in 1. compared to many other proposed sampling methods when used on a periodic object.</p>
-<p align = "center">
-    <img src = "/reconstructions.png" width="650" class="center" alt = "scattering process" />
-</p>
+<p>In general, I am interested in PDE and their applications to physics. I don&rsquo;t have an official advisor at the moment, but I have been working on some introductory problems with <a href="https://sites.google.com/site/isaacpurduemath/">Dr. Isaac Harric</a> the past few semesters. At the moment I have been working on projects with numerical solutions to the Biharmonic scattering problem with approximate far-field data using a MUSIC algorithm and the Born approximation.</p>
+<p>At K-State I worked with <a href="https://sites.google.com/site/dinhliemnguyen/home">Dr. Dinh-Liem Nguyen</a> and <a href="https://mupages.marshall.edu/sites/truongt/">Dr. Trung Truong</a> on projects involving shape reconstruction in acoustic inverse scattering problems. I have worked previously with <a href="https://www-personal.umd.umich.edu/~yuliagh/">Dr. Yulia Hristova</a> and <a href="https://www-personal.umd.umich.edu/~adityavv/">Dr. Aditya Viswanathan</a> in the 2022 University of Michigan-Dearborn REU For Analysis and Application on a project detecting edge signals from phaseless signal measurements.</p>
 <hr>
-<h1 id="publications-and-papers">Publications and Papers</h1>
 <h2 id="publications-in-referreed-journals">Publications in Referreed Journals</h2>
 <ol>
 <li>D.L. Nguyen, <strong>K. Stahl</strong>, and T. Truong. <em>A new sampling indicator function for stable imaging of periodic scattering media</em> in Inverse Problems, Volume 39, Number 6, May 9, 2023.
 Link: <a href="https://iopscience.iop.org/article/10.1088/1361-6420/acce5f/meta">https://iopscience.iop.org/article/10.1088/1361-6420/acce5f/meta</a>
 arXiv: <a href="https://arxiv.org/pdf/2205.01206">https://arxiv.org/abs/2205.01206</a></li>
 </ol>
-<h2 id="expository-works">Expository Works</h2>
-<p><strong>Undergraduate Honors Thesis</strong>: <em>&ldquo;Additional Proofs to Kirsch and Grinberg&rsquo;s &lsquo;The Factorization Method for Inverse Problems&rsquo;&rdquo;</em> <a href="/files/Factorization%20Method.pdf">[pdf]</a></p>
-<h3 id="lecture-notes">Lecture Notes</h3>
-<ul>
-<li>Lecture Notes on Sobolev Inequalities <a href="/files/GMT%20Lecture.pdf">[pdf]</a></li>
-<li>Lecture Notes on Bipolar Green&rsquo;s Functions (in progress)</li>
-</ul>
 
 </main>
 
@@ -66,7 +59,7 @@ arXiv: <a href="https://arxiv.org/pdf/2205.01206">https://arxiv.org/abs/2205.012
   
   
   <hr/>
-  © Kale Stahl 2024 &ndash; 2024 | <a href="https://github.com/kalestahl">Github</a>
+  © Kale Stahl 2024 &ndash; 2025 | <a href="https://github.com/kalestahl">Github</a>
   
   </footer>
   </body>

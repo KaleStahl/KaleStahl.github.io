@@ -1,6 +1,6 @@
 baseurl: "https://kalestahl.github.io/"
 languageCode: "en-us"
-title: "Kale Stahl\'s Personal Website"
+title: "Kale Stahl's Personal Website"
 theme: "xmin"
 googleAnalytics: ""
 disqusShortname: ""
@@ -11,25 +11,26 @@ permalinks:
   note: "/note/:year/:month/:day/:slug/"
   post: "/post/:year/:month/:day/:slug/"
 
-params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; Kale Stahl 2024 -- {Year} | [Github](https://github.com/kalestahl)"
-
 markup:
-  highlight:
-    codeFences: false
   goldmark:
     renderer:
-      unsafe: true
+        hardWraps: false
+        unsafe: true
+        xhtml: false
     extensions:
       passthrough:
-        enable: true
         delimiters:
           block:
-          - - \[
-            - \]
+          - - '\['
+            - '\]'
           - - $$
             - $$
           inline:
-          - - \(
-            - \)
+          - - '\('
+            - '\)'
+        enable: true
+
+params:
+  math: true
+  description: "A website built through Hugo and blogdown."
+  footer: "&copy; Kale Stahl 2024 -- {Year} | [Github](https://github.com/kalestahl)"
