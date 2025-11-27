@@ -11,6 +11,7 @@ In general, I am interested in PDE and their applications to physics. I don't ha
 At K-State I worked with [Dr. Dinh-Liem Nguyen](https://sites.google.com/site/dinhliemnguyen/home) and [Dr. Trung Truong](https://mupages.marshall.edu/sites/truongt/) on projects involving shape reconstruction in acoustic inverse scattering problems. I have worked previously with [Dr. Yulia Hristova](https://www-personal.umd.umich.edu/~yuliagh/) and [Dr. Aditya Viswanathan](https://www-personal.umd.umich.edu/~adityavv/) in the 2022 University of Michigan-Dearborn REU For Analysis and Application on a project detecting edge signals from phaseless signal measurements.
 
 ---
+# Publications and Papers
 
 ## Publications in Referreed Journals
 1. D.L. Nguyen, **K. Stahl**, and T. Truong. *A new sampling indicator function for stable imaging of periodic scattering media* in Inverse Problems, Volume 39, Number 6, May 9, 2023. 

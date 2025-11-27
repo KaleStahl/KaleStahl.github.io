@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Kale Stahl&#39;s Personal Website</title>
-    <link>https://kalestahl.github.io/tags/</link>
+    <link>http://localhost:51805/tags/</link>
     <description>Recent content in Tags on Kale Stahl&#39;s Personal Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://kalestahl.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 26 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:51805/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2018</title>
+      <link>http://localhost:51805/tags/2018/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51805/tags/2018/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Pokemon TCG</title>
+      <link>http://localhost:51805/tags/pokemon-tcg/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51805/tags/pokemon-tcg/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Retro Formats</title>
+      <link>http://localhost:51805/tags/retro-formats/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51805/tags/retro-formats/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SUM-LOT</title>
+      <link>http://localhost:51805/tags/sum-lot/</link>
+      <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:51805/tags/sum-lot/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

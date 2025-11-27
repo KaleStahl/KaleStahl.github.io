@@ -8,7 +8,7 @@ I am originally from Topeka, KS and I completed my undergrad in Mathematics and 
 
 My current research interests lie within applied anlaysis and PDE, and I am particularly fond of mathematical application to physics, especially within wave equations. I did most of my undergraduate work on Inverse Scattering problems and their numerical solutions. I have ventured into more modern "mathematical physics" but the sheer amount of representation theory and Lie algebras have made me lean closer to applied analysis. I am still interested in the PDE that arise from general relativity, but there isn't much math that can be done there at the moment that I either feel strongly towards doing or have the mental capacity to learn. 
 
-Outside of math, I have too many hobbies. I enjoy woodworking, playing video games, playing card games, coding, sculpting, cooking, and whatever else I decide I want to do that day.  
+Outside of math, I have too many hobbies. I enjoy woodworking, playing video games, playing card games, coding, sculpting, cooking, and whatever else I decide I want to do that day. I have made a [separate page](/category/) for ramblings related to these things.
 
 I have a 3 year old german shepard and coonhound mix named Boo who is... let's just say "special". We also recently adopt a cat name Celery! She is an absolute crackhead and loves to get up to trouble with her brother.
 <p align="center">

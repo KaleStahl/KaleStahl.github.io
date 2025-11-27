@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cvs on Kale Stahl&#39;s Personal Website</title>
+    <link>http://localhost:1313/cv/</link>
+    <description>Recent content in Cvs on Kale Stahl&#39;s Personal Website</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/cv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1313/cv/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/cv/</guid>
+      <description>&lt;p&gt;Click &lt;a href=&#34;http://localhost:1313/files/Kale_Stahl_CV.pdf&#34;&gt;here&lt;/a&gt; to see my current CV.&lt;/p&gt;&#xA;&lt;h2 id=&#34;publications-in-referreed-journals&#34;&gt;Publications in Referreed Journals&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;D.L. Nguyen, &lt;strong&gt;K. Stahl&lt;/strong&gt;, and T. Truong. &lt;em&gt;A new sampling indicator function for stable imaging of periodic scattering media&lt;/em&gt; in Inverse Problems, Volume 39, Number 6, May 9, 2023.&#xA;Link: &lt;a href=&#34;https://iopscience.iop.org/article/10.1088/1361-6420/acce5f/meta&#34;&gt;https://iopscience.iop.org/article/10.1088/1361-6420/acce5f/meta&lt;/a&gt;&#xA;arXiv: &lt;a href=&#34;https://arxiv.org/pdf/2205.01206&#34;&gt;https://arxiv.org/abs/2205.01206&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;expository-works&#34;&gt;Expository Works&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Undergraduate Honors Thesis&lt;/strong&gt;: &lt;em&gt;&amp;ldquo;On the Factorization Method for Inverse Scattering Problems&amp;rdquo;&lt;/em&gt; &lt;a href=&#34;http://localhost:1313/files/Factorization%20Method.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h3 id=&#34;lecture-notes&#34;&gt;Lecture Notes&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Lecture Notes on Sobolev Inequalities &lt;a href=&#34;http://localhost:1313/files/GMT%20Lecture.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lecture Notes on Bipolar Green&amp;rsquo;s Functions &lt;a href=&#34;http://localhost:1313/files/bipolarGreen.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Lecture Notes on Discrete Mathematics &lt;a href=&#34;http://localhost:1313/files/discrete.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Notes on Lie Algebras for Mathematical Physics &lt;a href=&#34;http://localhost:1313/files/DRP_Fall_2025.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Some Notes on Scattering Resonances &lt;a href=&#34;http://localhost:1313/files/scatteringresonances.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;purdue-qualifying-exam-study-materials&#34;&gt;Purdue Qualifying Exam Study Materials&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;MA 530 Complex Analysis &lt;a href=&#34;http://localhost:1313/files/ma530.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;MA 553 Abstract Algebra &lt;a href=&#34;http://localhost:1313/files/ma553.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;MA 544 Real Analysis &lt;a href=&#34;http://localhost:1313/files/ma544.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;MA 554 Linear Algebra &lt;a href=&#34;http://localhost:1313/files/ma554.pdf&#34;&gt;[pdf]&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;presentations&#34;&gt;Presentations&lt;/h2&gt;&#xA;&lt;h3 id=&#34;upcoming&#34;&gt;Upcoming&lt;/h3&gt;&#xA;&lt;p&gt;&lt;em&gt;None upcoming&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

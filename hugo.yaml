@@ -11,6 +11,12 @@ permalinks:
   note: "/note/:year/:month/:day/:slug/"
   post: "/post/:year/:month/:day/:slug/"
 
+menu:
+  main:
+    - name: Ramblings
+      url: "pages/"
+      weight: 5
+
 markup:
   goldmark:
     renderer:
@@ -32,5 +38,5 @@ markup:
 
 params:
   math: true
-  description: "A website built through Hugo and blogdown."
+  description: "A website built through Hugo."
   footer: "&copy; Kale Stahl 2024 -- {Year} | [Github](https://github.com/kalestahl)"
