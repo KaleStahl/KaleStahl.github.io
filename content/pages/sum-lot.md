@@ -202,5 +202,23 @@ These are a few of the cards you should definitely consider when building decks 
 
 ---
 
-
 # Decklists
+
+- Baby Buzzwole Garbodor ![buzzgarb]("E:\_repos\KaleStahl.github.io\static\boxsprites\buzzwole.png")
+- Buzzwole Lycanroc ![buzzroc]("E:\_repos\KaleStahl.github.io\static\boxsprites\buzzwole.png")
+- Dusk Mane Necrozma ![dusk mane](E:\_repos\KaleStahl.github.io\static\boxsprites\necrozma-dusk.png)
+- Empoleon
+- Garchomp
+- Gardevoir Swampert
+- Granbull
+- Lost March
+- Malamar
+- Rayquaza Vikavolt
+- Sceptile
+- Steelix Stall
+- White Kyurem
+- Zoroark Decidueye
+- Zoroark Lycanroc
+- Zoroark Glaceon
+
+
