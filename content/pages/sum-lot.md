@@ -11,8 +11,18 @@ tags:
   - 2018
 ---
 
+# Table of Contents
 
- 
+- 1: [An Introduction to SUM-LOT](#an-introduction-to-sum-lot)
+- 2: [Important Cards](#important-cards)
+  - [Supporters](#supporters)
+  - [Items](#item-cards)
+  - [Stadiums](#stadiums)
+  - [Pokemon](#pokemon)
+- 3: [An Overview of the Metagame](#metagame)
+- 4: [Decklists](#decklists)
+
+---
 
 # An Introduction to SUM-LOT
 
@@ -29,7 +39,9 @@ When I say that this format is not "toxic" I mean the following:
  - 2: There are multiple Tier 1 Decks, meaning there are options when it comes to picking a viable deck
  - 3: Few decks lose to a single card tech inclusion, such as an immunity ability or stadium that hard-counters an entire strategy.
 
-Avid SUM-LOT players may conclude that point 1 is false in this format. They would be mostly correct, but I argue it won't matter if you are playing casually. For the most part, this format has many decks that are fun, consistent, and have a decent matchup spread, making it a great format to build some decks and play with your friends. At the time I built these decks (Summer 2023) they were quite affordable (~$40 a deck) to get everything in the correct printing and in decent condition, making SUM-LOT an even better choice for players just starting their venture into retro formats. The format is also quite skill expressive, with many control-type decks running around, players can easily be "skill-diffed" even in losing matchups.
+Avid SUM-LOT players may conclude that point 1 is false in this format. They would be mostly correct, but I argue it won't matter if you are playing casually. When you aren't playing in organized tournaments, you make the rules! If you don't like playing against control or walls, just don't build it! This allows you to have a curated metagame where you only play the fun matchups. If your favorite deck has an autoloss, you can just not play that matchup, or put in techs just for that game and take them out otherwise. Of course, this does mean if you attend organized tournaments with prizing on the line you might have to play your hated decks, but that's what the prizing is for! Nothing good comes easy, and Pokemon is no different!
+
+ For the most part, this format has many decks that are fun, consistent, and have a decent matchup spread, making it a great format to build some decks and play with your friends. At the time I built these decks (Summer 2023) they were quite affordable (~$40 a deck) to get everything in the correct printing and in decent condition, making SUM-LOT an even better choice for players just starting their venture into retro formats. The format is also quite skill expressive, with many control-type decks running around, players can easily be "skill-diffed" even in losing matchups.
 
 ## The Rules
 The basic rules of the Pokemon TCG have stayed largely the same since its inception, but certain rules or mechanics have been tweaked throughout the years. Below are some of the bigger changes from modern-day (2025) standard format:
@@ -222,13 +234,15 @@ These are a few of the cards you should definitely consider when building decks 
 
 # Metagame
 
-| Deck   Archetype                                                                                                                                                                                                                                                                 | Population | Meta Percentage | Best Tournament Finish                                     |
+Since this format is no longer being played competively (at least officially), the only hard data we have to go off is from 2018 when it was played. Luckily, the amazing [Limitless.tcg](https://limitlesstcg.com/tournaments?time=all&type=all&format=SUM-LOT&region=all) has a lot of data on most of the major tournaments that happened at the time, so I can do some data analysis on that. Table 1 is created by me compiling all of the available data from Limitless, and then filtering based on more general archetypes than Limitless does. The meta percentages do not add up to 100%, and that is because certain decks qualify for multiple archetypes, so decks like Zoroark-Glaceon count as both a Zoroark deck and a Glaceon deck. Limitless data is usually limited to only Day 2 qualifiers or Top 8 in smaller tournaments, so this is not a perfect representation of the metagame at the time, but I feel like it can give you a gist of what the top decks were in the meta at any given time.
+
+| Deck   Archetype                                                                                                                                                                                                                                                                 | Number of Decks | Meta Percentage | Best Tournament Finish                                     |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|------------------------------------------------------------|
 | <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Zoroark                                                                                                                                                   | 71         | 28.74%          | Daniel Altavilla, 1st Place LAIC                           |
 | <img src="/boxsprites/blacephalon.png" alt="blacephalon" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/naganadel.png" alt="naganadel" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Blacephalon Naganadel | 48         | 19.43%          | Vicente Rodriguez Cuevas, 1st Place Special Event Chile    |
-| <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Control                                                                                                                                                 | 31         | 12.55%          | Daniel Altavilla 1st Place LAIC                            |
 | <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Malamar                                                                                                                                                   | 31         | 12.55%          | Tye Pellecchia, 1st Place Special Event Costa Rica         |
 | <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Decidueye                                                                                                                                             | 25         | 10.12%          | Angus Johnson, 1st Place Brisbane Regional                 |
+| <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Control                                                                                                                                                 | 24       | 9.64%          | Daniel Altavilla 1st Place LAIC                            |
 | <img src="/boxsprites/tapu-koko.png" alt="tapukoko" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/passimian.png" alt="passimian" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Tapu Koko Spread             | 17         | 6.88%           | Patricia Gonzalez Walsh, 1st Place Special Event Argentina |
 | <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Granbull                                                                                                                                                | 16         | 6.48%           | Nicolas Galaz, 2nd Place LAIC                              |
 | <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Buzzwole Lycanroc     | 14         | 5.67%           | Alex Schemanske, 5th Place LAIC                            |
@@ -244,7 +258,36 @@ These are a few of the cards you should definitely consider when building decks 
 | <img src="/boxsprites/greninja.png" alt="greninja" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Greninja                                                                                                                                                | 1          | 0.40%           | Siddequr Rahman, 24th Place Harrogate Regional             |
 | <img src="/boxsprites/naganadel.png" alt="nagandel" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/quagsire.png" alt="quagsire" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Naganadel Quagsire            | 1          | 0.40%           |       Matt Vuchichevich, 53rd Place Roanoke Regional       |
 
+  <p align="center">
+    *Table 1 - General Metagame*
+  </p>
+
+The thing that sticks out immediately is the absolute dominance of Zoroark in terms of meta representation. Rarely does one archetype hit 20%, so 28% is very high, especially considering the limited data. We can expand this in Table 2 to see that this is actually a bunch of different decks in hiding!
+
+| Deck Archetype              | Number of Decks | Meta Percentage | Best Tournament Finish                                  |
+|-----------------------------|-----------------|-----------------|---------------------------------------------------------|
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />Zoroark Decidueye Ninetales |        19       |      7.63%      |       Angus Johnson, 1st Place Brisbane Regionals       |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Lycanroc      |        19       |      7.63%      |  Javier Orrego Letelier, 4th Place Special Event Chile  |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Weavile       |        7        |      2.81%      | Gabriel Pereira Pinto, 3rd Place Special Event Campinos |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Control       |        6        |      2.41%      |             Daniel Altavilla, 1st Place LAIC            |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" />    Zoroark Decidueye      |        5        |      2.01%      |   Jonathan Fabrizio Bellucci Lanciano, 4th Place LAIC   |
+| <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />     Zoroark Lycanroc Weavile  |        5        |      2.01%      |       Alex Silva, 1st Place Special Event Campinos      |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales-alola" style="height:1.5em; vertical-align:middle; display:inline-block;" />      Zoroark Ninetales      |        3        |      1.20%      |        Jack Culkin, 3rd Place Harrogate Regional        |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales-alola" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />      Zoroark Ninetales Weavile  |        2        |      0.80%      |     Rahul Reddy, 3rd Place Special Event Costa Rica     |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/gyarados.png" alt="gyarados" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Gyarados      |        2        |      0.80%      |       Philip Schulz, 1st Place Harrogate Regional       |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Glaceon       |        1        |      0.40%      |      Roberto Gomes Coregio Junior, 10th Place LAIC      |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Buzzwole      |        1        |      0.40%      |          Agustín Correa Pasini, 60th Place LAIC         |
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales-alola" style="height:1.5em; vertical-align:middle; display:inline-block;" />     Zoroark Lycanroc Ninetales |        1        |      0.40%      |        Austin Ellis, 15th Place Roanoke Regional        |
+
+  <p align="center">
+    *Table 2 - Zoroark Archetypes*
+  </p>
+
+  Though each of the Zoroark decks are distinct enough that I would not consider them one deck, they all have very similar strategies (minus control, I'll talk about that in a second). Zoroark serves as a draw engine and early game attacker, and then the partner is either additional support in the case of Ninetales or Decidueye, or a strong late game attacker that can efficiently utilize a single attachment or DCE, like Lycanroc or Weavile. Zoroark allows for these decks to also function as pure Zoroark decks if the partner is not useful for a certain matchups, so there is rarely a reason to not run a partner since Zoroark is so strong on its own.
+
 ---
+
+
 # Decklists
 
 - [Baby Buzzwole Garbodor](#Baby-Buzzwole-Garbodor) <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
@@ -262,7 +305,7 @@ These are a few of the cards you should definitely consider when building decks 
 - [White Kyurem](#white-kyurem)  <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 - [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 - [Zoroark Lycanroc](#zoroark-lycanroc) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Zoroark Glaceon](#zoroark-glaceon) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Zoroark Glaceon](#zoroark-glaceon) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> 
 
 ---
 
