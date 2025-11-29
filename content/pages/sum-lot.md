@@ -1,7 +1,6 @@
 ---
 title: A Beginner's Guide to the Sun \& Moon through Lost Thunder Format
 author: Kale Stahl
-date: '2025-11-26'
 categories:
   - Retro Pokemon TCG
   - Deck Showcase
@@ -204,21 +203,156 @@ These are a few of the cards you should definitely consider when building decks 
 
 # Decklists
 
-- Baby Buzzwole Garbodor ![buzzgarb]("E:\_repos\KaleStahl.github.io\static\boxsprites\buzzwole.png")
-- Buzzwole Lycanroc ![buzzroc]("E:\_repos\KaleStahl.github.io\static\boxsprites\buzzwole.png")
-- Dusk Mane Necrozma ![dusk mane](E:\_repos\KaleStahl.github.io\static\boxsprites\necrozma-dusk.png)
-- Empoleon
-- Garchomp
-- Gardevoir Swampert
-- Granbull
-- Lost March
-- Malamar
-- Rayquaza Vikavolt
-- Sceptile
-- Steelix Stall
-- White Kyurem
-- Zoroark Decidueye
-- Zoroark Lycanroc
-- Zoroark Glaceon
+- [Baby Buzzwole Garbodor](#Baby-Buzzwole-Garbodor) <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Buzzwole Lycanroc Ninetales](#buzzwole-lycanroc-ninetales)<img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Dusk Mane Necrozma](#dusk-mane-necrozma) <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> <img src="/boxsprites/dialga.png" alt="dialga" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/magnezone.png" alt="magnezone" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Empoleon](#empoleon) <img src="/boxsprites/empoleon.png" alt="empoleon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Garchomp](#garchomp) <img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Gardevoir Swampert Ninetales](#gardevoir-swampert-ninetales) <img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Granbull](#granbull)  <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Lost March](#lost-march)  <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Malamar](#malamar)  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Rayquaza Vikavolt](#rayquaza-vikavolt)  <img src="/boxsprites/rayquaza.png" alt="rayquaza" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/vikavolt.png" alt="vikavolt" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Sceptile](#sceptile)  <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Steelix Stall](#steelix-stall)  <img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [White Kyurem](#white-kyurem)  <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Zoroark Lycanroc](#zoroark-lycanroc) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Zoroark Glaceon](#zoroark-glaceon) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+---
+
+
+
+## Baby Buzzwole Garbodor <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/buzzgarb-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Buzzwole Lycanroc Ninetales<img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/buzzroc-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+
+## Dusk Mane Necrozma <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> <img src="/boxsprites/dialga.png" alt="dialga" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/magnezone.png" alt="magnezone" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/duskmane-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Empoleon <img src="/boxsprites/empoleon.png" alt="empoleon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/empoleon-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+| Pokemon                       | Trainer                           | Energy                                  |
+|-------------------------------|-----------------------------------|-----------------------------------------|
+| 4 Piplup UPR 31               | 4 Professor Elm's Lecture LOT 188 | 4 Water Energy Energy 20                |
+| 2 Prinplup UPR 33             | 3 Cynthia UPR 119                 | 4 Counter Energy CIN 100                |
+| 3 Empoleon UPR 34             | 2 Guzma BUS 115                   | 1 Super Boost Energy Prism Star UPR 136 |
+| 1 Empoleon FLI 81             | 1 Professor Kukui SUM 128         | 1 Rainbow Energy SUM 137                |
+| 3 Mudkip CES 32               | 1 Lillie SLG 62                   |                                         |
+| 2 Marshtomp CES 34            | 4 Rare Candy SUM 129              |                                         |
+| 2 Swampert CES 35             | 3 Timer Ball SUM 134              |                                         |
+| 2 Alolan Vulpix GRI 21        | 2 Aqua Patch GRI 119              |                                         |
+| 2 Alolan Ninetales-GX LOT 132 | 2 Rescue Stretcher GRI 130        |                                         |
+| 1 Oranguru UPR 114            | 1 Pal Pad UPR 132                 |                                         |
+|                               | 1 Counter Catcher CIN 91          |                                         |
+|                               | 1 Switch CES 147                  |                                         |
+|                               | 2 Choice Band GRI 121             |                                         |
+|                               | 1 Brooklet Hill GRI 120           |                                         |
+
+## Garchomp <img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/garchomp-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+
+## Gardevoir Swampert Ninetales <img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/gardevoir-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Granbull  <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/granbull-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Lost March  <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/lostmarch-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Malamar  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/malamar-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Rayquaza Vikavolt  <img src="/boxsprites/rayquaza.png" alt="rayquaza" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/vikavolt.png" alt="vikavolt" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/vikaray-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Sceptile  <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/sceptile-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Steelix Stall  <img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/steelix-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## White Kyurem  <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/whitekyurem-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Zoroark Decidueye Ninetales <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/zorodecitales-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Zoroark Lycanroc <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/zororoc-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
+
+## Zoroark Glaceon <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+
+  <p align="center">
+    <img src = "/Decklists/zoroglace-SUMLOT.jpg" width="1000" class="center" />
+    *Photo Credit - Kale Stahl*
+  </p>
 
 
