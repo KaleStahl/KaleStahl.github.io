@@ -3,7 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/research/</loc>
   </url><url>
@@ -12,33 +11,23 @@
     <loc>http://localhost:1313/about/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/2018/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/sum-lot/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/deck-showcase/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/pages/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pokemon-tcg/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/retro-formats/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/retro-pokemon-tcg/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sum-lot/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-26T00:00:00+00:00</lastmod>
   </url>
 </urlset>

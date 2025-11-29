@@ -12,29 +12,40 @@ tags:
 ---
 
 
-  The Sun and Moon era of the Pokemon TCG is looked back on extremely fondly by competitively players, and rightly so. After the dominance of big-basic strategies in the Black and White era, and them continuing into XY due to the lackluster Mega Evolution mechanic, it was exciting to see the evolving Pokemon GX take over the reigns. With the introduction of the first few Sun and Moon sets, many of the less than desirable attributes of the XY era persisted: an over reliance on "turbo" item cards, basic pokemon dominating the format, and supporters that were extremely powerful with no negative impact on deck consistency. Almost every deck ran 4 Trainers' mail, VS Seeker and Puzzle of Time, with hopes of setting up faster than their opponent. If this wasn't enough, the format included Professor Sycamore for draw support, N for late game disruption and even more early draw support, and Lysandre for unconditional gusting, all with unparalleled ease of access with VS seeker.
+ 
+
+# An Introduction to SUM-LOT
+
+ The Sun and Moon era of the Pokemon TCG is looked back on extremely fondly by competitively players, and rightly so. After the dominance of big-basic strategies in the Black and White era, and them continuing into XY due to the lackluster Mega Evolution mechanic, it was exciting to see the evolving Pokemon GX take over the reigns. With the introduction of the first few Sun and Moon sets, many of the less than desirable attributes of the XY era persisted: an over reliance on "turbo" item cards, basic pokemon dominating the format, and supporters that were extremely powerful with no negative impact on deck consistency. Almost every deck ran 4 Trainers' mail, VS Seeker and Puzzle of Time, with hopes of setting up faster than their opponent. If this wasn't enough, the format included Professor Sycamore for draw support, N for late game disruption and even more early draw support, and Lysandre for unconditional gusting, all with unparalleled ease of access with VS seeker.
 
   <p align="center">
     <img src = "/Sun-Moon-Promo-Art.png" width="1000" class="center" />
   </p>
 
   The 2017 and 2018 seasons went on with most of these cards legal, but the new, slower game-design brought on with Pokemon GX was beginning to shine through. It wasn't until all of the XY cards rotated out, do I think the format really got REALLY good. Unfortunately, this format only lasted until Team Up, when Pokemon decided to go back on everything that made Sun and Moon good and introduce insanely powerful basic 3-prize Tag Teams which took the format right back into the grips of turbo big basics. For this short time in 2018, from Sun and Moon base to Lost Thunder, we had one of the most fun and least toxic formats the TCG has seen in its modern era.
-
-# An Introduction to SUM-LOT
 When I say that this format is not "toxic" I mean the following:
 
- - 1: There is no Tier 0 Deck
- - 2: There are multiple Tier 1 Decks
- - 3: Few decks lose to a single card tech inclusion
+ - 1: There is no Tier 0 Deck, that is, a deck that is so much better than anything else you either play it or hard counter it.
+ - 2: There are multiple Tier 1 Decks, meaning there are options when it comes to picking a viable deck
+ - 3: Few decks lose to a single card tech inclusion, such as an immunity ability or stadium that hard-counters an entire strategy.
 
-Avid SUM-LOT players may conclude that point 1 is false in this format. They would be mostly correct, but I argue it won't matter if you are playing casually. For the most part, this format has many decks that are fun, consistent, and have a decent matchup spread, making it a great format to build some decks and play with your friends. At the time I built these decks (Summer 2023) they were quite affordable (~$40 a deck) to get everything in the correct printing and in decent condition, making SUM-LOT an even better choice for players just starting their venture into retro formats.
+Avid SUM-LOT players may conclude that point 1 is false in this format. They would be mostly correct, but I argue it won't matter if you are playing casually. For the most part, this format has many decks that are fun, consistent, and have a decent matchup spread, making it a great format to build some decks and play with your friends. At the time I built these decks (Summer 2023) they were quite affordable (~$40 a deck) to get everything in the correct printing and in decent condition, making SUM-LOT an even better choice for players just starting their venture into retro formats. The format is also quite skill expressive, with many control-type decks running around, players can easily be "skill-diffed" even in losing matchups.
 
-## Important Cards
+## The Rules
+The basic rules of the Pokemon TCG have stayed largely the same since its inception, but certain rules or mechanics have been tweaked throughout the years. Below are some of the bigger changes from modern-day (2025) standard format:
+- The player going first can use items, stadiums, tools, attach energy, AND use supporters on their first turn. They may not attack.
+- Pokemon Tool cards are considered item cards.
+- Pokemon GX give up 2 prizes when knocked out and follow normal evolution rules.
+- Each Pokemon GX possesses a GX move. When one of these moves are used that player flips their GX marker and cannot use another GX move in this game.
+- Prism Star Cards are limited to one per name in your deck, i.e. you can have one Ditto Prism Star and one Cyrus Prism Star, but not two of either. When they would be discarded, they are instead sent to the lost zone. This makes them impossible to recycle.
+
+
+# Important Cards
 In this section, I'll detail some of the most important and influential cards that appear in SUM-LOT. This format is extremely diverse, so these are just the heavy hitters. I encourage you to look at other resources and see what other cards could be good in any deck you're building! Just because someone else didn't play it doesn't mean it won't make the deck better. Even though their time in the spotlight is over, retro formats are constantly evolving and SUM-LOT is no different.
 
 ---
 
-### Supporters
+## Supporters
 <div>
 <p>
 Unlike modern formats, supporters were still able to be played on the first turn for the player going first. This allows for many more setup options for both players. Lysandre, N, and Professor Sycamore just rotated, so players were scrambling to find supporters to fill the void these three powerhouses left. 
@@ -89,7 +100,7 @@ There are more niche supporters that see quite a bit of play, such as Professor 
 
 ---
 
-### Item Cards
+## Item Cards
 <div>
 Unlike other formats, items are not at the forefront of SUM-LOT, which in my opinion is good! Fewer must-play items generally allows for a slower, more methodical pace to games. In my time playing this format, rarely am I playing more than two or three item cards a turn and my entire setup isn't stunted if I miss a few key combos turn one (*cough* worlds 2016 *cough*). 
 
@@ -137,7 +148,7 @@ Despite not having a variety of tools and as we'll later see, stadiums, Guardian
 
 ---
 
-### Stadiums
+## Stadiums
 <div>
   <p>
     <img src = "/Pokemon_Cards/brooklet-hill.png" 
@@ -162,7 +173,7 @@ Despite not having a variety of tools and as we'll later see, stadiums, Guardian
 
 ---
 
-### Pokemon
+## Pokemon
 <div>
 Trainers are fun, but Pokemon are (literally) the name of the game. Pokemon GX are Sun and Moon's new mechanic, and boy are they good. They give up two prizes when knocked out like Pokemon EX before them, but as I mentioned previously, they follow the normal evolution rules. Rowlet evolves into Dartrix, which then can evolve into Decidueye GX. This small change is massive since the evolving Pokemon are so much stronger than their basic counterparts, so-called "big basic" strategies are phased out in favor of evolving Pokemon GX. The GX mechanic also tries to parallel the video games' Z-moves with each Pokemon GX having a special GX attack. These moves are extremely powerful, and once you use one you must flip a marker and are unable to use a GX attack for the rest of the game. These once-per game attacks, while not game breaking, are an interesting change of pace and allow for long term decision making not only on when to use your GX attack, but which one to use since all Pokemon GX possess one.
 
@@ -194,6 +205,14 @@ Zoroark GX is able to give decks a solid draw engine on a stage 1, but what if y
     style="float: left; margin: 0px 20px 0px 0px;" />
 Unlike other formats with Marnie, N, Iono, or Rocket's Admin, the only real supporter based hand disruption present in SUM-LOT is Judge. For the record, Judge is absolutely not bad, it just is not usualy your first choice for your single supporter for turn. But what if judge was usable as an ability? Enter Marshadow's Let Loose. First seen on Giratina from Platinum, this ability essentials lets you play judge whenever you bench it from hand. Since it doesn't take your supporter slot, you can either Let Loose in hopes of finding a supporter, or use a supporter to find your Marshadow. Some think that the ability to play both a turn 1 supporter and Let Loose could be toxic; forcing your opponent to start with a 4 card hand before they even get to do anything. I am not of this camp. The abundant Pokemon and supproter search with Tapu Lele GX makes an early Let Loose not nearly as effective as late game once you know what resources your opponent has left. While some players may try to brick their opponent off an early Let Loose, I've found that it rarely wins games outright, if doing anything at all.
 
+<img
+    src = "/Pokemon_Cards/dittoprism.png" 
+    width="200" 
+    class="center" 
+    alt = "Ditto Prism Star - LOT" 
+    style="float: right; margin: 0px 0px 20px 0px;" />
+Ditto Prism Star might be my absolute favorite card ever printed. Its ability lets you put any stage 1 onto it to evolve it as if it were the proper basic, with no other cost! This can act as a fifth basic in decks that really rely on getting their evolutions going, or a cheeky way to play tech evolution cards. Many decks would play Alolan Muk or Magcargo and not even run the basic Alolan Grimer or Slugma, just Ditto Prism Star! The best part? If you are playing a matchup where you don't need to set up your tech card, Ditto can be any other basic! It allows for niche strategies without hindering your consistency. This card is an absolute staple in any deck that plays stage 1s, and I love the versatility and strategy it brings to the game.
+
 These are a few of the cards you should definitely consider when building decks for this format -- either playing them or finding ways to couter them. This format is quite wide and has many viable strategies, so just because Zoroark is good, doesn't mean everyone will play it!
 
 </div>
@@ -201,6 +220,31 @@ These are a few of the cards you should definitely consider when building decks 
 
 ---
 
+# Metagame
+
+| Deck   Archetype                                                                                                                                                                                                                                                                 | Population | Meta Percentage | Best Tournament Finish                                     |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|------------------------------------------------------------|
+| <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Zoroark                                                                                                                                                   | 71         | 28.74%          | Daniel Altavilla, 1st Place LAIC                           |
+| <img src="/boxsprites/blacephalon.png" alt="blacephalon" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/naganadel.png" alt="naganadel" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Blacephalon Naganadel | 48         | 19.43%          | Vicente Rodriguez Cuevas, 1st Place Special Event Chile    |
+| <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Control                                                                                                                                                 | 31         | 12.55%          | Daniel Altavilla 1st Place LAIC                            |
+| <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Malamar                                                                                                                                                   | 31         | 12.55%          | Tye Pellecchia, 1st Place Special Event Costa Rica         |
+| <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Decidueye                                                                                                                                             | 25         | 10.12%          | Angus Johnson, 1st Place Brisbane Regional                 |
+| <img src="/boxsprites/tapu-koko.png" alt="tapukoko" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/passimian.png" alt="passimian" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Tapu Koko Spread             | 17         | 6.88%           | Patricia Gonzalez Walsh, 1st Place Special Event Argentina |
+| <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Granbull                                                                                                                                                | 16         | 6.48%           | Nicolas Galaz, 2nd Place LAIC                              |
+| <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Buzzwole Lycanroc     | 14         | 5.67%           | Alex Schemanske, 5th Place LAIC                            |
+| <img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Gardevoir                                                                                                                                            | 11         | 4.45%           | Jimmy Pendarvis, 1st Place Roanoke Regional                |
+| <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Lost   March                           | 11         | 4.45%           | Oscar Taboada, 2nd Place Special Event Peru                |
+| <img src="/boxsprites/rayquaza.png" alt="rayquaza" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/vikavolt.png" alt="vikavolt" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Rayquaza Vikavolt             | 6          | 2.43%           | Marcelo Magalhaes, 9th Place LAIC                          |
+| <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />Sceptile                                                                                                                                                 | 5          | 2.02%           | Gregory Chrisholm, 5th Place Special Event Costa Rica      |
+| <img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Steelix                                                                                                                                                   | 5          | 2.02%           | Adrian Fjell, 11th Place Harrogate Regional                |
+| <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Buzzgarb                       | 4          | 1.62%           | Sultan Alneyadi, 1st Place Special Event Dubai             |
+| <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Glaceon                                                                                                                                                   | 3          | 1.21%           | Roberto Gomes Coregio Junior, 10th Place LAIC              |
+| <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" /> White Kyurem                                                                                                                                          | 2          | 0.81%           | Bolly Olufon, 9th Place Harrogate Regional                 |
+| <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> Necrozma Dusk Mane                                                                                                                                | 2          | 0.81%           | Tomas Osorio Sanzana, 16th Place Special Event Chile       |
+| <img src="/boxsprites/greninja.png" alt="greninja" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Greninja                                                                                                                                                | 1          | 0.40%           | Siddequr Rahman, 24th Place Harrogate Regional             |
+| <img src="/boxsprites/naganadel.png" alt="nagandel" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/quagsire.png" alt="quagsire" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Naganadel Quagsire            | 1          | 0.40%           |       Matt Vuchichevich, 53rd Place Roanoke Regional       |
+
+---
 # Decklists
 
 - [Baby Buzzwole Garbodor](#Baby-Buzzwole-Garbodor) <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
@@ -228,131 +272,402 @@ These are a few of the cards you should definitely consider when building decks 
 
   <p align="center">
     <img src = "/Decklists/buzzgarb-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+  | Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 4 Buzzwole FLI 77 | 4 Lillie SLG 62 | 4 Unit Energy FDY FLI 118 |
+| 2 Slugma CES 23 | 3 Judge FLI 108 | 4 Rainbow Energy SUM 137 |
+| 2 Magcargo CES 24 | 3 Guzma BUS 115 | 1 Beast Energy Prism Star FLI 117 |
+| 2 Sneasel UPR 73 | 2 Professor Kukui SUM 128 | 1 Counter Energy CIN 100 |
+| 2 Weavile UPR 74 | 1 Cynthia UPR 119 |  |
+| 2 Trubbish GRI 50 | 1 Tate & Liza CES 148 |  |
+| 2 Garbodor GRI 51 | 4 Ultra Ball SLG 68 |  |
+| 1 Ditto Prism Star LOT 154 | 4 Nest Ball SUM 123 |  |
+| 1 Diancie Prism Star FLI 74 | 1 Acro Bike CES 123 |  |
+| 1 Oranguru SUM 113 | 1 Rescue Stretcher GRI 130 |  |
+|  | 1 Switch SLG 67 |  |
+|  | 3 Choice Band GRI 121 |  |
+|  | 3 Shrine of Punishment CES 143 |  |
+
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI770232CES230232CES240232UPR730232UPR740232GRI500232GRI510133LOT1540132FLI740133SUM1130432SLG620333FLI1080333BUS1150233SUM1280133UPR1190133CES1480432SLG680433SUM1230133CES1230133GRI1300132SLG670333GRI1210333CES1430433FLI1180433SUM1370133FLI1170133CIN100) 
 
 ## Buzzwole Lycanroc Ninetales<img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/buzzroc-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
+    *List Credit - Alex Schemanske*
   </p>
+
+  | Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 4 Buzzwole-GX CIN 57 | 4 Cynthia UPR 119 | 7 Fighting Energy Energy 23 |
+| 2 Rockruff FLI 75 | 3 Guzma BUS 115 | 4 Unit Energy FDY FLI 118 |
+| 2 Lycanroc-GX GRI 74 | 3 Professor Kukui SUM 128 | 1 Beast Energy Prism Star FLI 117 |
+| 2 Alolan Vulpix GRI 21 | 2 Lillie SUM 122 |  |
+| 2 Alolan Ninetales-GX LOT 132 | 1 Lisia CES 137 |  |
+| 2 Tapu Lele-GX GRI 60 | 4 Ultra Ball SLG 68 |  |
+| 1 Buzzwole FLI 77 | 3 Beast Ring FLI 102 |  |
+| 1 Diancie Prism Star FLI 74 | 2 Switch CES 147 |  |
+| 1 Girafarig LOT 94 | 1 Multi Switch GRI 129 |  |
+| 1 Marshadow SLG 45 | 1 Field Blower GRI 125 |  |
+|  | 1 Rescue Stretcher GRI 130 |  |
+|  | 2 Choice Band GRI 121 |  |
+|  | 3 Brooklet Hill GRI 120 |  |
+  
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432CIN570232FLI750232GRI740232GRI210233LOT1320232GRI600132FLI770132FLI740132LOT940132SLG450433UPR1190333BUS1150333SUM1280233SUM1220133CES1370432SLG680333FLI1020233CES1470133GRI1290133GRI1250133GRI1300233GRI1210333GRI1200731SUMF0433FLI1180133FLI117)
 
 
 ## Dusk Mane Necrozma <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> <img src="/boxsprites/dialga.png" alt="dialga" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/magnezone.png" alt="magnezone" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/duskmane-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
+    *List Credit - Joe Turrentine*
   </p>
+
+  | Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 3 Magnemite UPR 81 | 4 Cynthia UPR 119 | 10 Metal Energy Energy 25 |
+| 1 Magnemite UPR 80 | 3 Steven's Resolve CES 145 | 1 Beast Energy Prism Star FLI 117 |
+| 3 Magnezone UPR 83 | 2 Guzma BUS 115 |  |
+| 3 Dusk Mane Necrozma-GX UPR 90 | 2 Fisherman CES 130 |  |
+| 3 Dialga LOT 127 | 2 Lady FLI 109 |  |
+| 2 Tapu Lele-GX GRI 60 | 1 Lillie UPR 125 |  |
+|  | 1 Sightseer LOT 189 |  |
+|  | 4 Nest Ball SUM 123 |  |
+|  | 4 Ultra Ball SUM 135 |  |
+|  | 4 Rare Candy SUM 129 |  |
+|  | 3 Acro Bike CES 123 |  |
+|  | 4 Mt. Coronet UPR 130 |  |
+  
+[Limitless Import](https://my.limitlesstcg.com/builder?i=10332UPR810132UPR800332UPR830332UPR900333LOT1270232GRI600433UPR1190333CES1450233BUS1150233CES1300233FLI1090133UPR1250133LOT1890433SUM1230433SUM1350433SUM1290333CES1230433UPR1300a31SUMM0133FLI117)
 
 ## Empoleon <img src="/boxsprites/empoleon.png" alt="empoleon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/empoleon-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
 
-| Pokemon                       | Trainer                           | Energy                                  |
-|-------------------------------|-----------------------------------|-----------------------------------------|
-| 4 Piplup UPR 31               | 4 Professor Elm's Lecture LOT 188 | 4 Water Energy Energy 20                |
-| 2 Prinplup UPR 33             | 3 Cynthia UPR 119                 | 4 Counter Energy CIN 100                |
-| 3 Empoleon UPR 34             | 2 Guzma BUS 115                   | 1 Super Boost Energy Prism Star UPR 136 |
-| 1 Empoleon FLI 81             | 1 Professor Kukui SUM 128         | 1 Rainbow Energy SUM 137                |
-| 3 Mudkip CES 32               | 1 Lillie SLG 62                   |                                         |
-| 2 Marshtomp CES 34            | 4 Rare Candy SUM 129              |                                         |
-| 2 Swampert CES 35             | 3 Timer Ball SUM 134              |                                         |
-| 2 Alolan Vulpix GRI 21        | 2 Aqua Patch GRI 119              |                                         |
-| 2 Alolan Ninetales-GX LOT 132 | 2 Rescue Stretcher GRI 130        |                                         |
-| 1 Oranguru UPR 114            | 1 Pal Pad UPR 132                 |                                         |
-|                               | 1 Counter Catcher CIN 91          |                                         |
-|                               | 1 Switch CES 147                  |                                         |
-|                               | 2 Choice Band GRI 121             |                                         |
-|                               | 1 Brooklet Hill GRI 120           |                                         |
+| Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 4 Piplup UPR 31 | 4 Professor Elm's Lecture LOT 188 | 4 Water Energy Energy 20 |    
+| 2 Prinplup UPR 33 | 3 Cynthia UPR 119 | 4 Counter Energy CIN 100 |
+| 3 Empoleon UPR 34 | 2 Guzma BUS 115 | 1 Super Boost Energy Prism Star UPR 136 |     
+| 1 Empoleon FLI 81 | 1 Professor Kukui SUM 128 | 1 Rainbow Energy SUM 137 |
+| 3 Mudkip CES 32 | 1 Lillie SLG 62 |  |
+| 2 Marshtomp CES 34 | 4 Rare Candy SUM 129 |  |
+| 2 Swampert CES 35 | 3 Timer Ball SUM 134 |  |
+| 2 Alolan Vulpix GRI 21 | 2 Aqua Patch GRI 119 |  |
+| 2 Alolan Ninetales-GX LOT 132 | 2 Rescue Stretcher GRI 130 |  |
+| 1 Oranguru UPR 114 | 1 Pal Pad UPR 132 |  |
+|  | 1 Counter Catcher CIN 91 |  |
+|  | 1 Switch CES 147 |  |
+|  | 2 Choice Band GRI 121 |  |
+|  | 1 Brooklet Hill GRI 120 |  |
+
+[Limitless Import](https://my.limitlesstcg.com/builder?i=10432UPR310232UPR330332UPR340132FLI810332CES320232CES340232CES350232GRI210233LOT1320133UPR1140433LOT1880333UPR1190233BUS1150133SUM1280132SLG620433SUM1290333SUM1340233GRI1190233GRI1300133UPR1320132CIN910133CES1470233GRI1210133GRI1200431SUMW0433CIN1000133UPR1360133SUM137)
 
 ## Garchomp <img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/garchomp-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
+    *List Credit - Me*
   </p>
 
+| Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 4 Gible FLI 60 | 4 Cynthia UPR 119 | 4 Double Colorless Energy SLG 69 |
+| 2 Gabite FLI 61 | 2 Lillie SUM 122 | 4 Unit Energy FDY FLI 118 |
+| 4 Garchomp FLI 62 | 1 Guzma BUS 115 | 2 Fighting Energy Energy 23 |
+| 2 Alolan Vulpix GRI 21 | 4 Rare Candy CES 142 |  |
+| 2 Alolan Ninetales-GX LOT 132 | 4 Ultra Ball SLG 68 |  |
+| 2 Riolu UPR 66 | 4 Nest Ball SUM 123 |  |
+| 2 Lucario UPR 67 | 1 Counter Catcher CIN 91 |  |
+| 1 Ditto Prism Star LOT 154 | 1 Rescue Stretcher GRI 130 |  |
+| 1 Tapu Lele-GX CEL CC25 | 1 Pal Pad UPR 132 |  |
+| 1 Tapu Koko SMP 30 | 1 Switch SUM 132 |  |
+|  | 1 Energy Loto GRI 122 |  |
+|  | 2 Choice Band GRI 121 |  |
+|  | 1 Karate Belt UNM 201 |  |
+|  | 2 Brooklet Hill GRI 120 |  |
+  
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI600232FLI610432FLI620232GRI210233LOT1320232UPR660232UPR670133LOT1540134CELCC250132SMP300433UPR1190233SUM1220133BUS1150433CES1420432SLG680433SUM1230132CIN910133GRI1300133UPR1320133SUM1320133GRI1220233GRI1210133UNM2010233GRI1200432SLG690433FLI1180231SUMF)
 
 ## Gardevoir Swampert Ninetales <img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/gardevoir-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
+    *List Credit - Jimmy Pendarvis*
   </p>
+
+  | Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 3 Ralts BUS 91 | 4 Professor Elm's Lecture LOT 188 | 7 Fairy Energy Energy 26 |     
+| 1 Kirlia LOT 140 | 3 Cynthia UPR 119 | 4 Double Colorless Energy PHF 111 |
+| 3 Gardevoir-GX BUS 93 | 2 Guzma BUS 115 | 1 Super Boost Energy Prism Star UPR 136 | 
+| 2 Mudkip CES 32 | 1 Lillie UPR 125 |  |
+| 1 Marshtomp CES 34 | 1 Professor Kukui SUM 128 |  |
+| 2 Swampert CES 35 | 4 Ultra Ball SLG 68 |  |
+| 2 Alolan Vulpix GRI 21 | 4 Rare Candy SUM 129 |  |
+| 2 Alolan Ninetales-GX LOT 132 | 2 Max Potion GRI 128 |  |
+| 2 Tapu Lele-GX GRI 60 | 1 Timer Ball SUM 134 |  |
+| 1 Cosmog SUM 64 | 1 Energy Loto GRI 122 |  |
+| 1 Solgaleo-GX SMP 104 | 2 Choice Band GRI 121 |  |
+| 1 Ditto Prism Star LOT 154 | 2 Brooklet Hill GRI 120 |  |
+  
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10332BUS910133LOT1400332BUS930232CES320132CES340232CES350232GRI210233LOT1320232GRI600132SUM640133SMP1040133LOT1540433LOT1880333UPR1190233BUS1150133UPR1250133SUM1280432SLG680433SUM1290233GRI1280133SUM1340133GRI1220233GRI1210233GRI1200731SUMY0433PHF1110133UPR136)
 
 ## Granbull  <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/granbull-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+  | Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 4 Snubbull LOT 137 | 4 Apricorn Maker CES 124 | 6 Fairy Energy Energy 26 |
+| 4 Granbull LOT 138 | 3 Guzma BUS 115 |  |
+| 3 Slugma CES 23 | 2 Diantha FLI 105 |  |
+| 3 Magcargo CES 24 | 1 Tate & Liza CES 148 |  |
+| 3 Oranguru SUM 113 | 4 Great Ball SLG 60 |  |
+| 1 Ditto Prism Star LOT 154 | 4 Ultra Ball SLG 68 |  |
+|  | 4 Nest Ball SUM 123 |  |
+|  | 2 Rescue Stretcher GRI 130 |  |
+|  | 1 Energy Recycle System CES 128 |  |
+|  | 1 Mysterious Treasure FLI 113 |  |
+|  | 1 Field Blower GRI 125 |  |
+|  | 1 Switch CES 147 |  |
+|  | 1 Pal Pad UPR 132 |  |
+|  | 3 Choice Band GRI 121 |  |
+|  | 1 Bodybuilding Dumbbells BUS 113 |  |
+|  | 3 Shrine of Punishment CES 143 |  |
+  
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10433LOT1370433LOT1380332CES230332CES240333SUM1130133LOT1540433CES1240333BUS1150233FLI1050133CES1480432SLG600432SLG680433SUM1230233GRI1300133CES1280133FLI1130133GRI1250133CES1470133UPR1320333GRI1210133BUS1130333CES1430631SUMY)
 
 ## Lost March  <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/lostmarch-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+  | Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 4 Hoppip LOT 12 | 4 Lillie UPR 125 | 4 Double Colorless Energy SLG 69 |
+| 4 Skiploom LOT 13 | 3 Cynthia UPR 119 | 3 Grass Energy Energy 18 |
+| 4 Jumpluff LOT 14 | 2 Professor Elm's Lecture LOT 188 |  |
+| 4 Trumbeak LOT 165 | 2 Guzma BUS 115 |  |
+| 3 Natu LOT 87 | 4 Great Ball SUM 119 |  |
+| 3 Marshadow SLG 45 | 4 Ultra Ball SUM 135 |  |
+| 1 Slugma CES 23 | 4 Lost Blender LOT 181 |  |
+| 1 Magcargo CES 24 | 2 Net Ball LOT 187 |  |
+| 1 Oranguru SUM 113 | 2 Rescue Stretcher GRI 130 |  |
+| 1 Ditto Prism Star LOT 154 |  |  |
+ 
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432LOT120432LOT130432LOT140433LOT1650332LOT870332SLG450132CES230132CES240133SUM1130133LOT1540433UPR1250333UPR1190233LOT1880233BUS1150433SUM1190433SUM1350433LOT1810233LOT1870233GRI1300432SLG690331SUMG)
 
 ## Malamar  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/malamar-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+  | Pokemon | Trainer | Energy | 
+ |---|---|---|
+| 4 Inkay FLI 50 | 4 Cynthia UPR 119 | 10 Psychic Energy Energy 22 |
+| 4 Malamar FLI 51 | 4 Lillie SLG 62 |  |
+| 2 Necrozma-GX SMP 58 | 4 Guzma BUS 115 |  |
+| 2 Marshadow SLG 45 | 4 Acro Bike CES 123 |  |
+| 1 Dawn Wings Necrozma-GX UPR 63 | 4 Mysterious Treasure FLI 113 |  |
+| 1 Chimecho CIN 43 | 4 Ultra Ball SUM 135 |  |
+| 1 Lunala Prism Star UPR 62 | 3 Switch CES 147 |  |
+| 1 Marshadow-GX SMP 59 | 2 Nest Ball SUM 123 |  |
+| 1 Giratina LOT 97 | 1 Rescue Stretcher GRI 130 |  |
+| 1 Tapu Lele-GX GRI 60 | 2 Choice Band GRI 121 |  |
+ 
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI500432FLI510232SMP580232SLG450132UPR630132CIN430132UPR620132SMP590132LOT970132GRI600433UPR1190432SLG620433BUS1150433CES1230433FLI1130433SUM1350333CES1470233SUM1230133GRI1300233GRI1210a31SUMP)
 
 ## Rayquaza Vikavolt  <img src="/boxsprites/rayquaza.png" alt="rayquaza" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/vikavolt.png" alt="vikavolt" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/vikaray-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+| Pokemon | Trainer | Energy | 
+|---|---|---| 
+| 4 Rayquaza-GX CES 109 | 4 Guzma BUS 115 | 7 Grass Energy Energy 18 | 
+| 3 Grubbin SUM 13 | 3 Cynthia UPR 119 | 7 Lightning Energy Energy 21 | 
+| 3 Vikavolt SMP 28 | 3 Volkner UPR 135 |  | 
+| 2 Tapu Lele-GX GRI 60 | 2 Lillie SLG 62 |  | 
+| 2 Dhelmise CES 22 | 4 Ultra Ball SLG 68 |  | 
+| 1 Zeraora-GX LOT 86 | 4 Rare Candy SUM 129 |  | 
+| 1 Marshadow SLG 45 | 2 Nest Ball SUM 123 |  |
+|  | 2 Mysterious Treasure FLI 113 |  |
+|  | 2 Energy Recycler GRI 123 |  |
+|  | 2 Rescue Stretcher GRI 130 |  |
+|  | 2 Choice Band GRI 121 |  |
+
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10433CES1090332SUM130332SMP280232GRI600232CES220132LOT860132SLG450433BUS1150333UPR1190333UPR1350232SLG620432SLG680433SUM1290233SUM1230233FLI1130233GRI1230233GRI1300233GRI1210731SUMG0731SUML)
 
 ## Sceptile  <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/sceptile-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+| Pokemon | Trainer | Energy |
+ |---|---|---|
+| 4 Treecko LOT 20 | 4 Lillie UPR 125 | 7 Grass Energy Energy 18 |
+| 3 Grovyle LOT 21 | 4 Cynthia UPR 119 | 1 Super Boost Energy Prism Star UPR 136 |    
+| 3 Sceptile-GX LOT 22 | 3 Guzma BUS 115 |  |
+| 1 Sceptile CES 10a | 1 Tate & Liza CES 148 |  |
+| 2 Fomantis SUM 14 | 1 Professor Elm's Lecture LOT 188 |  |
+| 2 Lurantis SMP 25 | 1 Judge FLI 108 |  |
+| 2 Tapu Lele-GX GRI 60 | 4 Net Ball LOT 187 |  |
+| 1 Ditto Prism Star LOT 154 | 4 Ultra Ball SLG 68 |  |
+|  | 4 Rare Candy SUM 129 |  |
+|  | 2 Max Potion GRI 128 |  |
+|  | 1 Field Blower GRI 125 |  |
+|  | 1 Rescue Stretcher GRI 130 |  |
+|  | 3 Choice Band GRI 121 |  |
+|  | 1 Life Forest Prism Star LOT 180 |  |
+ 
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432LOT200332LOT210332LOT220133CES10a0232SUM140232SMP250232GRI600133LOT1540433UPR1250433UPR1190333BUS1150133CES1480133LOT1880133FLI1080433LOT1870432SLG680433SUM1290233GRI1280133GRI1250133GRI1300333GRI1210133LOT1800731SUMG0133UPR136)
 
 ## Steelix Stall  <img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/steelix-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+  | Pokemon              | Trainer                    | Energy                   |
+|----------------------|----------------------------|--------------------------|
+| 4 Onix LOT 109       | 4 Steven's Resolve CES 145 | 1 Water Energy Energy 20 |
+| 4 Steelix CES 89     | 4 Cynthia UPR 119          | 1 Rainbow Energy SUM 137 |
+| 2 Hoopa SLG 55       | 3 Acerola BUS 112          |                          |
+| 1 Oranguru UPR 114   | 3 Lusamine CIN 96          |                          |
+| 1 Unown LOT 91       | 2 Team Skull Grunt SUM 133 |                          |
+| 1 Lapras LOT 56      | 2 Plumeria BUS 120         |                          |
+| 1 Articuno-GX CES 31 | 1 Faba LOT 173             |                          |
+| 1 Girafarig LOT 94   | 1 Gladion CIN 95           |                          |
+|                      | 1 Tate & Liza CES 148      |                          |
+|                      | 1 Guzma BUS 115            |                          |
+|                      | 1 Copycat CES 127          |                          |
+|                      | 4 Max Potion GRI 128       |                          |
+|                      | 3 Enhanced Hammer GRI 124  |                          |
+|                      | 3 Crushing Hammer SUM 115  |                          |
+|                      | 2 Counter Catcher CIN 91   |                          |
+|                      | 1 Rescue Stretcher GRI 130 |                          |
+|                      | 1 Switch CES 147           |                          |
+|                      | 2 Metal Frying Pan FLI 112 |                          |
+|                      | 4 Brooklet Hill GRI 120    |                          |
+
+[Limitless Import](https://my.limitlesstcg.com/builder?i=10433LOT1090432CES890232SLG550133UPR1140132LOT910132LOT560132CES310132LOT940433CES1450433UPR1190333BUS1120332CIN960233SUM1330233BUS1200133LOT1730132CIN950133CES1480133BUS1150133CES1270433GRI1280333GRI1240333SUM1150232CIN910133GRI1300133CES1470233FLI1120433GRI1200131SUMW0133SUM137)
 
 ## White Kyurem  <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/whitekyurem-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
+    *List Credit - Bolly Olufon*
   </p>
+
+  | Pokemon                    | Trainer                         | Energy                   |
+|----------------------------|---------------------------------|--------------------------|
+| 4 White Kyurem LOT 63      | 4 Cynthia UPR 119               | 7 Water Energy Energy 20 |
+| 2 Blitzle LOT 81           | 4 Lillie UPR 125                | 4 Fire Energy Energy 19  |
+| 1 Zebstrika LOT 82         | 4 Guzma BUS 115                 |                          |
+| 2 Pheromosa FLI 11         | 1 Cyrus Prism Star UPR 120      |                          |
+| 1 Marshadow SLG 45         | 4 Ultra Ball SLG 68             |                          |
+| 1 Arceus Prism Star FLI 96 | 4 Nest Ball SUM 123             |                          |
+|                            | 4 Aqua Patch GRI 119            |                          |
+|                            | 2 Rescue Stretcher GRI 130      |                          |
+|                            | 1 Energy Recycle System CES 128 |                          |
+|                            | 4 Wishful Baton BUS 128         |                          |
+|                            | 2 Choice Band GRI 121           |                          |
+|                            | 4 Shrine of Punishment CES 143  |                          |
+  
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432LOT630232LOT810132LOT820232FLI110132SLG450132FLI960433UPR1190433UPR1250433BUS1150133UPR1200432SLG680433SUM1230433GRI1190233GRI1300133CES1280433BUS1280233GRI1210433CES1430731SUMW0431SUMR)
 
 ## Zoroark Decidueye Ninetales <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/zorodecitales-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+  | Pokemon                       | Trainer                           | Energy                            |
+|-------------------------------|-----------------------------------|-----------------------------------|
+| 3 Zorua SLG 52                | 4 Cynthia UPR 119                 | 4 Double Colorless Energy SUM 136 |
+| 3 Zoroark-GX SLG 53           | 4 Professor Elm's Lecture LOT 188 | 3 Fairy Energy Energy 26          |
+| 3 Rowlet SUM 9                | 3 Guzma BUS 115                   | 2 Rainbow Energy SUM 137          |
+| 1 Dartrix SUM 10              | 1 Acerola BUS 112                 |                                   |
+| 3 Decidueye-GX SUM 12         | 1 Judge FLI 108                   |                                   |
+| 3 Alolan Vulpix GRI 21        | 4 Ultra Ball SLG 68               |                                   |
+| 2 Alolan Ninetales-GX LOT 132 | 3 Rare Candy SUM 129              |                                   |
+| 1 Alolan Ninetales-GX GRI 22  | 1 Timer Ball SUM 134              |                                   |
+| 2 Tapu Lele-GX GRI 60         | 1 Counter Catcher CIN 91          |                                   |
+| 1 Ditto Prism Star LOT 154    | 1 Enhanced Hammer GRI 124         |                                   |
+|                               | 1 Max Potion GRI 128              |                                   |
+|                               | 1 Field Blower GRI 125            |                                   |
+|                               | 1 Rescue Stretcher GRI 130        |                                   |
+|                               | 2 Choice Band GRI 121             |                                   |
+|                               | 1 Counter Gain LOT 170            |                                   |
+
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10332SLG520332SLG530331SUM90132SUM100332SUM120332GRI210233LOT1320132GRI220232GRI600133LOT1540433UPR1190433LOT1880333BUS1150133BUS1120133FLI1080432SLG680333SUM1290133SUM1340132CIN910133GRI1240133GRI1280133GRI1250133GRI1300233GRI1210133LOT1700433SUM1360331SUMY0233SUM137)
 
 ## Zoroark Lycanroc <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/zororoc-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+  | Pokemon                    | Trainer                           | Energy                           |
+|----------------------------|-----------------------------------|----------------------------------|
+| 4 Zorua SLG 52             | 4 Professor Elm's Lecture LOT 188 | 4 Unit Energy FDY FLI 118        |
+| 4 Zoroark-GX SLG 53        | 3 Cynthia UPR 119                 | 4 Double Colorless Energy SLG 69 |
+| 2 Sneasel CES 86           | 2 Professor Kukui SUM 128         |                                  |
+| 2 Weavile UPR 74           | 2 Acerola BUS 112                 |                                  |
+| 2 Rockruff GRI 73          | 2 Guzma BUS 115                   |                                  |
+| 2 Lycanroc-GX GRI 74       | 1 Mallow GRI 127                  |                                  |
+| 2 Tapu Lele-GX GRI 60      | 4 Ultra Ball SLG 68               |                                  |
+| 1 Ditto Prism Star LOT 154 | 3 Timer Ball SUM 134              |                                  |
+| 1 Magcargo CES 24          | 1 Enhanced Hammer GRI 124         |                                  |
+|                            | 1 Switch SLG 67                   |                                  |
+|                            | 1 Multi Switch GRI 129            |                                  |
+|                            | 1 Pal Pad UPR 132                 |                                  |
+|                            | 1 Rescue Stretcher GRI 130        |                                  |
+|                            | 3 Choice Band GRI 121             |                                  |
+|                            | 1 Counter Gain LOT 170            |                                  |
+|                            | 2 Devoured Field CIN 93           |                                  |
+
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432SLG520432SLG530232CES860232UPR740232GRI730232GRI740232GRI600133LOT1540132CES240433LOT1880333UPR1190233SUM1280233BUS1120233BUS1150133GRI1270432SLG680333SUM1340133GRI1240132SLG670133GRI1290133UPR1320133GRI1300333GRI1210133LOT1700232CIN930433FLI1180432SLG69)
 
 ## Zoroark Glaceon <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/zoroglace-SUMLOT.jpg" width="1000" class="center" />
-    *Photo Credit - Kale Stahl*
   </p>
+
+  | Pokemon                    | Trainer                           | Energy                            |
+|----------------------------|-----------------------------------|-----------------------------------|
+| 4 Zorua SLG 52             | 4 Cynthia UPR 119                 | 6 Water Energy Energy 20          |
+| 4 Zoroark-GX SLG 53        | 3 Guzma BUS 115                   | 4 Double Colorless Energy SUM 136 |
+| 3 Eevee SUM 101            | 1 Professor Elm's Lecture LOT 188 |                                   |
+| 2 Glaceon-GX SMP 147       | 1 Tate & Liza CES 148             |                                   |
+| 2 Tapu Lele-GX GRI 60      | 1 Judge FLI 108                   |                                   |
+| 1 Slugma CES 23            | 1 Professor Kukui SUM 128         |                                   |
+| 1 Magcargo CES 24          | 1 Acerola BUS 112                 |                                   |
+| 1 Ditto Prism Star LOT 154 | 1 Lillie SLG 62                   |                                   |
+| 1 Alolan Muk SUM 58        | 4 Ultra Ball SLG 68               |                                   |
+|                            | 3 Nest Ball SUM 123               |                                   |
+|                            | 2 Aqua Patch GRI 119              |                                   |
+|                            | 1 Timer Ball SUM 134              |                                   |
+|                            | 1 Enhanced Hammer GRI 124         |                                   |
+|                            | 1 Pal Pad UPR 132                 |                                   |
+|                            | 1 Switch CES 147                  |                                   |
+|                            | 1 Field Blower GRI 125            |                                   |
+|                            | 1 Rescue Stretcher GRI 130        |                                   |
+|                            | 2 Choice Band GRI 121             |                                   |
+|                            | 1 Devoured Field CIN 93           |                                   |
+
+  [Limitless Import](https://my.limitlesstcg.com/builder?i=10432SLG520432SLG530333SUM1010233SMP1470232GRI600132CES230132CES240133LOT1540132SUM580433UPR1190333BUS1150133LOT1880133CES1480133FLI1080133SUM1280133BUS1120132SLG620432SLG680333SUM1230233GRI1190133SUM1340133GRI1240133UPR1320133CES1470133GRI1250133GRI1300233GRI1210132CIN930631SUMW0433SUM136)
 
 

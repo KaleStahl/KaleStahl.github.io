@@ -1,0 +1,32 @@
+Pokémon: 19
+4 Buzzwole FLI 77
+2 Slugma CES 23
+2 Magcargo CES 24
+2 Sneasel UPR 73
+2 Weavile UPR 74
+2 Trubbish GRI 50
+2 Garbodor GRI 51
+1 Ditto Prism Star LOT 154
+1 Diancie Prism Star FLI 74
+1 Oranguru SUM 113
+
+Trainer: 31
+4 Lillie SLG 62
+3 Judge FLI 108
+3 Guzma BUS 115
+2 Professor Kukui SUM 128
+1 Cynthia UPR 119
+1 Tate & Liza CES 148
+4 Ultra Ball SLG 68
+4 Nest Ball SUM 123
+1 Acro Bike CES 123
+1 Rescue Stretcher GRI 130
+1 Switch SLG 67
+3 Choice Band GRI 121
+3 Shrine of Punishment CES 143
+
+Energy: 10
+4 Unit Energy FDY FLI 118
+4 Rainbow Energy SUM 137
+1 Beast Energy Prism Star FLI 117
+1 Counter Energy CIN 100
