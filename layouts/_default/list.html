@@ -8,7 +8,6 @@
 
 <ul>
   {{ $pages := .Pages }}
-  {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
   {{ range (where $pages "Section" "!=" "") }}
   <li>
     <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>

@@ -18,6 +18,8 @@
   </url><url>
     <loc>http://localhost:1313/categories/deck-showcase/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/games/</loc>
+  </url><url>
     <loc>http://localhost:1313/pages/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/pokemon-tcg/</loc>
@@ -26,8 +28,14 @@
   </url><url>
     <loc>http://localhost:1313/categories/retro-pokemon-tcg/</loc>
   </url><url>
+    <loc>http://localhost:1313/tags/reviews/</loc>
+  </url><url>
     <loc>http://localhost:1313/tags/sum-lot/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/categories/video-games/</loc>
+  </url><url>
+    <loc>http://localhost:1313/pages/games-ive-player-2025/</loc>
   </url>
 </urlset>
