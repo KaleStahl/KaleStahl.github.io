@@ -154,7 +154,7 @@ Pokemon Tools are a vital part of any metagame, and while this remains true for 
       alt = "Field Blower - GRI" 
       style ="float: center; margin: 10px 20px 20px 10px;"/>
 </p>
-Despite not having a variety of tools and as we'll later see, stadiums, Guardians Rising gave us Field Blower. This simple leaf blower is a super buffed tool scrapper that can now discard stadiums. Since stadiums and tools aren't as absolutely necessary as older format, this card finds itself as a one-of in most decks rather than a four-of when we had Garbotoxin. Even though its population has dwindled, when used at the right time its power is still undeniable.
+Despite not having a variety of tools and as we'll later see, stadiums, Guardians Rising gave us Field Blower. This simple leaf blower is a super buffed tool scrapper that can now discard stadiums. Since stadiums and tools aren't absolutely necessary as with older formats, this card finds itself as a one-of in most decks rather than a four-of when we had Garbotoxin. Even though its population has dwindled, when used at the right time its power is still undeniable.
 </div>
 <br>
 
@@ -316,6 +316,10 @@ The thing that sticks out immediately is the absolute dominance of Zoroark in te
   <p align="center">
     <img src = "/Decklists/buzzgarb-SUMLOT.jpg" width="1000" class="center" />
   </p>
+
+This deck tries to leverage the amount of GX Pokemon in format by abusing Shrine of Punishment with strong and efficient single prize attackers. Baby Buzzwole is your main attacker, as sledgehammer can be boosted with Beast Energy, Diancie Prism, or Choice Band to immediately start throwing damage on your opponents board. Since there are no multi-prizers in this deck, your opponent is (usually) forced to go down to exactly 4 prize cards at some point, giving Buzzwole an even stronger sledgehammer for a big swing turn. Garbodor's Trashalanche is great for turbo decks that play a lot of items like Malamar or Rayquaza, and Weavile can punish decks who put a bunch of vulnerable Pokemon with abilities on their bench. All of these Pokemon can attack with a single energy, which is great because you also have no energy acceleration or search. You also lack a consistent draw engine outside of Lillie and pray, which Magcargo and Oranguru hope to help. The snail and monkey can give you some clutch cards sometimes, but when you brick with this deck, you tend to brick HARD. 
+
+This deck tends to do very well against aggressive GX strategies or slower setup decks. It trades extremely favorably into most Basic GX Pokemon, and a boosted Sledgehammer or Trashalanche can chase down evolving basics. It really struggles; however, against other single-prizers that can dish out damage more consistently like Granbull or Baby Buzzwole in other decks. This deck only plays special energy, so if you are unable to run control or Zoroark off the board before they set up, Enhanced Hammer loops can be extremely dangerous. While this deck is extremely agressive, you often need to rely on your opponent to do large amounts of damage. Buzzwole is capped at 30 damage with modifiers that push it to 80 on non-GX Pokemon in the early game. If your opponents waits until they are able to handle a full power sledgehammer before going down to 4 prizes, you often aren't able to recover. Since Weavile and Garbodor need your opponent to play down Pokemon with abilities or play item cards to do damage, smart opponents will try to limit these before you are able to punish them.
 
   | Pokemon | Trainer | Energy | 
  |---|---|---|
