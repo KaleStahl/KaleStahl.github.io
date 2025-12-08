@@ -285,12 +285,37 @@ The thing that sticks out immediately is the absolute dominance of Zoroark in te
 
   Though each of the Zoroark decks are distinct enough that I would not consider them one deck, they all have very similar strategies (minus control, I'll talk about that in a second). Zoroark serves as a draw engine and early game attacker, and then the partner is either additional support in the case of Ninetales or Decidueye, or a strong late game attacker that can efficiently utilize a single attachment or DCE, like Lycanroc or Weavile. Zoroark allows for these decks to also function as pure Zoroark decks if the partner is not useful for a certain matchups, so there is rarely a reason to not run a partner since Zoroark is so strong on its own.
 
+  Now to address the orangutan in the room. Control is really good. Like REALLY good. Depending on the expected metagame, control can either be energy disruption loops with Oranguru, tank and heal with Regigigas or Steelix, special energy or low energy walling with Xurxitree GX or Shuckle GX, retreat locking with Guzma/Counter Catcher and Rockruff, or even mill with Rhyperior. It can really be whatever you want. Are people teched for Zoroark control with shrines and fighting types? Run Swampert control instead! One of my decks below is called "kitchen sink control" because it is exactly that, everything and the kitchen sink for any metagame! In Table 3 is the breakdown of control archetypes I've found.
+
+
+|       Deck Archetype      | Number of Decks| Meta Percentage |    Best Tournament Finish   |
+|:----------------:|:-----:|:----------:|:----------------:|
+|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Zoroark Control |   6   |    2.41%   | Daniel Altavilla, 1st Place LAIC |
+|<img src="/boxsprites/regigigas.png" alt="regigigas" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Regigigas Stall |   5   |    2.01%   |   Sander Wojcik, 15th Place Harrogate Regional  |
+|<img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />Steelix Stall  |   5   |    2.01%   |   Aaron Morgan, 19th Place Roanoke Regional  |
+|<img src="/boxsprites/shuckle.png" alt="shuckle" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Shuckle Sceptile |   4   |    1.61%   |   Gustavo Wada, 7th Place Special Event Chile|
+|<img src="/boxsprites/shuckle.png" alt="shuckle" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />   Hoopa Shuckle  |   2   |    0.80%   |   Grover Tranca, 7th Place SPecial Event Peru|
+|<img src="/boxsprites/shuckle.png" alt="shuckle" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Glaceon Shuckle |   1   |    0.40%   |   Tommi Lahtela, 43rd Place Harrogate Regional |
+|<img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Swampert Control |   1   |    0.40%   |   Caleb Gedemer, 8th Place Special Event Mexico  |
+
+
+  <p align="center">
+    *Table 3 - Control Archetypes*
+  </p>
+  
+Control is not only strong becasue of its versatility, but also its numerous loops and win conditions. The standard loop is to use the absolutely broken Resource Management with Oranguru to infinite recycle stuff like Max Potion, Enhanced or Crushing Hammer, and Counter Catcher. If a deck doesn't play many energy or recovery, energy denial with hammers or Plumeria is a great start. If they have a capped amount of damage, tanking and healing with Acerola and Max potion work. These are great if your opponent is trying to win by taking prizes, but are worthless against other control decks. No reason to worry! Stall decks have Unown HAND, which allows them to win the game if they have 35 or more cards in hand, which sounds difficult, but is rather simple with looping Lusamine.
+
+I've listed all the ways control is so good, but it has to have some weaknesses, right? As is common with controlling strategies, control decks in SUM-LOT need a lot of setup. Either setting up your draw engine, getting your walls into play at the right time, getting your healing cards at the right time, or just having cards to play can all take a few turns, which your opponent can and should take advantage of. Aggressive decks can often run control off the board before they can even set up. Buzzwole archetypes are great at this, and any deck that carries hand disruption like Marshadow or Judge can make the control player start their whole setup all over! When playing against control, you need to map out when you attach your energy and when not to, as Plumeria can discard energy from the board and Team Skull Grunt can discard energy from your hand. Switches are also an important resource, as if the control player traps something in the active that takes multiple attachments to retreat, they can discard your energy as you put it on and keep you stuck. 
+
+Sometimes no matter how well you play, your deck just loses to control. While not ideal, there are a few 1 card solutions that can help in the matchup. Girafarig from Lost Thunder and its Get Lost attack are great for Oranguru decks, as it is able to lost zone important resources they were hoping to recover with resource management. If your deck is stuck on Hoopa, there are many single prize options that can slot into decks either with the energy or evolving from Ditto Prism. You should always make sure you have some strategy to beat a lone Hoopa.
+
+
 ---
 
 
 # Decklists
 
-- [Baby Buzzwole Garbodor](#Baby-Buzzwole-Garbodor) <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Baby Buzzwole Garbodor](#baby-buzzwole-garbodor)  <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 - [Buzzwole Lycanroc Ninetales](#buzzwole-lycanroc-ninetales)<img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 - [Dusk Mane Necrozma](#dusk-mane-necrozma) <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> <img src="/boxsprites/dialga.png" alt="dialga" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/magnezone.png" alt="magnezone" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 - [Empoleon](#empoleon) <img src="/boxsprites/empoleon.png" alt="empoleon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" />
@@ -300,21 +325,25 @@ The thing that sticks out immediately is the absolute dominance of Zoroark in te
 - [Lost March](#lost-march)  <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 - [Malamar](#malamar)  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 - [Rayquaza Vikavolt](#rayquaza-vikavolt)  <img src="/boxsprites/rayquaza.png" alt="rayquaza" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/vikavolt.png" alt="vikavolt" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Sceptile](#sceptile)  <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Sceptile](#sceptile)   <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 - [Steelix Stall](#steelix-stall)  <img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [White Kyurem](#white-kyurem)  <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Zoroark Lycanroc](#zoroark-lycanroc) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Zoroark Glaceon](#zoroark-glaceon) <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> 
+- [White Kyurem](#white-kyurem)   <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales)  <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Zoroark Lycanroc](#zoroark-lycanroc)  <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+- [Zoroark Glaceon](#zoroark-glaceon)  <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> 
+
 
 ---
 
+The following decks are my current collection of decks for this format. They may not be the best or most competitively viable, but they are what I have built after playing the format for a few years casually. All of the photos are taken by me, and I have put decklist credit when applicable. I have also discussed the basic strategies of the decks and what certain inclusions do so people who are just picking up the format can have a nice place to start! My most common question from my friends when playing retro is "What the heck is this card in here for?", so I hope that these little blurbs can explain why the decks look like that! Below these are also a written decklist and a Limitless import for each deck if you would like to copy the decklist as text.
 
+---
 
 ## Baby Buzzwole Garbodor <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/buzzgarb-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Sultan Alneyadi*
   </p>
 
 This deck tries to leverage the amount of GX Pokemon in format by abusing Shrine of Punishment with strong and efficient single prize attackers. Baby Buzzwole is your main attacker, as sledgehammer can be boosted with Beast Energy, Diancie Prism, or Choice Band to immediately start throwing damage on your opponents board. Since there are no multi-prizers in this deck, your opponent is (usually) forced to go down to exactly 4 prize cards at some point, giving Buzzwole an even stronger sledgehammer for a big swing turn. Garbodor's Trashalanche is great for turbo decks that play a lot of items like Malamar or Rayquaza, and Weavile can punish decks who put a bunch of vulnerable Pokemon with abilities on their bench. All of these Pokemon can attack with a single energy, which is great because you also have no energy acceleration or search. You also lack a consistent draw engine outside of Lillie and pray, which Magcargo and Oranguru hope to help. The snail and monkey can give you some clutch cards sometimes, but when you brick with this deck, you tend to brick HARD. 
@@ -323,47 +352,55 @@ This deck tends to do very well against aggressive GX strategies or slower setup
 
   | Pokemon | Trainer | Energy | 
  |---|---|---|
-| 4 Buzzwole FLI 77 | 4 Lillie SLG 62 | 4 Unit Energy FDY FLI 118 |
-| 2 Slugma CES 23 | 3 Judge FLI 108 | 4 Rainbow Energy SUM 137 |
-| 2 Magcargo CES 24 | 3 Guzma BUS 115 | 1 Beast Energy Prism Star FLI 117 |
-| 2 Sneasel UPR 73 | 2 Professor Kukui SUM 128 | 1 Counter Energy CIN 100 |
-| 2 Weavile UPR 74 | 1 Cynthia UPR 119 |  |
-| 2 Trubbish GRI 50 | 1 Tate & Liza CES 148 |  |
-| 2 Garbodor GRI 51 | 4 Ultra Ball SLG 68 |  |
-| 1 Ditto Prism Star LOT 154 | 4 Nest Ball SUM 123 |  |
-| 1 Diancie Prism Star FLI 74 | 1 Acro Bike CES 123 |  |
-| 1 Oranguru SUM 113 | 1 Rescue Stretcher GRI 130 |  |
-|  | 1 Switch SLG 67 |  |
-|  | 3 Choice Band GRI 121 |  |
-|  | 3 Shrine of Punishment CES 143 |  |
+| 4 Buzzwole FLI 77 | 4 Lillie  | 4 Unit Energy FDY |
+| 2 Slugma CES 23 | 3 Judge | 4 Rainbow Energy |
+| 2 Magcargo CES 24 | 3 Guzma| 1 Beast Energy Prism Star  |
+| 2 Sneasel UPR 73 | 2 Professor Kukui| 1 Counter Energy|
+| 2 Weavile UPR 74 | 1 Cynthia|  |
+| 2 Trubbish GRI 50 | 1 Tate & Liza |  |
+| 2 Garbodor GRI 51 | 4 Ultra Ball |  |
+| 1 Ditto Prism Star LOT 154 | 4 Nest Ball|  |
+| 1 Diancie Prism Star FLI 74 | 1 Acro Bike|  |
+| 1 Oranguru SUM 113 | 1 Rescue Stretcher |  |
+|  | 1 Switch |  |
+|  | 3 Choice Band  |  |
+|  | 3 Shrine of Punishment |  |
 
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI770232CES230232CES240232UPR730232UPR740232GRI500232GRI510133LOT1540132FLI740133SUM1130432SLG620333FLI1080333BUS1150233SUM1280133UPR1190133CES1480432SLG680433SUM1230133CES1230133GRI1300132SLG670333GRI1210333CES1430433FLI1180433SUM1370133FLI1170133CIN100) 
 
-## Buzzwole Lycanroc Ninetales<img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+---
+
+## Buzzwole Lycanroc Ninetales <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/buzzroc-SUMLOT.jpg" width="1000" class="center" />
     *List Credit - Alex Schemanske*
   </p>
 
+This deck really thrived when Strong Energy was legal, but it still packs quite a punch in this format. Buzzwole GX is one of the fastest attackers in the game, being able to do 30 to the active and 30 to the bench with Jet Punch for only a single energy. Beast Energy, Diancie Prism Star, and Choice Band can quickly boost this damage. Buzzwole is the main attacker, and Lycanroc is great for gusting without using your supportor. Its Dangerous Rogue GX attack is one of the strongest attacks in the game, and is super efficient for only 2 energy. Ninetales is not standard in Buzzroc, but serves a couple purposes here. First, it allows you to take advantage of your limited Beast Ring turns by searching out two item cards on evolution. Beast Ring is super important in allowing this deck to take big knockouts in the mid-game, so being able to find it on demand is great. The second main reason is for psychic decks. Buzzwole is weak to psychic and gives up 2 prizes, so Malamar becomes a super difficult matchup. Ninetales and multi-switch allow you to attack Inkay and Malamar early without putting a massive 2 prize liability in the early game. Alolan Vulpix's Beacon attack is also amazing for searching Pokemon in the early game, so it never hurts to have that. Girafarig can also help against malamar by lost zoning their psychic energy before they can accelerate it.
+
+This deck hopes to come out of the gate swinging, and keep up the pressure in the mid-game with Beast Ring. This allows it to bully evolving decks and trade blows with other big basic GX decks. It has a really hard time with any single prize deck that can up-trade into it without being pressured by Jet Punch. White Kyurem and Granbull are this deck's kryptonite. Any deck that plays psychic attackers is also quite a difficult matchup, as your only good energy acceleration is through Beast Ring which can only accelerate to Buzzwole. Lycanroc and Ninetales help in the psychic mathups, but in no way make it favorable.
+
   | Pokemon | Trainer | Energy | 
  |---|---|---|
-| 4 Buzzwole-GX CIN 57 | 4 Cynthia UPR 119 | 7 Fighting Energy Energy 23 |
-| 2 Rockruff FLI 75 | 3 Guzma BUS 115 | 4 Unit Energy FDY FLI 118 |
-| 2 Lycanroc-GX GRI 74 | 3 Professor Kukui SUM 128 | 1 Beast Energy Prism Star FLI 117 |
-| 2 Alolan Vulpix GRI 21 | 2 Lillie SUM 122 |  |
-| 2 Alolan Ninetales-GX LOT 132 | 1 Lisia CES 137 |  |
-| 2 Tapu Lele-GX GRI 60 | 4 Ultra Ball SLG 68 |  |
-| 1 Buzzwole FLI 77 | 3 Beast Ring FLI 102 |  |
-| 1 Diancie Prism Star FLI 74 | 2 Switch CES 147 |  |
-| 1 Girafarig LOT 94 | 1 Multi Switch GRI 129 |  |
-| 1 Marshadow SLG 45 | 1 Field Blower GRI 125 |  |
-|  | 1 Rescue Stretcher GRI 130 |  |
-|  | 2 Choice Band GRI 121 |  |
-|  | 3 Brooklet Hill GRI 120 |  |
+| 4 Buzzwole-GX CIN 57 | 4 Cynthia | 7 Basic Fighting Energy |
+| 2 Rockruff FLI 75 | 3 Guzma| 4 Unit Energy FDY |
+| 2 Lycanroc-GX GRI 74 | 3 Professor Kukui| 1 Beast Energy Prism Star|
+| 2 Alolan Vulpix GRI 21 | 2 Lillie|  |
+| 2 Alolan Ninetales-GX LOT 132 | 1 Lisia|  |
+| 2 Tapu Lele-GX GRI 60 | 4 Ultra Ball|  |
+| 1 Buzzwole FLI 77 | 3 Beast Ring |  |
+| 1 Diancie Prism Star FLI 74 | 2 Switch|  |
+| 1 Girafarig LOT 94 | 1 Multi Switch|  |
+| 1 Marshadow SLG 45 | 1 Field Blower|  |
+|  | 1 Rescue Stretcher |  |
+|  | 2 Choice Band |  |
+|  | 3 Brooklet Hill |  |
   
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432CIN570232FLI750232GRI740232GRI210233LOT1320232GRI600132FLI770132FLI740132LOT940132SLG450433UPR1190333BUS1150333SUM1280233SUM1220133CES1370432SLG680333FLI1020233CES1470133GRI1290133GRI1250133GRI1300233GRI1210333GRI1200731SUMF0433FLI1180133FLI117)
 
+
+---
 
 ## Dusk Mane Necrozma <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> <img src="/boxsprites/dialga.png" alt="dialga" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/magnezone.png" alt="magnezone" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
@@ -372,22 +409,26 @@ This deck tends to do very well against aggressive GX strategies or slower setup
     *List Credit - Joe Turrentine*
   </p>
 
+  This is not one of my favorite decks in format, but it is fun to play. The main goal is to set up a Magnezone which can accelerate as much energy from your hand as your like to one of your attackers. Dusk Mane Necrozma GX is great for dealing with big Pokemon GX with Meteor Tempest, and Dialga can deal with evolving Pokemon with Turn Back Time or other single prizers with Power Blast. Once you get set up, Mount Coronet lets you continually stream metal energy and launch powerful attacks each turn. The stop-gap, however is in setting up. You need to have both rare candy and Magnezone in hand to evolve it, so Cynthia is a long shot to draw into the combo. Steven's Resolve lets you get directly there, but ends your turn which is not great at all. Your opponent also knows you have three good cards in hand, so a Judge or Marshadow is very tempting. Even if you set up Magnezone, you still need to have the energy to accelerate in hand. Lady lets you search 4 out of deck, but takes your supporter for turn which you usually would rather have spent on Cynthia or Guzma. The deck is inconsistent, but has a great matchup spread taking on both big GX Pokemon and single prize decks with ease. It is also great against energy denial strategies since Coronet and Magnezone let you recycle energy as long as you want.s
+
   | Pokemon | Trainer | Energy | 
  |---|---|---|
-| 3 Magnemite UPR 81 | 4 Cynthia UPR 119 | 10 Metal Energy Energy 25 |
-| 1 Magnemite UPR 80 | 3 Steven's Resolve CES 145 | 1 Beast Energy Prism Star FLI 117 |
-| 3 Magnezone UPR 83 | 2 Guzma BUS 115 |  |
-| 3 Dusk Mane Necrozma-GX UPR 90 | 2 Fisherman CES 130 |  |
-| 3 Dialga LOT 127 | 2 Lady FLI 109 |  |
-| 2 Tapu Lele-GX GRI 60 | 1 Lillie UPR 125 |  |
-|  | 1 Sightseer LOT 189 |  |
-|  | 4 Nest Ball SUM 123 |  |
-|  | 4 Ultra Ball SUM 135 |  |
-|  | 4 Rare Candy SUM 129 |  |
-|  | 3 Acro Bike CES 123 |  |
-|  | 4 Mt. Coronet UPR 130 |  |
+| 3 Magnemite UPR 81 | 4 Cynthia| 10 Metal Energy |
+| 1 Magnemite UPR 80 | 3 Steven's Resolve| 1 Beast Energy Prism Star |
+| 3 Magnezone UPR 83 | 2 Guzma|  |
+| 3 Dusk Mane Necrozma-GX UPR 90 | 2 Fisherman |  |
+| 3 Dialga LOT 127 | 2 Lady |  |
+| 2 Tapu Lele-GX GRI 60 | 1 Lillie |  |
+|  | 1 Sightseer|  |
+|  | 4 Nest Ball|  |
+|  | 4 Ultra Ball|  |
+|  | 4 Rare Candy|  |
+|  | 3 Acro Bike |  |
+|  | 4 Mt. Coronet |  |
   
 [Limitless Import](https://my.limitlesstcg.com/builder?i=10332UPR810132UPR800332UPR830332UPR900333LOT1270232GRI600433UPR1190333CES1450233BUS1150233CES1300233FLI1090133UPR1250133LOT1890433SUM1230433SUM1350433SUM1290333CES1230433UPR1300a31SUMM0133FLI117)
+
+---
 
 ## Empoleon <img src="/boxsprites/empoleon.png" alt="empoleon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
@@ -395,24 +436,30 @@ This deck tends to do very well against aggressive GX strategies or slower setup
     <img src = "/Decklists/empoleon-SUMLOT.jpg" width="1000" class="center" />
   </p>
 
+This is an interesting single prize deck that can do a lot of damage for not a lot of energy. Empoleon is your main attacker with its Total Command doing up to 200 damage for two energy. The only issue is that Empoleon is a stage 2 pokemon that can require multiple energy attachments. Counter energy helps with the energy, as it provide 2 of any color when you are down on prizes. A super thick Empoleon line lets you set up slowly, and Swampert helps you draw through your deck to get key combo cards. Alolan Ninetales GX lets you search for Rare Candy and Timer Balls to quickly evolve your Birds, but is a 2 prize liability in an otherwise single prize deck, so it should be used carefully. In the Sun & Moon era, Pokemon began doing this weird thing where they print the exact same card in different types, and Empoleon is the recipient of one of these weird splits. It has both a water and metal type card, so you can use either depending on Weakness and Resistence of the deck you are facing. Be careful though, since there are no basic metal energy, so you may have a hard time finding energy for the metal Empoleon! (I may be speaking from experience...) Oranguru is in the deck to help recycle Empoleon pieces since Rare Candy are so integral to the strategy, and sometimes you'll need more than 4 in a game. 
+
+Like other Rare Candy decks with no draw engine, this deck sometimes has a hard time finding the pieces it needs when you need them. Once it sets up, it has little issue running through most meta decks, but setting up can sometimes be a little dodgy. Alolan Ninetales helps this consistency, but putting a 2 prizer in play in an already slow deck is not great for the prize trade. Opponents also have some agency in your damage output as Total Command is limited by both players bench size, so if your opponent waits to bench Pokemon you could be limited to 120 or even 100 damage which rarely cuts it against evolving Pokemon GX.
+
 | Pokemon | Trainer | Energy | 
  |---|---|---|
-| 4 Piplup UPR 31 | 4 Professor Elm's Lecture LOT 188 | 4 Water Energy Energy 20 |    
-| 2 Prinplup UPR 33 | 3 Cynthia UPR 119 | 4 Counter Energy CIN 100 |
-| 3 Empoleon UPR 34 | 2 Guzma BUS 115 | 1 Super Boost Energy Prism Star UPR 136 |     
-| 1 Empoleon FLI 81 | 1 Professor Kukui SUM 128 | 1 Rainbow Energy SUM 137 |
-| 3 Mudkip CES 32 | 1 Lillie SLG 62 |  |
-| 2 Marshtomp CES 34 | 4 Rare Candy SUM 129 |  |
-| 2 Swampert CES 35 | 3 Timer Ball SUM 134 |  |
-| 2 Alolan Vulpix GRI 21 | 2 Aqua Patch GRI 119 |  |
-| 2 Alolan Ninetales-GX LOT 132 | 2 Rescue Stretcher GRI 130 |  |
-| 1 Oranguru UPR 114 | 1 Pal Pad UPR 132 |  |
-|  | 1 Counter Catcher CIN 91 |  |
-|  | 1 Switch CES 147 |  |
-|  | 2 Choice Band GRI 121 |  |
-|  | 1 Brooklet Hill GRI 120 |  |
+| 4 Piplup UPR 31 | 4 Professor Elm's Lecture | 4 Water Energy|    
+| 2 Prinplup UPR 33 | 3 Cynthia | 4 Counter Energy|
+| 3 Empoleon UPR 34 | 2 Guzma | 1 Super Boost Energy Prism Star|     
+| 1 Empoleon FLI 81 | 1 Professor Kukui| 1 Rainbow Energy |
+| 3 Mudkip CES 32 | 1 Lillie  |  |
+| 2 Marshtomp CES 34 | 4 Rare Candy |  |
+| 2 Swampert CES 35 | 3 Timer Ball |  |
+| 2 Alolan Vulpix GRI 21 | 2 Aqua Patch |  |
+| 2 Alolan Ninetales-GX LOT 132 | 2 Rescue Stretcher |  |
+| 1 Oranguru UPR 114 | 1 Pal Pad|  |
+|  | 1 Counter Catcher |  |
+|  | 1 Switch|  |
+|  | 2 Choice Band |  |
+|  | 1 Brooklet Hill |  |
 
 [Limitless Import](https://my.limitlesstcg.com/builder?i=10432UPR310232UPR330332UPR340132FLI810332CES320232CES340232CES350232GRI210233LOT1320133UPR1140433LOT1880333UPR1190233BUS1150133SUM1280132SLG620433SUM1290333SUM1340233GRI1190233GRI1300133UPR1320132CIN910133CES1470233GRI1210133GRI1200431SUMW0433CIN1000133UPR1360133SUM137)
+
+---
 
 ## Garchomp <img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
@@ -421,24 +468,28 @@ This deck tends to do very well against aggressive GX strategies or slower setup
     *List Credit - Me*
   </p>
 
+This is a homebrew deck from the dark recesses of my mind. I was looking through GLC cards and found this Garchomp and Lucario and wondered if there were any recorded decks based around it. To my surprise, there weren't. So I built my own. In building it, I found why no one else had: it's **bad**. Doing 200 on a single prizer is great, with quick search on a stage 1 is even better. The issue is that you need Garchomp in play in order to use Lucario, and often you want to use Lucario to get Garchomp in play, making Lucario useless when setting up. The other issue is that if you are using Cynthia to get your 200 damage, you can't Guzma. I've tried to build this as a sort of spread deck with Tapu Koko and Alolan Ninetales, but in practice it's just a bad Empoleon with a worse draw engine. It's fun if you hate Zoroark decks, but has major issues against literally anything else. 
+
 | Pokemon | Trainer | Energy | 
  |---|---|---|
-| 4 Gible FLI 60 | 4 Cynthia UPR 119 | 4 Double Colorless Energy SLG 69 |
-| 2 Gabite FLI 61 | 2 Lillie SUM 122 | 4 Unit Energy FDY FLI 118 |
-| 4 Garchomp FLI 62 | 1 Guzma BUS 115 | 2 Fighting Energy Energy 23 |
-| 2 Alolan Vulpix GRI 21 | 4 Rare Candy CES 142 |  |
-| 2 Alolan Ninetales-GX LOT 132 | 4 Ultra Ball SLG 68 |  |
-| 2 Riolu UPR 66 | 4 Nest Ball SUM 123 |  |
-| 2 Lucario UPR 67 | 1 Counter Catcher CIN 91 |  |
-| 1 Ditto Prism Star LOT 154 | 1 Rescue Stretcher GRI 130 |  |
-| 1 Tapu Lele-GX CEL CC25 | 1 Pal Pad UPR 132 |  |
-| 1 Tapu Koko SMP 30 | 1 Switch SUM 132 |  |
-|  | 1 Energy Loto GRI 122 |  |
-|  | 2 Choice Band GRI 121 |  |
-|  | 1 Karate Belt UNM 201 |  |
-|  | 2 Brooklet Hill GRI 120 |  |
+| 4 Gible FLI 60 | 4 Cynthia| 4 Double Colorless Energy|
+| 2 Gabite FLI 61 | 2 Lillie  | 4 Unit Energy |
+| 4 Garchomp FLI 62 | 1 Guzma | 2 Fighting Energy|
+| 2 Alolan Vulpix GRI 21 | 4 Rare Candy |  |
+| 2 Alolan Ninetales-GX LOT 132 | 4 Ultra Ball |  |
+| 2 Riolu UPR 66 | 4 Nest Ball |  |
+| 2 Lucario UPR 67 | 1 Counter Catcher |  |
+| 1 Ditto Prism Star LOT 154 | 1 Rescue Stretcher|  |
+| 1 Tapu Lele-GX CEL CC25 | 1 Pal Pad|  |
+| 1 Tapu Koko SMP 30 | 1 Switch |  |
+|  | 1 Energy Loto |  |
+|  | 2 Choice Band |  |
+|  | 1 Karate Belt|  |
+|  | 2 Brooklet Hill |  |
   
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI600232FLI610432FLI620232GRI210233LOT1320232UPR660232UPR670133LOT1540134CELCC250132SMP300433UPR1190233SUM1220133BUS1150433CES1420432SLG680433SUM1230132CIN910133GRI1300133UPR1320133SUM1320133GRI1220233GRI1210133UNM2010233GRI1200432SLG690433FLI1180231SUMF)
+
+---
 
 ## Gardevoir Swampert Ninetales <img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
@@ -447,22 +498,28 @@ This deck tends to do very well against aggressive GX strategies or slower setup
     *List Credit - Jimmy Pendarvis*
   </p>
 
-  | Pokemon | Trainer | Energy | 
- |---|---|---|
-| 3 Ralts BUS 91 | 4 Professor Elm's Lecture LOT 188 | 7 Fairy Energy Energy 26 |     
-| 1 Kirlia LOT 140 | 3 Cynthia UPR 119 | 4 Double Colorless Energy PHF 111 |
-| 3 Gardevoir-GX BUS 93 | 2 Guzma BUS 115 | 1 Super Boost Energy Prism Star UPR 136 | 
-| 2 Mudkip CES 32 | 1 Lillie UPR 125 |  |
-| 1 Marshtomp CES 34 | 1 Professor Kukui SUM 128 |  |
-| 2 Swampert CES 35 | 4 Ultra Ball SLG 68 |  |
-| 2 Alolan Vulpix GRI 21 | 4 Rare Candy SUM 129 |  |
-| 2 Alolan Ninetales-GX LOT 132 | 2 Max Potion GRI 128 |  |
-| 2 Tapu Lele-GX GRI 60 | 1 Timer Ball SUM 134 |  |
-| 1 Cosmog SUM 64 | 1 Energy Loto GRI 122 |  |
-| 1 Solgaleo-GX SMP 104 | 2 Choice Band GRI 121 |  |
-| 1 Ditto Prism Star LOT 154 | 2 Brooklet Hill GRI 120 |  |
+This deck won Roanoke Regionals with its unique blend of defense, utility, and power. Gardevoir GX is both your heavy hitter and energy acceleration. Secret Spring lets you attach an extra Fairy energy for each Gardevoir in play, adn Infinite Force will scale an extra 30 damage for each energy on both active Pokemon, giving you the ability for explosive attacks. Double colorless energy synegizes well with this, as secret spring can accelerate the Fairy to pay for the attack's cost, and then DCE can be attached from hand for a 90 damage swing. Twilight GX is also an insanely strong GX attack. Being able to shuffle TEN cards from the discard into your deck is ridiculous, especially for only one energy. You can get back DCE, Max Potion, Guzma, Rare Candy, whatever you can think of! Alolan Ninetales GX helps to set up your stage 2s and can also serve as an attacker in a pinch. Swampert is a great draw engine, and helps enable Super Boost Energy, which can add a whopping 120 damage to Infinite Force. Solgaleo is there to hit opposing Alolan Ninetales for weakness and accelerate extra energy against control or in slow matchups. Its ability is situational, but removing weakness is never a bad thing.
+
+Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zoroark, but decks that can KO it in one attack can prove hard to deal with. You spend a lot of resources setting up a Gardevoir, so losing it in one turn can be devastating. This deck also relatively slow compare to other evolving decks, so sometimes it can be blown our of the water by aggressive decks or even faster evolving decks. It has a very high skill ceiling, making it a great deck if you want to play SUM-LOT super competively without playing control.
+
+| Pokemon | Trainer | Energy | 
+|---|---|---|
+| 3 Ralts BUS 91 | 4 Professor Elm's Lecture | 7 Fairy Energy|     
+| 1 Kirlia LOT 140 | 3 Cynthia | 4 Double Colorless Energy|
+| 3 Gardevoir-GX BUS 93 | 2 Guzma | 1 Super Boost Energy Prism Star  | 
+| 2 Mudkip CES 32 | 1 Lillie|  |
+| 1 Marshtomp CES 34 | 1 Professor Kukui |  |
+| 2 Swampert CES 35 | 4 Ultra Ball|  |
+| 2 Alolan Vulpix GRI 21 | 4 Rare Candy |  |
+| 2 Alolan Ninetales-GX LOT 132 | 2 Max Potion |  |
+| 2 Tapu Lele-GX GRI 60 | 1 Timer Ball |  |
+| 1 Cosmog SUM 64 | 1 Energy Loto |  |
+| 1 Solgaleo-GX SMP 104 | 2 Choice Band|  |
+| 1 Ditto Prism Star LOT 154 | 2 Brooklet Hill |  |
   
-  [Limitless Import](https://my.limitlesstcg.com/builder?i=10332BUS910133LOT1400332BUS930232CES320132CES340232CES350232GRI210233LOT1320232GRI600132SUM640133SMP1040133LOT1540433LOT1880333UPR1190233BUS1150133UPR1250133SUM1280432SLG680433SUM1290233GRI1280133SUM1340133GRI1220233GRI1210233GRI1200731SUMY0433PHF1110133UPR136)
+[Limitless Import](https://my.limitlesstcg.com/builder?i=10332BUS910133LOT1400332BUS930232CES320132CES340232CES350232GRI210233LOT1320232GRI600132SUM640133SMP1040133LOT1540433LOT1880333UPR1190233BUS1150133UPR1250133SUM1280432SLG680433SUM1290233GRI1280133SUM1340133GRI1220233GRI1210233GRI1200731SUMY0433PHF1110133UPR136)
+
+---
 
 ## Granbull  <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
