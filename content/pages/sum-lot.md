@@ -236,27 +236,27 @@ These are a few of the cards you should definitely consider when building decks 
 
 Since this format is no longer being played competively (at least officially), the only hard data we have to go off is from 2018 when it was played. Luckily, the amazing [Limitless.tcg](https://limitlesstcg.com/tournaments?time=all&type=all&format=SUM-LOT&region=all) has a lot of data on most of the major tournaments that happened at the time, so I can do some data analysis on that. Table 1 is created by me compiling all of the available data from Limitless, and then filtering based on more general archetypes than Limitless does. The meta percentages do not add up to 100%, and that is because certain decks qualify for multiple archetypes, so decks like Zoroark-Glaceon count as both a Zoroark deck and a Glaceon deck. Limitless data is usually limited to only Day 2 qualifiers or Top 8 in smaller tournaments, so this is not a perfect representation of the metagame at the time, but I feel like it can give you a gist of what the top decks were in the meta at any given time.
 
-| Deck   Archetype                                                                                                                                                                                                                                                                 | Number of Decks | Meta Percentage | Best Tournament Finish                                     |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------|------------------------------------------------------------|
-| <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Zoroark                                                                                                                                                   | 71         | 28.74%          | Daniel Altavilla, 1st Place LAIC                           |
-| <img src="/boxsprites/blacephalon.png" alt="blacephalon" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/naganadel.png" alt="naganadel" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Blacephalon Naganadel | 48         | 19.43%          | Vicente Rodriguez Cuevas, 1st Place Special Event Chile    |
-| <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Malamar                                                                                                                                                   | 31         | 12.55%          | Tye Pellecchia, 1st Place Special Event Costa Rica         |
-| <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Decidueye                                                                                                                                             | 25         | 10.12%          | Angus Johnson, 1st Place Brisbane Regional                 |
-| <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Control                                                                                                                                                 | 24       | 9.64%          | Daniel Altavilla 1st Place LAIC                            |
-| <img src="/boxsprites/tapu-koko.png" alt="tapukoko" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/passimian.png" alt="passimian" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Tapu Koko Spread             | 17         | 6.88%           | Patricia Gonzalez Walsh, 1st Place Special Event Argentina |
-| <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Granbull                                                                                                                                                | 16         | 6.48%           | Nicolas Galaz, 2nd Place LAIC                              |
-| <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Buzzwole Lycanroc     | 14         | 5.67%           | Alex Schemanske, 5th Place LAIC                            |
-| <img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Gardevoir                                                                                                                                            | 11         | 4.45%           | Jimmy Pendarvis, 1st Place Roanoke Regional                |
-| <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Lost   March                           | 11         | 4.45%           | Oscar Taboada, 2nd Place Special Event Peru                |
-| <img src="/boxsprites/rayquaza.png" alt="rayquaza" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/vikavolt.png" alt="vikavolt" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Rayquaza Vikavolt             | 6          | 2.43%           | Marcelo Magalhaes, 9th Place LAIC                          |
-| <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />Sceptile                                                                                                                                                 | 5          | 2.02%           | Gregory Chrisholm, 5th Place Special Event Costa Rica      |
-| <img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Steelix                                                                                                                                                   | 5          | 2.02%           | Adrian Fjell, 11th Place Harrogate Regional                |
-| <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Buzzgarb                       | 4          | 1.62%           | Sultan Alneyadi, 1st Place Special Event Dubai             |
-| <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Glaceon                                                                                                                                                   | 3          | 1.21%           | Roberto Gomes Coregio Junior, 10th Place LAIC              |
-| <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" /> White Kyurem                                                                                                                                          | 2          | 0.81%           | Bolly Olufon, 9th Place Harrogate Regional                 |
-| <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> Necrozma Dusk Mane                                                                                                                                | 2          | 0.81%           | Tomas Osorio Sanzana, 16th Place Special Event Chile       |
-| <img src="/boxsprites/greninja.png" alt="greninja" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Greninja                                                                                                                                                | 1          | 0.40%           | Siddequr Rahman, 24th Place Harrogate Regional             |
-| <img src="/boxsprites/naganadel.png" alt="nagandel" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/quagsire.png" alt="quagsire" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Naganadel Quagsire            | 1          | 0.40%           |       Matt Vuchichevich, 53rd Place Roanoke Regional       |
+| Deck Archetype | Number of Decks | Meta Percentage | Best Tournament Finish |
+|---|---|---|---|
+| {{< boxsprite "zoroark" >}} Zoroark | 71 | 28.74% | Daniel Altavilla, 1st Place LAIC |
+| {{< boxsprite "blacephalon" >}} {{< boxsprite "naganadel" >}} Blacephalon Naganadel | 48 | 19.43% | Vicente Rodriguez Cuevas, 1st Place Special Event Chile |
+| {{< boxsprite "malamar" >}} Malamar | 31 | 12.55% | Tye Pellecchia, 1st Place Special Event Costa Rica |
+| {{< boxsprite "decidueye" >}} Decidueye | 25 | 10.12% | Angus Johnson, 1st Place Brisbane Regional |
+| {{< boxsprite "oranguru" >}} Control | 24 | 9.64% | Daniel Altavilla 1st Place LAIC |
+| {{< boxsprite "tapu-koko" >}}{{< boxsprite "passimian" >}} Tapu Koko Spread | 17 | 6.88% | Patricia Gonzalez Walsh, 1st Place Special Event Argentina |
+| {{< boxsprite "granbull" >}} Granbull | 16 | 6.48% | Nicolas Galaz, 2nd Place LAIC |
+| {{< boxsprite "buzzwole" >}}{{< boxsprite "lycanroc-midnight" >}} Buzzwole Lycanroc | 14 | 5.67% | Alex Schemanske, 5th Place LAIC |
+| {{< boxsprite "gardevoir" >}} Gardevoir | 11 | 4.45% | Jimmy Pendarvis, 1st Place Roanoke Regional |
+| {{< boxsprite "jumpluff" >}} {{< boxsprite "natu" >}} Lost March | 11 | 4.45% | Oscar Taboada, 2nd Place Special Event Peru |
+| {{< boxsprite "rayquaza" >}} {{< boxsprite "vikavolt" >}} Rayquaza Vikavolt | 6 | 2.43% | Marcelo Magalhaes, 9th Place LAIC |
+| {{< boxsprite "sceptile" >}} Sceptile | 5 | 2.02% | Gregory Chrisholm, 5th Place Special Event Costa Rica |
+| {{< boxsprite "steelix" >}} Steelix | 5 | 2.02% | Adrian Fjell, 11th Place Harrogate Regional |
+| {{< boxsprite "buzzwole" >}} {{< boxsprite "garbodor" >}} Buzzgarb | 4 | 1.62% | Sultan Alneyadi, 1st Place Special Event Dubai |
+| {{< boxsprite "glaceon" >}} Glaceon | 3 | 1.21% | Roberto Gomes Coregio Junior, 10th Place LAIC |
+| {{< boxsprite "kyurem-white" >}} White Kyurem | 2 | 0.81% | Bolly Olufon, 9th Place Harrogate Regional |
+| {{< boxsprite "necrozma-dusk" >}} Necrozma Dusk Mane | 2 | 0.81% | Tomas Osorio Sanzana, 16th Place Special Event Chile |
+| {{< boxsprite "greninja" >}} Greninja | 1 | 0.40% | Siddequr Rahman, 24th Place Harrogate Regional |
+| {{< boxsprite "naganadel" >}} {{< boxsprite "quagsire" >}} Naganadel Quagsire | 1 | 0.40% | Matt Vuchichevich, 53rd Place Roanoke Regional |
 
   <p align="center">
     *Table 1 - General Metagame*
@@ -264,20 +264,20 @@ Since this format is no longer being played competively (at least officially), t
 
 The thing that sticks out immediately is the absolute dominance of Zoroark in terms of meta representation. Rarely does one archetype hit 20%, so 28% is very high, especially considering the limited data. We can expand this in Table 2 to see that this is actually a bunch of different decks in hiding!
 
-| Deck Archetype              | Number of Decks | Meta Percentage | Best Tournament Finish                                  |
-|-----------------------------|-----------------|-----------------|---------------------------------------------------------|
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />Zoroark Decidueye Ninetales |        19       |      7.63%      |       Angus Johnson, 1st Place Brisbane Regionals       |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Lycanroc      |        19       |      7.63%      |  Javier Orrego Letelier, 4th Place Special Event Chile  |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Weavile       |        7        |      2.81%      | Gabriel Pereira Pinto, 3rd Place Special Event Campinos |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Control       |        6        |      2.41%      |             Daniel Altavilla, 1st Place LAIC            |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" />    Zoroark Decidueye      |        5        |      2.01%      |   Jonathan Fabrizio Bellucci Lanciano, 4th Place LAIC   |
-| <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />     Zoroark Lycanroc Weavile  |        5        |      2.01%      |       Alex Silva, 1st Place Special Event Campinos      |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales-alola" style="height:1.5em; vertical-align:middle; display:inline-block;" />      Zoroark Ninetales      |        3        |      1.20%      |        Jack Culkin, 3rd Place Harrogate Regional        |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales-alola" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />      Zoroark Ninetales Weavile  |        2        |      0.80%      |     Rahul Reddy, 3rd Place Special Event Costa Rica     |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/gyarados.png" alt="gyarados" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Gyarados      |        2        |      0.80%      |       Philip Schulz, 1st Place Harrogate Regional       |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Glaceon       |        1        |      0.40%      |      Roberto Gomes Coregio Junior, 10th Place LAIC      |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" />       Zoroark Buzzwole      |        1        |      0.40%      |          Agustín Correa Pasini, 60th Place LAIC         |
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales-alola" style="height:1.5em; vertical-align:middle; display:inline-block;" />     Zoroark Lycanroc Ninetales |        1        |      0.40%      |        Austin Ellis, 15th Place Roanoke Regional        |
+| Deck Archetype | Number of Decks | Meta Percentage | Best Tournament Finish |
+|---|---|---|---|
+| {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}} Zoroark Decidueye Ninetales | 19 | 7.63% | Angus Johnson, 1st Place Brisbane Regionals |
+| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}} Zoroark Lycanroc | 19 | 7.63% | Javier Orrego Letelier, 4th Place Special Event Chile |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "weavile" >}} Zoroark Weavile | 7 | 2.81% | Gabriel Pereira Pinto, 3rd Place Special Event Campinos |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} Zoroark Control | 6 | 2.41% | Daniel Altavilla, 1st Place LAIC |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}} Zoroark Decidueye | 5 | 2.01% | Jonathan Fabrizio Bellucci Lanciano, 4th Place LAIC |
+| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "weavile" >}} Zoroark Lycanroc Weavile | 5 | 2.01% | Alex Silva, 1st Place Special Event Campinos |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "ninetales-alola" >}} Zoroark Ninetales | 3 | 1.20% | Jack Culkin, 3rd Place Harrogate Regional |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "ninetales-alola" >}} {{< boxsprite "weavile" >}} Zoroark Ninetales Weavile | 2 | 0.80% | Rahul Reddy, 3rd Place Special Event Costa Rica |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "gyarados" >}} Zoroark Gyarados | 2 | 0.80% | Philip Schulz, 1st Place Harrogate Regional |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "glaceon" >}} Zoroark Glaceon | 1 | 0.40% | Roberto Gomes Coregio Junior, 10th Place LAIC |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "buzzwole" >}} Zoroark Buzzwole | 1 | 0.40% | Agustín Correa Pasini, 60th Place LAIC |
+| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "ninetales-alola" >}} Zoroark Lycanroc Ninetales | 1 | 0.40% | Austin Ellis, 15th Place Roanoke Regional |
 
   <p align="center">
     *Table 2 - Zoroark Archetypes*
@@ -288,15 +288,15 @@ The thing that sticks out immediately is the absolute dominance of Zoroark in te
   Now to address the orangutan in the room. Control is really good. Like REALLY good. Depending on the expected metagame, control can either be energy disruption loops with Oranguru, tank and heal with Regigigas or Steelix, special energy or low energy walling with Xurxitree GX or Shuckle GX, retreat locking with Guzma/Counter Catcher and Rockruff, or even mill with Rhyperior. It can really be whatever you want. Are people teched for Zoroark control with shrines and fighting types? Run Swampert control instead! One of my decks below is called "kitchen sink control" because it is exactly that, everything and the kitchen sink for any metagame! In Table 3 is the breakdown of control archetypes I've found.
 
 
-|       Deck Archetype      | Number of Decks| Meta Percentage |    Best Tournament Finish   |
-|:----------------:|:-----:|:----------:|:----------------:|
-|<img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Zoroark Control |   6   |    2.41%   | Daniel Altavilla, 1st Place LAIC |
-|<img src="/boxsprites/regigigas.png" alt="regigigas" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Regigigas Stall |   5   |    2.01%   |   Sander Wojcik, 15th Place Harrogate Regional  |
-|<img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />Steelix Stall  |   5   |    2.01%   |   Aaron Morgan, 19th Place Roanoke Regional  |
-|<img src="/boxsprites/shuckle.png" alt="shuckle" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Shuckle Sceptile |   4   |    1.61%   |   Gustavo Wada, 7th Place Special Event Chile|
-|<img src="/boxsprites/shuckle.png" alt="shuckle" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />   Hoopa Shuckle  |   2   |    0.80%   |   Grover Tranca, 7th Place SPecial Event Peru|
-|<img src="/boxsprites/shuckle.png" alt="shuckle" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> Glaceon Shuckle |   1   |    0.40%   |   Tommi Lahtela, 43rd Place Harrogate Regional |
-|<img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/oranguru.png" alt="oranguru" style="height:1.5em; vertical-align:middle; display:inline-block;" />  Swampert Control |   1   |    0.40%   |   Caleb Gedemer, 8th Place Special Event Mexico  |
+| Deck Archetype | Number of Decks | Meta Percentage | Best Tournament Finish |
+|---|---|---|---|
+| {{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} Zoroark Control | 6 | 2.41% | Daniel Altavilla, 1st Place LAIC |
+| {{< boxsprite "regigigas" >}} {{< boxsprite "hoopa-unbound" >}} Regigigas Stall | 5 | 2.01% | Sander Wojcik, 15th Place Harrogate Regional |
+| {{< boxsprite "steelix" >}} {{< boxsprite "hoopa-unbound" >}} Steelix Stall | 5 | 2.01% | Aaron Morgan, 19th Place Roanoke Regional |
+| {{< boxsprite "shuckle" >}} {{< boxsprite "sceptile" >}} Shuckle Sceptile | 4 | 1.61% | Gustavo Wada, 7th Place Special Event Chile |
+| {{< boxsprite "shuckle" >}} {{< boxsprite "hoopa-unbound" >}} Hoopa Shuckle | 2 | 0.80% | Grover Tranca, 7th Place Special Event Peru |
+| {{< boxsprite "shuckle" >}} {{< boxsprite "glaceon" >}} Glaceon Shuckle | 1 | 0.40% | Tommi Lahtela, 43rd Place Harrogate Regional |
+| {{< boxsprite "swampert" >}} {{< boxsprite "oranguru" >}} Swampert Control | 1 | 0.40% | Caleb Gedemer, 8th Place Special Event Mexico |
 
 
   <p align="center">
@@ -315,22 +315,22 @@ Sometimes no matter how well you play, your deck just loses to control. While no
 
 # Decklists
 
-- [Baby Buzzwole Garbodor](#baby-buzzwole-garbodor)  <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Buzzwole Lycanroc Ninetales](#buzzwole-lycanroc-ninetales)<img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Dusk Mane Necrozma](#dusk-mane-necrozma) <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> <img src="/boxsprites/dialga.png" alt="dialga" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/magnezone.png" alt="magnezone" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Empoleon](#empoleon) <img src="/boxsprites/empoleon.png" alt="empoleon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Garchomp](#garchomp) <img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Gardevoir Swampert Ninetales](#gardevoir-swampert-ninetales) <img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Granbull](#granbull)  <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Lost March](#lost-march)  <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Malamar](#malamar)  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Rayquaza Vikavolt](#rayquaza-vikavolt)  <img src="/boxsprites/rayquaza.png" alt="rayquaza" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/vikavolt.png" alt="vikavolt" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Sceptile](#sceptile)   <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Steelix Stall](#steelix-stall)  <img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [White Kyurem](#white-kyurem)   <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales)  <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Zoroark Lycanroc](#zoroark-lycanroc)  <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />
-- [Zoroark Glaceon](#zoroark-glaceon)  <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> 
+- [Baby Buzzwole Garbodor](#baby-buzzwole-garbodor)  {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}} {{< boxsprite "weavile" >}}
+- [Buzzwole Lycanroc Ninetales](#buzzwole-lycanroc-ninetales){{< boxsprite "buzzwole" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "ninetales-alola" >}}
+- [Dusk Mane Necrozma](#dusk-mane-necrozma) {{< boxsprite "necrozma-dusk" >}} {{< boxsprite "dialga" >}}{{< boxsprite "magnezone" >}}
+- [Empoleon](#empoleon) {{< boxsprite "empoleon" >}} {{< boxsprite "swampert" >}}
+- [Garchomp](#garchomp) {{< boxsprite "garchomp" >}}{{< boxsprite "lucario" >}}
+- [Gardevoir Swampert Ninetales](#gardevoir-swampert-ninetales) {{< boxsprite "gardevoir" >}} {{< boxsprite "swampert" >}} {{< boxsprite "ninetales-alola" >}}
+- [Granbull](#granbull)  {{< boxsprite "granbull" >}}
+- [Lost March](#lost-march)  {{< boxsprite "jumpluff" >}} {{< boxsprite "natu" >}}
+- [Malamar](#malamar)  {{< boxsprite "malamar" >}}  {{< boxsprite "necrozma" >}}
+- [Rayquaza Vikavolt](#rayquaza-vikavolt)  {{< boxsprite "rayquaza" >}}  {{< boxsprite "vikavolt" >}}
+- [Sceptile](#sceptile)   {{< boxsprite "sceptile" >}}
+- [Steelix Stall](#steelix-stall)  {{< boxsprite "steelix" >}}  {{< boxsprite "hoopa-unbound" >}}
+- [White Kyurem](#white-kyurem)   {{< boxsprite "kyurem-white" >}}
+- [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales)  {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}
+- [Zoroark Lycanroc](#zoroark-lycanroc)  {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}
+- [Zoroark Glaceon](#zoroark-glaceon)  {{< boxsprite "zoroark" >}} {{< boxsprite "glaceon" >}} 
 
 
 ---
@@ -338,8 +338,33 @@ Sometimes no matter how well you play, your deck just loses to control. While no
 The following decks are my current collection of decks for this format. They may not be the best or most competitively viable, but they are what I have built after playing the format for a few years casually. All of the photos are taken by me, and I have put decklist credit when applicable. I have also discussed the basic strategies of the decks and what certain inclusions do so people who are just picking up the format can have a nice place to start! My most common question from my friends when playing retro is "What the heck is this card in here for?", so I hope that these little blurbs can explain why the decks look like that! Below these are also a written decklist and a Limitless import for each deck if you would like to copy the decklist as text.
 
 ---
+## Alolan Exeggutor {{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}} {{< boxsprite "sceptile" >}}
 
-## Baby Buzzwole Garbodor <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/garbodor.png" alt="garbodor" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/weavile.png" alt="weavile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+  <p align="center">
+    <img src = "/Decklists/exeggutor-SUMLOT.jpg" width="1000" class="center" />
+  </p>
+
+
+| Pokemon                    | Trainer                 | Energy             |
+|----------------------------|-------------------------|--------------------|
+| 4 Exeggcute FLI 1          | 4 Lillie                | 6 Grass Energy     |
+| 4 Alolan Exeggutor FLI 2   | 3 Cynthia               | 1 Fire Energy      |
+| 2 Fomantis SUM 14          | 3 Guzma                 | 1 Lightning Energy |
+| 2 Lurantis SMP 25          | 1 Professor Kukui       | 1 Metal Energy     |
+| 2 Treecko LOT 20           | 1 Acerola               | 1 Water Energy     |
+| 2 Grovyle LOT 21           | 4 Net Ball              | 1 Psychic Energy   |
+| 1 Sceptile CES 10          | 4 Ultra Ball            |                    |
+| 2 Shuckle LOT 16           | 2 Rescue Stretcher      |                    |
+| 1 Ditto Prism Star LOT 154 | 1 Energy Recycle System |                    |
+|                            | 3 Choice Band           |                    |
+|                            | 3 Shrine of Punishment  |                    |
+
+
+[Limitless Import](my.limitlesstcg.com/builder?i=10431FLI10431FLI20232SUM140232SMP250232LOT200232LOT210132CES100232LOT160133LOT1540432SLG620333UPR1190333BUS1150133SUM1280133BUS1120433LOT1870432SLG680233GRI1300133CES1280333GRI1210333CES1430631SUMG0131SUMR0131SUML0131SUMM0131SUMW0131SUMP) 
+
+---
+
+## Baby Buzzwole Garbodor {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}} {{< boxsprite "weavile" >}}
 
   <p align="center">
     <img src = "/Decklists/buzzgarb-SUMLOT.jpg" width="1000" class="center" />
@@ -527,32 +552,43 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
     <img src = "/Decklists/granbull-SUMLOT.jpg" width="1000" class="center" />
   </p>
 
-  | Pokemon | Trainer | Energy | 
- |---|---|---|
-| 4 Snubbull LOT 137 | 4 Apricorn Maker CES 124 | 6 Fairy Energy Energy 26 |
-| 4 Granbull LOT 138 | 3 Guzma BUS 115 |  |
-| 3 Slugma CES 23 | 2 Diantha FLI 105 |  |
-| 3 Magcargo CES 24 | 1 Tate & Liza CES 148 |  |
-| 3 Oranguru SUM 113 | 4 Great Ball SLG 60 |  |
-| 1 Ditto Prism Star LOT 154 | 4 Ultra Ball SLG 68 |  |
-|  | 4 Nest Ball SUM 123 |  |
-|  | 2 Rescue Stretcher GRI 130 |  |
-|  | 1 Energy Recycle System CES 128 |  |
-|  | 1 Mysterious Treasure FLI 113 |  |
-|  | 1 Field Blower GRI 125 |  |
-|  | 1 Switch CES 147 |  |
-|  | 1 Pal Pad UPR 132 |  |
-|  | 3 Choice Band GRI 121 |  |
-|  | 1 Bodybuilding Dumbbells BUS 113 |  |
-|  | 3 Shrine of Punishment CES 143 |  |
+This single prize deck took LAIC by storm, taking 2 of the top 8 placements. Granbull's All-Out attack does a massive 160 damage for one energy, but there's a catch: you need to have no cards in hand to do the boosted damage. This seems like an enormous cost, you may be completely out of luck if you don't top deck anything the next turn! However, a super thick line of Oranguru to draw up to 3 cards in hand and Magcargo to control your draws can give you the control you need to continually stream Granbull attacks without missing a beat. Apricorn Maker is the main engine of this deck, especially since Ultra Ball is legitimately the best card in deck. Ball cards can be played to lower your hand size by 1, but Ultra Ball lets you go down a whopping 3 cards, which is coincidentally how much you fraw up to from Oranguru. Supporters are very hard to deal with in this deck, since if you have more than one in your hand you'll need to find a way to discard the one you can't use. Ultra Balls are great for this, but since you can only run 4 (legally), this list runs a Mysterious Treasure to help with discards even though there isn't a valid target in the deck. Diantha is great since your Grabulls are often being knocked out, and it can let you recover important items like Ultra Ball or Choice Band to keep up your low hand size. This deck plays no GX Pokemon, so Shrine of Punishment is a free 10 damage boost on opposing GXs.
+
+Doing upwards of 160 damage on a stage 1 single prizer for 1 basic energy seems too good to be true, but in this deck it not only happens, but does so extremely consistently. Since it up-trades very well, Granbull is able to miss the full power All-Out for a few turns and still win matchups. It tends to struggle against hard hand disruption, but in the opposite way most decks do! Most decks hate having only 4 cards to work with, but Granbull hates having 4 cards that they may not be able to play down. It can also struggle against single prizers that can trade KOs with it, but Body-Building Dumbbells is a nice tech for those matchups. This deck is extremely difficult to play well, but when you do it can beat almost anything in the metagame.
+
+| Pokemon                    | Trainer                  | Energy         |
+|----------------------------|--------------------------|----------------|
+| 4 Snubbull LOT 137         | 4 Apricorn Maker         | 6 Fairy Energy |
+| 4 Granbull LOT 138         | 3 Guzma                  |                |
+| 3 Slugma CES 23            | 2 Diantha                |                |
+| 3 Magcargo CES 24          | 1 Tate & Liza            |                |
+| 3 Oranguru SUM 113         | 4 Great Ball             |                |
+| 1 Ditto Prism Star LOT 154 | 4 Ultra Ball             |                |
+|                            | 4 Nest Ball              |                |
+|                            | 2 Rescue Stretcher       |                |
+|                            | 1 Energy Recycle System  |                |
+|                            | 1 Mysterious Treasure    |                |
+|                            | 1 Field Blower           |                |
+|                            | 1 Switch                 |                |
+|                            | 1 Pal Pad                |                |
+|                            | 3 Choice Band            |                |
+|                            | 1 Bodybuilding Dumbbells |                |
+|                            | 3 Shrine of Punishment   |                |
   
-  [Limitless Import](https://my.limitlesstcg.com/builder?i=10433LOT1370433LOT1380332CES230332CES240333SUM1130133LOT1540433CES1240333BUS1150233FLI1050133CES1480432SLG600432SLG680433SUM1230233GRI1300133CES1280133FLI1130133GRI1250133CES1470133UPR1320333GRI1210133BUS1130333CES1430631SUMY)
+[Limitless Import](https://my.limitlesstcg.com/builder?i=10433LOT1370433LOT1380332CES230332CES240333SUM1130133LOT1540433CES1240333BUS1150233FLI1050133CES1480432SLG600432SLG680433SUM1230233GRI1300133CES1280133FLI1130133GRI1250133CES1470133UPR1320333GRI1210133BUS1130333CES1430631SUMY)
+
+
+---
 
 ## Lost March  <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/lostmarch-SUMLOT.jpg" width="1000" class="center" />
   </p>
+
+This deck was expected to be a meta-defining deck on release, and never quite lived up to the hype. The goal is to stack Pokemon in the Lost Zone with Skiploom's Floral Path to the Sky and Trumbeak's Mountain Pass to quickly boost the 20x multiplier of Natu and Jumpluff's Lost March to swing for big damage with single prizers. Trumbeak has no basic in this deck, so it is only used for its ability to send itself directly into the Lost Zone. Jumpluff is a stage 2, but acts as a stage 1 since Skiploom lets you put it down from your deck on the turn you play it. Natu needs less setup, but attacks for a DCE which is not as easily searchable as basic Grass and Net Ball. Lost Blender lets you add unneeded Pokemon to the lost zone and also draw a card, which pairs nicely with Magcargo's Smooth over. It is one of the few decks that plays a heavy Marshadow count with hopes of disrupting your opponent before they can deal with your onslaught.
+
+Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. Just 2 Feather Arrows from Decidueye GX can KO a Natu or Hoppip without even attacking. Though it seems it trades well into big GX Pokemon, Lost March takes a lot of resources to set up, so it often will fizzle out before taking the last few prizes. It also only plays 7 energy cards, so heavy energy disruption is diffult to beat unless you can win before they discard your energy. Lost March is a super aggressive deck that can hit absurd numbers and very fun to play, but is inconsistent and has a hard time setting up against faster decks.
 
   | Pokemon | Trainer | Energy | 
  |---|---|---|
@@ -569,11 +605,18 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
  
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432LOT120432LOT130432LOT140433LOT1650332LOT870332SLG450132CES230132CES240133SUM1130133LOT1540433UPR1250333UPR1190233LOT1880233BUS1150433SUM1190433SUM1350433LOT1810233LOT1870233GRI1300432SLG690331SUMG)
 
+---
+
 ## Malamar  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/malamar-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Rahul Reddy*
   </p>
+
+  With Malamar's Psychic Recharge mimicking Dynamotor or Firestarter in older decks, psychic attackers have a fast and efficient way to power them up in SUM-LOT. Some lists rely on Ultra Necrozma GX and metal energy, but this one is more of a box-type deck. A thick 4-4 Malamar line helps to power up a variety of attackers, but mainly Necrozma for GX matchups and Giratina for single prizers. Necrozma GX lets you discard all Pychic energy from it to do 10 plus 60 damage for each energy attached, meaning you can do a massive 250 damage for 4 energy attached, which you can then reuse with Psychic Recharge. Chimecho is an interesting tech that can slow down evolving decks with its first attack. Dawn Wings Necrozma works similarly to Keldeo EX and lets you switch it into the active to Psychic Recharge to the bench. Marshadow helps the Zoroark matchup by letting you hit for weakness by copying an attack in the discard. 
+
+  The harded part of this deck is getting Psychic energy in the discard to accelerate. Mysterious Treasure helps, but with no way to search basic energy, you need to raw draw into them. Psychic recharge also only accelerates to benched Pokemon, so sometimes you don't have the necessary switch to get it into the active. 4 switch and 4 Guzma help, but with no onboard draw engine, you often have to hope you draw into what you need. Necrozma hits super big numbers, but Zoroark is still a difficult matchup since they can chase down your Malamar leaving you stranded. Consistency in general is an issue with Malamar, but its power is simply too much for certain decks handles.
 
   | Pokemon | Trainer | Energy | 
  |---|---|---|
@@ -590,11 +633,17 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
  
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI500432FLI510232SMP580232SLG450132UPR630132CIN430132UPR620132SMP590132LOT970132GRI600433UPR1190432SLG620433BUS1150433CES1230433FLI1130433SUM1350333CES1470233SUM1230133GRI1300233GRI1210a31SUMP)
 
-## Rayquaza Vikavolt  <img src="/boxsprites/rayquaza.png" alt="rayquaza" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/vikavolt.png" alt="vikavolt" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+  ---
+
+## Rayquaza Vikavolt  {{< boxsprite "rayquaza" >}}  {{< boxsprite "vikavolt" >}}
 
   <p align="center">
     <img src = "/Decklists/vikaray-SUMLOT.jpg" width="1000" class="center" />
   </p>
+
+  One of my favorite decks in the format (it's just because I like the yellow and green energy), this is one of the few agressive big-basic 2 prizers in format. Rayquaza GX can accerlate to itself with its Stormy Winds ability, and Vikavolt's Strong charge can power up Dragon Gale for huge damage out of nowhere. Tempest GX is also an amazing attack for setting up, discard your hand and drawing 10 is a huge boost to consistency. Zeraora GX is great for mobility, giving free retreat to any Pokemon with Lightning energy attached. Dhelmise seems like an interesting inclusion, but it allows you to have a single prize board state since Vikavolt's attack is not very efficient.
+  
+  Speaking of consistency, this deck misses it at times. Stormy Winds mills the top 3 cards of your deck, so you will often mill important resources which you can't recover. Vikavolt also needs Rare Candy to set up, which like other decks on this list is very hard to achieve with Cynthia alone. Volkner really helps in this regard, but you still have to have one of the pieces in hand to use it to set up Vikavolt.
 
 | Pokemon | Trainer | Energy | 
 |---|---|---| 
@@ -612,7 +661,9 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
 
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10433CES1090332SUM130332SMP280232GRI600232CES220132LOT860132SLG450433BUS1150333UPR1190333UPR1350232SLG620432SLG680433SUM1290233SUM1230233FLI1130233GRI1230233GRI1300233GRI1210731SUMG0731SUML)
 
-## Sceptile  <img src="/boxsprites/sceptile.png" alt="sceptile" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+  ---
+
+## Sceptile  {{< boxsprite "sceptile" >}}
 
   <p align="center">
     <img src = "/Decklists/sceptile-SUMLOT.jpg" width="1000" class="center" />
@@ -637,7 +688,9 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
  
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432LOT200332LOT210332LOT220133CES10a0232SUM140232SMP250232GRI600133LOT1540433UPR1250433UPR1190333BUS1150133CES1480133LOT1880133FLI1080433LOT1870432SLG680433SUM1290233GRI1280133GRI1250133GRI1300333GRI1210133LOT1800731SUMG0133UPR136)
 
-## Steelix Stall  <img src="/boxsprites/steelix.png" alt="steelix" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/hoopa-unbound.png" alt="hoopa" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+---
+
+## Steelix Stall  {{< boxsprite "steelix" >}}  {{< boxsprite "hoopa-unbound" >}}
 
   <p align="center">
     <img src = "/Decklists/steelix-SUMLOT.jpg" width="1000" class="center" />
@@ -667,7 +720,9 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
 
 [Limitless Import](https://my.limitlesstcg.com/builder?i=10433LOT1090432CES890232SLG550133UPR1140132LOT910132LOT560132CES310132LOT940433CES1450433UPR1190333BUS1120332CIN960233SUM1330233BUS1200133LOT1730132CIN950133CES1480133BUS1150133CES1270433GRI1280333GRI1240333SUM1150232CIN910133GRI1300133CES1470233FLI1120433GRI1200131SUMW0133SUM137)
 
-## White Kyurem  <img src="/boxsprites/kyurem-white.png" alt="kyurem" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+---
+
+## White Kyurem  {{< boxsprite "kyurem-white" >}}
 
   <p align="center">
     <img src = "/Decklists/whitekyurem-SUMLOT.jpg" width="1000" class="center" />
@@ -691,7 +746,9 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
   
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432LOT630232LOT810132LOT820232FLI110132SLG450132FLI960433UPR1190433UPR1250433BUS1150133UPR1200432SLG680433SUM1230433GRI1190233GRI1300133CES1280433BUS1280233GRI1210433CES1430731SUMW0431SUMR)
 
-## Zoroark Decidueye Ninetales <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/decidueye.png" alt="decidueye" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+---
+
+## Zoroark Decidueye Ninetales {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}
 
   <p align="center">
     <img src = "/Decklists/zorodecitales-SUMLOT.jpg" width="1000" class="center" />
@@ -717,7 +774,9 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
 
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10332SLG520332SLG530331SUM90132SUM100332SUM120332GRI210233LOT1320132GRI220232GRI600133LOT1540433UPR1190433LOT1880333BUS1150133BUS1120133FLI1080432SLG680333SUM1290133SUM1340132CIN910133GRI1240133GRI1280133GRI1250133GRI1300233GRI1210133LOT1700433SUM1360331SUMY0233SUM137)
 
-## Zoroark Lycanroc <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+---
+
+## Zoroark Lycanroc {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}
 
   <p align="center">
     <img src = "/Decklists/zororoc-SUMLOT.jpg" width="1000" class="center" />
@@ -744,7 +803,9 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
 
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432SLG520432SLG530232CES860232UPR740232GRI730232GRI740232GRI600133LOT1540132CES240433LOT1880333UPR1190233SUM1280233BUS1120233BUS1150133GRI1270432SLG680333SUM1340133GRI1240132SLG670133GRI1290133UPR1320133GRI1300333GRI1210133LOT1700232CIN930433FLI1180432SLG69)
 
-## Zoroark Glaceon <img src="/boxsprites/zoroark.png" alt="zoroark" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/glaceon.png" alt="glaceon" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+---
+
+## Zoroark Glaceon {{< boxsprite "zoroark" >}} {{< boxsprite "glaceon" >}}
 
   <p align="center">
     <img src = "/Decklists/zoroglace-SUMLOT.jpg" width="1000" class="center" />

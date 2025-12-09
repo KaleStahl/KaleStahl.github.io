@@ -1,32 +1,31 @@
-Pokémon: 19
-4 Buzzwole FLI 77
-2 Slugma CES 23
-2 Magcargo CES 24
-2 Sneasel UPR 73
-2 Weavile UPR 74
-2 Trubbish GRI 50
-2 Garbodor GRI 51
+Pokémon: 20
+4 Exeggcute FLI 1
+4 Alolan Exeggutor FLI 2
+2 Fomantis SUM 14
+2 Lurantis SMP 25
+2 Treecko LOT 20
+2 Grovyle LOT 21
+1 Sceptile CES 10
+2 Shuckle LOT 16
 1 Ditto Prism Star LOT 154
-1 Diancie Prism Star FLI 74
-1 Oranguru SUM 113
 
-Trainer: 31
+Trainer: 29
 4 Lillie SLG 62
-3 Judge FLI 108
+3 Cynthia UPR 119
 3 Guzma BUS 115
-2 Professor Kukui SUM 128
-1 Cynthia UPR 119
-1 Tate & Liza CES 148
+1 Professor Kukui SUM 128
+1 Acerola BUS 112
+4 Net Ball LOT 187
 4 Ultra Ball SLG 68
-4 Nest Ball SUM 123
-1 Acro Bike CES 123
-1 Rescue Stretcher GRI 130
-1 Switch SLG 67
+2 Rescue Stretcher GRI 130
+1 Energy Recycle System CES 128
 3 Choice Band GRI 121
 3 Shrine of Punishment CES 143
 
-Energy: 10
-4 Unit Energy FDY FLI 118
-4 Rainbow Energy SUM 137
-1 Beast Energy Prism Star FLI 117
-1 Counter Energy CIN 100
+Energy: 11
+6 Grass Energy Energy 18
+1 Fire Energy Energy 19
+1 Lightning Energy Energy 21
+1 Metal Energy Energy 25
+1 Water Energy Energy 20
+1 Psychic Energy Energy 22

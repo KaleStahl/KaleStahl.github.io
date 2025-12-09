@@ -3,7 +3,7 @@ def listToTable(filename):
         with open(filename, "r") as file:
             list = file.read()
     except FileNotFoundError:
-        print("Error: The file 'listFile.txt' was not found.")
+        print(f"Error: The file '{filename}' was not found.")
         return
     except Exception as e:
         print(f"An error occurred: {e}")
@@ -19,7 +19,7 @@ def listToTable(filename):
     tMaxLen = len(cutOff(max(trainerList, key=len)))
     eMaxLen = len(cutOff(max(energyList, key=len)))
     maxRows = max(len(pokemonList), len(trainerList), len(energyList))
-    tableString += f"| {"Pokemon".ljust(pMaxLen)} | {"Trainer".ljust(tMaxLen)} | {"Energy".ljust(eMaxLen)} | \n"
+    tableString += f"| {'Pokemon'.ljust(pMaxLen)} | {'Trainer'.ljust(tMaxLen)} | {'Energy'.ljust(eMaxLen)} | \n"
     tableString += f"|{'-'*(pMaxLen +2)}|{'-'*(tMaxLen +2)}|{'-'*(eMaxLen +2)}| \n"
     for i in range(maxRows):
         pokemon = pokemonList[i] if i < len(pokemonList) else ""
@@ -42,5 +42,5 @@ def cutOff(input_string):
         return ""
 
 
-print(listToTable("E:\_repos\KaleStahl.github.io\helperstuff\listFile.txt"))
+print(listToTable("C:/Users/kales/kalestahl/helperstuff/listFile.txt"))
 
