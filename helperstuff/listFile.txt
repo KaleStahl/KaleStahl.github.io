@@ -1,31 +1,39 @@
-Pokémon: 20
-4 Exeggcute FLI 1
-4 Alolan Exeggutor FLI 2
-2 Fomantis SUM 14
-2 Lurantis SMP 25
-2 Treecko LOT 20
-2 Grovyle LOT 21
-1 Sceptile CES 10
-2 Shuckle LOT 16
-1 Ditto Prism Star LOT 154
+Pokémon: 27
+3 Alolan Vulpix GRI 21
+2 Alolan Ninetales-GX LOT 132
+1 Alolan Ninetales-GX GRI 22
+2 Chikorita LOT 5
+2 Meganium LOT 8
+2 Mudkip CES 32
+2 Swampert CES 35
+2 Rowlet SUM 9
+2 Decidueye-GX SUM 12
+2 Tapu Lele-GX GRI 60
+1 Horsea BUS 29
+1 Kingdra-GX DRM 18
+1 Porygon BUS 103
+1 Porygon-Z BUS 105
+1 Cosmog SUM 64
+1 Solgaleo-GX SMP 104
+1 Tapu Koko SMP 30
 
-Trainer: 29
-4 Lillie SLG 62
-3 Cynthia UPR 119
-3 Guzma BUS 115
-1 Professor Kukui SUM 128
+Trainer: 25
+4 Professor Elm's Lecture LOT 188
+1 Lillie UPR 125
+1 Cynthia UPR 119
+1 Judge FLI 108
+1 Tate & Liza CES 148
 1 Acerola BUS 112
-4 Net Ball LOT 187
+1 Gladion CIN 95
+1 Guzma BUS 115
 4 Ultra Ball SLG 68
-2 Rescue Stretcher GRI 130
-1 Energy Recycle System CES 128
-3 Choice Band GRI 121
-3 Shrine of Punishment CES 143
+4 Rare Candy SUM 129
+2 Timer Ball SUM 134
+1 Rescue Stretcher GRI 130
+1 Counter Gain LOT 170
+2 Brooklet Hill GRI 120
 
-Energy: 11
-6 Grass Energy Energy 18
-1 Fire Energy Energy 19
-1 Lightning Energy Energy 21
-1 Metal Energy Energy 25
-1 Water Energy Energy 20
-1 Psychic Energy Energy 22
+Energy: 8
+4 Double Colorless Energy SLG 69
+3 Rainbow Energy CES 151
+1 Super Boost Energy Prism Star UPR 136

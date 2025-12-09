@@ -236,27 +236,27 @@ These are a few of the cards you should definitely consider when building decks 
 
 Since this format is no longer being played competively (at least officially), the only hard data we have to go off is from 2018 when it was played. Luckily, the amazing [Limitless.tcg](https://limitlesstcg.com/tournaments?time=all&type=all&format=SUM-LOT&region=all) has a lot of data on most of the major tournaments that happened at the time, so I can do some data analysis on that. Table 1 is created by me compiling all of the available data from Limitless, and then filtering based on more general archetypes than Limitless does. The meta percentages do not add up to 100%, and that is because certain decks qualify for multiple archetypes, so decks like Zoroark-Glaceon count as both a Zoroark deck and a Glaceon deck. Limitless data is usually limited to only Day 2 qualifiers or Top 8 in smaller tournaments, so this is not a perfect representation of the metagame at the time, but I feel like it can give you a gist of what the top decks were in the meta at any given time.
 
-| Deck Archetype | Number of Decks | Meta Percentage | Best Tournament Finish |
-|---|---|---|---|
-| {{< boxsprite "zoroark" >}} Zoroark | 71 | 28.74% | Daniel Altavilla, 1st Place LAIC |
-| {{< boxsprite "blacephalon" >}} {{< boxsprite "naganadel" >}} Blacephalon Naganadel | 48 | 19.43% | Vicente Rodriguez Cuevas, 1st Place Special Event Chile |
-| {{< boxsprite "malamar" >}} Malamar | 31 | 12.55% | Tye Pellecchia, 1st Place Special Event Costa Rica |
-| {{< boxsprite "decidueye" >}} Decidueye | 25 | 10.12% | Angus Johnson, 1st Place Brisbane Regional |
-| {{< boxsprite "oranguru" >}} Control | 24 | 9.64% | Daniel Altavilla 1st Place LAIC |
-| {{< boxsprite "tapu-koko" >}}{{< boxsprite "passimian" >}} Tapu Koko Spread | 17 | 6.88% | Patricia Gonzalez Walsh, 1st Place Special Event Argentina |
-| {{< boxsprite "granbull" >}} Granbull | 16 | 6.48% | Nicolas Galaz, 2nd Place LAIC |
-| {{< boxsprite "buzzwole" >}}{{< boxsprite "lycanroc-midnight" >}} Buzzwole Lycanroc | 14 | 5.67% | Alex Schemanske, 5th Place LAIC |
-| {{< boxsprite "gardevoir" >}} Gardevoir | 11 | 4.45% | Jimmy Pendarvis, 1st Place Roanoke Regional |
-| {{< boxsprite "jumpluff" >}} {{< boxsprite "natu" >}} Lost March | 11 | 4.45% | Oscar Taboada, 2nd Place Special Event Peru |
-| {{< boxsprite "rayquaza" >}} {{< boxsprite "vikavolt" >}} Rayquaza Vikavolt | 6 | 2.43% | Marcelo Magalhaes, 9th Place LAIC |
-| {{< boxsprite "sceptile" >}} Sceptile | 5 | 2.02% | Gregory Chrisholm, 5th Place Special Event Costa Rica |
-| {{< boxsprite "steelix" >}} Steelix | 5 | 2.02% | Adrian Fjell, 11th Place Harrogate Regional |
-| {{< boxsprite "buzzwole" >}} {{< boxsprite "garbodor" >}} Buzzgarb | 4 | 1.62% | Sultan Alneyadi, 1st Place Special Event Dubai |
-| {{< boxsprite "glaceon" >}} Glaceon | 3 | 1.21% | Roberto Gomes Coregio Junior, 10th Place LAIC |
-| {{< boxsprite "kyurem-white" >}} White Kyurem | 2 | 0.81% | Bolly Olufon, 9th Place Harrogate Regional |
-| {{< boxsprite "necrozma-dusk" >}} Necrozma Dusk Mane | 2 | 0.81% | Tomas Osorio Sanzana, 16th Place Special Event Chile |
-| {{< boxsprite "greninja" >}} Greninja | 1 | 0.40% | Siddequr Rahman, 24th Place Harrogate Regional |
-| {{< boxsprite "naganadel" >}} {{< boxsprite "quagsire" >}} Naganadel Quagsire | 1 | 0.40% | Matt Vuchichevich, 53rd Place Roanoke Regional |
+| Deck Archetype                                    | Number of Decks | Meta Percentage | Best Tournament Finish                                         |
+|--------------------------------------------------|:------------------:|:-----------------:|:----------------------------------------------------------------:|
+| {{< boxsprite "zoroark" >}} Zoroark               | 71               | 28.74%          | Daniel Altavilla, 1st Place LAIC                               |
+| {{< boxsprite "blacephalon" >}} {{< boxsprite "naganadel" >}} Blacephalon Naganadel | 48               | 19.43%          | Vicente Rodriguez Cuevas, 1st Place Special Event Chile        |
+| {{< boxsprite "malamar" >}} Malamar               | 31               | 12.55%          | Tye Pellecchia, 1st Place Special Event Costa Rica             |
+| {{< boxsprite "decidueye" >}} Decidueye           | 25               | 10.12%          | Angus Johnson, 1st Place Brisbane Regional                     |
+| {{< boxsprite "oranguru" >}} Control               | 24               | 9.64%           | Daniel Altavilla 1st Place LAIC                                |
+| {{< boxsprite "tapu-koko" >}}{{< boxsprite "passimian" >}} Tapu Koko Spread | 17               | 6.88%           | Patricia Gonzalez Walsh, 1st Place Special Event Argentina     |
+| {{< boxsprite "granbull" >}} Granbull             | 16               | 6.48%           | Nicolas Galaz, 2nd Place LAIC                                  |
+| {{< boxsprite "buzzwole" >}}{{< boxsprite "lycanroc-midnight" >}} Buzzwole Lycanroc | 14               | 5.67%           | Alex Schemanske, 5th Place LAIC                                |
+| {{< boxsprite "gardevoir" >}} Gardevoir           | 11               | 4.45%           | Jimmy Pendarvis, 1st Place Roanoke Regional                    |
+| {{< boxsprite "jumpluff" >}} {{< boxsprite "natu" >}} Lost March | 11               | 4.45%           | Oscar Taboada, 2nd Place Special Event Peru                    |
+| {{< boxsprite "rayquaza" >}} {{< boxsprite "vikavolt" >}} Rayquaza Vikavolt | 6                | 2.43%           | Marcelo Magalhaes, 9th Place LAIC                              |
+| {{< boxsprite "sceptile" >}} Sceptile             | 5                | 2.02%           | Gregory Chrisholm, 5th Place Special Event Costa Rica         |
+| {{< boxsprite "steelix" >}} Steelix               | 5                | 2.02%           | Adrian Fjell, 11th Place Harrogate Regional                    |
+| {{< boxsprite "buzzwole" >}} {{< boxsprite "garbodor" >}} Buzzgarb | 4                | 1.62%           | Sultan Alneyadi, 1st Place Special Event Dubai                |
+| {{< boxsprite "glaceon" >}} Glaceon               | 3                | 1.21%           | Roberto Gomes Coregio Junior, 10th Place LAIC                  |
+| {{< boxsprite "kyurem-white" >}} White Kyurem      | 2                | 0.81%           | Bolly Olufon, 9th Place Harrogate Regional                    |
+| {{< boxsprite "necrozma-dusk" >}} Necrozma Dusk Mane | 2                | 0.81%           | Tomas Osorio Sanzana, 16th Place Special Event Chile          |
+| {{< boxsprite "greninja" >}} Greninja             | 1                | 0.40%           | Siddequr Rahman, 24th Place Harrogate Regional                |
+| {{< boxsprite "naganadel" >}} {{< boxsprite "quagsire" >}} Naganadel Quagsire | 1                | 0.40%           | Matt Vuchichevich, 53rd Place Roanoke Regional                |
 
   <p align="center">
     *Table 1 - General Metagame*
@@ -264,20 +264,20 @@ Since this format is no longer being played competively (at least officially), t
 
 The thing that sticks out immediately is the absolute dominance of Zoroark in terms of meta representation. Rarely does one archetype hit 20%, so 28% is very high, especially considering the limited data. We can expand this in Table 2 to see that this is actually a bunch of different decks in hiding!
 
-| Deck Archetype | Number of Decks | Meta Percentage | Best Tournament Finish |
-|---|---|---|---|
-| {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}} Zoroark Decidueye Ninetales | 19 | 7.63% | Angus Johnson, 1st Place Brisbane Regionals |
-| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}} Zoroark Lycanroc | 19 | 7.63% | Javier Orrego Letelier, 4th Place Special Event Chile |
-| {{< boxsprite "zoroark" >}} {{< boxsprite "weavile" >}} Zoroark Weavile | 7 | 2.81% | Gabriel Pereira Pinto, 3rd Place Special Event Campinos |
-| {{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} Zoroark Control | 6 | 2.41% | Daniel Altavilla, 1st Place LAIC |
-| {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}} Zoroark Decidueye | 5 | 2.01% | Jonathan Fabrizio Bellucci Lanciano, 4th Place LAIC |
-| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "weavile" >}} Zoroark Lycanroc Weavile | 5 | 2.01% | Alex Silva, 1st Place Special Event Campinos |
-| {{< boxsprite "zoroark" >}} {{< boxsprite "ninetales-alola" >}} Zoroark Ninetales | 3 | 1.20% | Jack Culkin, 3rd Place Harrogate Regional |
-| {{< boxsprite "zoroark" >}} {{< boxsprite "ninetales-alola" >}} {{< boxsprite "weavile" >}} Zoroark Ninetales Weavile | 2 | 0.80% | Rahul Reddy, 3rd Place Special Event Costa Rica |
-| {{< boxsprite "zoroark" >}} {{< boxsprite "gyarados" >}} Zoroark Gyarados | 2 | 0.80% | Philip Schulz, 1st Place Harrogate Regional |
-| {{< boxsprite "zoroark" >}} {{< boxsprite "glaceon" >}} Zoroark Glaceon | 1 | 0.40% | Roberto Gomes Coregio Junior, 10th Place LAIC |
-| {{< boxsprite "zoroark" >}} {{< boxsprite "buzzwole" >}} Zoroark Buzzwole | 1 | 0.40% | Agustín Correa Pasini, 60th Place LAIC |
-| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "ninetales-alola" >}} Zoroark Lycanroc Ninetales | 1 | 0.40% | Austin Ellis, 15th Place Roanoke Regional |
+| Deck Archetype                                                          | Number of Decks | Meta Percentage | Best Tournament Finish                                 |
+|------------------------------------------------------------------------|:------------------:|:-----------------:|:--------------------------------------------------------:|
+| {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}} Zoroark Decidueye Ninetales | 19               | 7.63%           | Angus Johnson, 1st Place Brisbane Regionals            |
+| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}} Zoroark Lycanroc                 | 19               | 7.63%           | Javier Orrego Letelier, 4th Place Special Event Chile  |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "weavile" >}} Zoroark Weavile                       | 7                | 2.81%           | Gabriel Pereira Pinto, 3rd Place Special Event Campinos |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} Zoroark Control                      | 6                | 2.41%           | Daniel Altavilla, 1st Place LAIC                       |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}} Zoroark Decidueye                      | 5                | 2.01%           | Jonathan Fabrizio Bellucci Lanciano, 4th Place LAIC    |
+| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "weavile" >}} Zoroark Lycanroc Weavile | 5                | 2.01%           | Alex Silva, 1st Place Special Event Campinos           |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "ninetales-alola" >}} Zoroark Ninetales                | 3                | 1.20%           | Jack Culkin, 3rd Place Harrogate Regional             |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "ninetales-alola" >}} {{< boxsprite "weavile" >}} Zoroark Ninetales Weavile | 2                | 0.80%           | Rahul Reddy, 3rd Place Special Event Costa Rica        |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "gyarados" >}} Zoroark Gyarados                      | 2                | 0.80%           | Philip Schulz, 1st Place Harrogate Regional           |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "glaceon" >}} Zoroark Glaceon                        | 1                | 0.40%           | Roberto Gomes Coregio Junior, 10th Place LAIC         |
+| {{< boxsprite "zoroark" >}} {{< boxsprite "buzzwole" >}} Zoroark Buzzwole                       | 1                | 0.40%           | Agustín Correa Pasini, 60th Place LAIC                |
+| {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "ninetales-alola" >}} Zoroark Lycanroc Ninetales | 1                | 0.40%           | Austin Ellis, 15th Place Roanoke Regional             |
 
   <p align="center">
     *Table 2 - Zoroark Archetypes*
@@ -288,15 +288,15 @@ The thing that sticks out immediately is the absolute dominance of Zoroark in te
   Now to address the orangutan in the room. Control is really good. Like REALLY good. Depending on the expected metagame, control can either be energy disruption loops with Oranguru, tank and heal with Regigigas or Steelix, special energy or low energy walling with Xurxitree GX or Shuckle GX, retreat locking with Guzma/Counter Catcher and Rockruff, or even mill with Rhyperior. It can really be whatever you want. Are people teched for Zoroark control with shrines and fighting types? Run Swampert control instead! One of my decks below is called "kitchen sink control" because it is exactly that, everything and the kitchen sink for any metagame! In Table 3 is the breakdown of control archetypes I've found.
 
 
-| Deck Archetype | Number of Decks | Meta Percentage | Best Tournament Finish |
-|---|---|---|---|
-| {{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} Zoroark Control | 6 | 2.41% | Daniel Altavilla, 1st Place LAIC |
-| {{< boxsprite "regigigas" >}} {{< boxsprite "hoopa-unbound" >}} Regigigas Stall | 5 | 2.01% | Sander Wojcik, 15th Place Harrogate Regional |
-| {{< boxsprite "steelix" >}} {{< boxsprite "hoopa-unbound" >}} Steelix Stall | 5 | 2.01% | Aaron Morgan, 19th Place Roanoke Regional |
-| {{< boxsprite "shuckle" >}} {{< boxsprite "sceptile" >}} Shuckle Sceptile | 4 | 1.61% | Gustavo Wada, 7th Place Special Event Chile |
-| {{< boxsprite "shuckle" >}} {{< boxsprite "hoopa-unbound" >}} Hoopa Shuckle | 2 | 0.80% | Grover Tranca, 7th Place Special Event Peru |
-| {{< boxsprite "shuckle" >}} {{< boxsprite "glaceon" >}} Glaceon Shuckle | 1 | 0.40% | Tommi Lahtela, 43rd Place Harrogate Regional |
-| {{< boxsprite "swampert" >}} {{< boxsprite "oranguru" >}} Swampert Control | 1 | 0.40% | Caleb Gedemer, 8th Place Special Event Mexico |
+| Deck Archetype                                   | Number of Decks | Meta Percentage | Best Tournament Finish                                 |
+|-------------------------------------------------|:------------------:|:-----------------:|:--------------------------------------------------------:|
+| {{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} Zoroark Control | 6                | 2.41%           | Daniel Altavilla, 1st Place LAIC                       |
+| {{< boxsprite "regigigas" >}} {{< boxsprite "hoopa-unbound" >}} Regigigas Stall | 5                | 2.01%           | Sander Wojcik, 15th Place Harrogate Regional           |
+| {{< boxsprite "steelix" >}} {{< boxsprite "hoopa-unbound" >}} Steelix Stall | 5                | 2.01%           | Aaron Morgan, 19th Place Roanoke Regional              |
+| {{< boxsprite "shuckle" >}} {{< boxsprite "sceptile" >}} Shuckle Sceptile | 4                | 1.61%           | Gustavo Wada, 7th Place Special Event Chile            |
+| {{< boxsprite "shuckle" >}} {{< boxsprite "hoopa-unbound" >}} Hoopa Shuckle | 2                | 0.80%           | Grover Tranca, 7th Place Special Event Peru            |
+| {{< boxsprite "shuckle" >}} {{< boxsprite "glaceon" >}} Glaceon Shuckle | 1                | 0.40%           | Tommi Lahtela, 43rd Place Harrogate Regional          |
+| {{< boxsprite "swampert" >}} {{< boxsprite "oranguru" >}} Swampert Control | 1                | 0.40%           | Caleb Gedemer, 8th Place Special Event Mexico         |
 
 
   <p align="center">
@@ -315,22 +315,26 @@ Sometimes no matter how well you play, your deck just loses to control. While no
 
 # Decklists
 
-- [Baby Buzzwole Garbodor](#baby-buzzwole-garbodor)  {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}} {{< boxsprite "weavile" >}}
-- [Buzzwole Lycanroc Ninetales](#buzzwole-lycanroc-ninetales){{< boxsprite "buzzwole" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "ninetales-alola" >}}
-- [Dusk Mane Necrozma](#dusk-mane-necrozma) {{< boxsprite "necrozma-dusk" >}} {{< boxsprite "dialga" >}}{{< boxsprite "magnezone" >}}
-- [Empoleon](#empoleon) {{< boxsprite "empoleon" >}} {{< boxsprite "swampert" >}}
+- [Alolan Exeggutor](#alolan-exeggutor) {{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}
+- [Baby Buzzwole Garbodor](#baby-buzzwole-garbodor) {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}}{{< boxsprite "weavile" >}}
+- [Blacephalon Naganadel](#blacephalon-naganadel) {{< boxsprite "blacephalon">}}{{< boxsprite "naganadel">}}
+- [Buzzwole Lycanroc Ninetales](#buzzwole-lycanroc-ninetales) {{< boxsprite "buzzwole" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "ninetales-alola" >}}
+- [Dusk Mane Necrozma](#dusk-mane-necrozma) {{< boxsprite "necrozma-dusk" >}}{{< boxsprite "dialga" >}}{{< boxsprite "magnezone" >}}
+- [Empoleon](#empoleon) {{< boxsprite "empoleon" >}}{{< boxsprite "swampert" >}}
 - [Garchomp](#garchomp) {{< boxsprite "garchomp" >}}{{< boxsprite "lucario" >}}
-- [Gardevoir Swampert Ninetales](#gardevoir-swampert-ninetales) {{< boxsprite "gardevoir" >}} {{< boxsprite "swampert" >}} {{< boxsprite "ninetales-alola" >}}
-- [Granbull](#granbull)  {{< boxsprite "granbull" >}}
-- [Lost March](#lost-march)  {{< boxsprite "jumpluff" >}} {{< boxsprite "natu" >}}
-- [Malamar](#malamar)  {{< boxsprite "malamar" >}}  {{< boxsprite "necrozma" >}}
-- [Rayquaza Vikavolt](#rayquaza-vikavolt)  {{< boxsprite "rayquaza" >}}  {{< boxsprite "vikavolt" >}}
-- [Sceptile](#sceptile)   {{< boxsprite "sceptile" >}}
-- [Steelix Stall](#steelix-stall)  {{< boxsprite "steelix" >}}  {{< boxsprite "hoopa-unbound" >}}
-- [White Kyurem](#white-kyurem)   {{< boxsprite "kyurem-white" >}}
-- [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales)  {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}
-- [Zoroark Lycanroc](#zoroark-lycanroc)  {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}
-- [Zoroark Glaceon](#zoroark-glaceon)  {{< boxsprite "zoroark" >}} {{< boxsprite "glaceon" >}} 
+- [Gardevoir Swampert Ninetales](#gardevoir-swampert-ninetales) {{< boxsprite "gardevoir" >}}{{< boxsprite "swampert" >}}{{< boxsprite "ninetales-alola" >}}
+- [Granbull](#granbull) {{< boxsprite "granbull" >}}
+- [Kitchen Sink Control](#kitchen-sink-control)  {{< boxsprite "regigigas" >}}{{< boxsprite "hoopa-unbound" >}}{{< boxsprite "xurkitree" >}}
+- [Lost March](#lost-march) {{< boxsprite "jumpluff" >}}{{< boxsprite "natu" >}}
+- [Malamar](#malamar) {{< boxsprite "malamar" >}}{{< boxsprite "necrozma" >}}
+- [Meganium Spread](#meganium-spread) {{< boxsprite "meganium" >}}{{< boxsprite "decidueye" >}}{{< boxsprite "swampert" >}}
+- [Rayquaza Vikavolt](#rayquaza-vikavolt) {{< boxsprite "rayquaza" >}}{{< boxsprite "vikavolt" >}}
+- [Sceptile](#sceptile) {{< boxsprite "sceptile" >}}
+- [Steelix Stall](#steelix-stall) {{< boxsprite "steelix" >}}{{< boxsprite "hoopa-unbound" >}}
+- [White Kyurem](#white-kyurem) {{< boxsprite "kyurem-white" >}}
+- [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales) {{< boxsprite "zoroark" >}}{{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}
+- [Zoroark Lycanroc](#zoroark-lycanroc) {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}
+- [Zoroark Glaceon](#zoroark-glaceon) {{< boxsprite "zoroark" >}}{{< boxsprite "glaceon" >}} 
 
 
 ---
@@ -338,7 +342,7 @@ Sometimes no matter how well you play, your deck just loses to control. While no
 The following decks are my current collection of decks for this format. They may not be the best or most competitively viable, but they are what I have built after playing the format for a few years casually. All of the photos are taken by me, and I have put decklist credit when applicable. I have also discussed the basic strategies of the decks and what certain inclusions do so people who are just picking up the format can have a nice place to start! My most common question from my friends when playing retro is "What the heck is this card in here for?", so I hope that these little blurbs can explain why the decks look like that! Below these are also a written decklist and a Limitless import for each deck if you would like to copy the decklist as text.
 
 ---
-## Alolan Exeggutor {{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}} {{< boxsprite "sceptile" >}}
+## Alolan Exeggutor {{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}{#alolan-exeggutor}
 
   <p align="center">
     <img src = "/Decklists/exeggutor-SUMLOT.jpg" width="1000" class="center" />
@@ -364,7 +368,7 @@ The following decks are my current collection of decks for this format. They may
 
 ---
 
-## Baby Buzzwole Garbodor {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}} {{< boxsprite "weavile" >}}
+## Baby Buzzwole Garbodor {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}}{{< boxsprite "weavile" >}}{#baby-buzzwole-garbodor}
 
   <p align="center">
     <img src = "/Decklists/buzzgarb-SUMLOT.jpg" width="1000" class="center" />
@@ -375,23 +379,49 @@ This deck tries to leverage the amount of GX Pokemon in format by abusing Shrine
 
 This deck tends to do very well against aggressive GX strategies or slower setup decks. It trades extremely favorably into most Basic GX Pokemon, and a boosted Sledgehammer or Trashalanche can chase down evolving basics. It really struggles; however, against other single-prizers that can dish out damage more consistently like Granbull or Baby Buzzwole in other decks. This deck only plays special energy, so if you are unable to run control or Zoroark off the board before they set up, Enhanced Hammer loops can be extremely dangerous. While this deck is extremely agressive, you often need to rely on your opponent to do large amounts of damage. Buzzwole is capped at 30 damage with modifiers that push it to 80 on non-GX Pokemon in the early game. If your opponents waits until they are able to handle a full power sledgehammer before going down to 4 prizes, you often aren't able to recover. Since Weavile and Garbodor need your opponent to play down Pokemon with abilities or play item cards to do damage, smart opponents will try to limit these before you are able to punish them.
 
-  | Pokemon | Trainer | Energy | 
- |---|---|---|
-| 4 Buzzwole FLI 77 | 4 Lillie  | 4 Unit Energy FDY |
-| 2 Slugma CES 23 | 3 Judge | 4 Rainbow Energy |
-| 2 Magcargo CES 24 | 3 Guzma| 1 Beast Energy Prism Star  |
-| 2 Sneasel UPR 73 | 2 Professor Kukui| 1 Counter Energy|
-| 2 Weavile UPR 74 | 1 Cynthia|  |
-| 2 Trubbish GRI 50 | 1 Tate & Liza |  |
-| 2 Garbodor GRI 51 | 4 Ultra Ball |  |
-| 1 Ditto Prism Star LOT 154 | 4 Nest Ball|  |
-| 1 Diancie Prism Star FLI 74 | 1 Acro Bike|  |
-| 1 Oranguru SUM 113 | 1 Rescue Stretcher |  |
-|  | 1 Switch |  |
-|  | 3 Choice Band  |  |
-|  | 3 Shrine of Punishment |  |
+  | Pokemon                    | Trainer                  | Energy                    |
+  |----------------------------|--------------------------|---------------------------|
+  | 4 Buzzwole FLI 77         | 4 Lillie                 | 4 Unit Energy FDY         |
+  | 2 Slugma CES 23           | 3 Judge                  | 4 Rainbow Energy          |
+  | 2 Magcargo CES 24         | 3 Guzma                  | 1 Beast Energy Prism Star |
+  | 2 Sneasel UPR 73          | 2 Professor Kukui        | 1 Counter Energy          |
+  | 2 Weavile UPR 74          | 1 Cynthia                |                           |
+  | 2 Trubbish GRI 50         | 1 Tate & Liza            |                           |
+  | 2 Garbodor GRI 51         | 4 Ultra Ball             |                           |
+  | 1 Ditto Prism Star LOT 154| 4 Nest Ball              |                           |
+  | 1 Diancie Prism Star FLI 74| 1 Acro Bike             |                           |
+  | 1 Oranguru SUM 113        | 1 Rescue Stretcher       |                           |
+  |                          | 1 Switch                 |                           |
+  |                          | 3 Choice Band            |                           |
+  |                          | 3 Shrine of Punishment   |                           |
 
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI770232CES230232CES240232UPR730232UPR740232GRI500232GRI510133LOT1540132FLI740133SUM1130432SLG620333FLI1080333BUS1150233SUM1280133UPR1190133CES1480432SLG680433SUM1230133CES1230133GRI1300132SLG670333GRI1210333CES1430433FLI1180433SUM1370133FLI1170133CIN100) 
+
+---
+
+## Blacephalon Naganadel {{< boxsprite "blacephalon">}}{{< boxsprite "naganadel">}}{#blacephalon-naganadel}
+
+
+  <p align="center">
+    <img src = "/Decklists/blacephalon-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Zach Lesage*
+  </p>
+
+| Pokemon                    | Trainer                  | Energy                    |
+|----------------------------|-------------------------|---------------------------|
+| 4 Blacephalon-GX LOT 52   | 4 Cynthia               | 15 Fire Energy            |
+| 4 Poipole FLI 55          | 3 Guzma                 | 1 Beast Energy Prism Star |
+| 4 Naganadel LOT 108       | 2 Lillie                |                           |
+| 2 Marshadow SLG 45        | 2 Sophocles             |                           |
+| 1 Tapu Lele-GX GRI 60     | 4 Beast Ring            |                           |
+|                          | 4 Ultra Ball            |                           |
+|                          | 3 Mysterious Treasure   |                           |
+|                          | 2 Energy Switch         |                           |
+|                          | 2 Choice Band           |                           |
+|                          | 2 Ultra Space           |                           |
+|                          | 1 Heat Factory Prism Star|                          |
+
+[Limitless Import](my.limitlesstcg.com/builder?i=10432LOT520432FLI550433LOT1080232SLG450132GRI600433UPR1190333BUS1150233UPR1250233BUS1230433FLI1020433SUM1350333FLI1130233CES1290233GRI1210233FLI1150133LOT1780f31TEUR0133FLI117) 
 
 ---
 
@@ -406,21 +436,21 @@ This deck really thrived when Strong Energy was legal, but it still packs quite 
 
 This deck hopes to come out of the gate swinging, and keep up the pressure in the mid-game with Beast Ring. This allows it to bully evolving decks and trade blows with other big basic GX decks. It has a really hard time with any single prize deck that can up-trade into it without being pressured by Jet Punch. White Kyurem and Granbull are this deck's kryptonite. Any deck that plays psychic attackers is also quite a difficult matchup, as your only good energy acceleration is through Beast Ring which can only accelerate to Buzzwole. Lycanroc and Ninetales help in the psychic mathups, but in no way make it favorable.
 
-  | Pokemon | Trainer | Energy | 
- |---|---|---|
-| 4 Buzzwole-GX CIN 57 | 4 Cynthia | 7 Basic Fighting Energy |
-| 2 Rockruff FLI 75 | 3 Guzma| 4 Unit Energy FDY |
-| 2 Lycanroc-GX GRI 74 | 3 Professor Kukui| 1 Beast Energy Prism Star|
-| 2 Alolan Vulpix GRI 21 | 2 Lillie|  |
-| 2 Alolan Ninetales-GX LOT 132 | 1 Lisia|  |
-| 2 Tapu Lele-GX GRI 60 | 4 Ultra Ball|  |
-| 1 Buzzwole FLI 77 | 3 Beast Ring |  |
-| 1 Diancie Prism Star FLI 74 | 2 Switch|  |
-| 1 Girafarig LOT 94 | 1 Multi Switch|  |
-| 1 Marshadow SLG 45 | 1 Field Blower|  |
-|  | 1 Rescue Stretcher |  |
-|  | 2 Choice Band |  |
-|  | 3 Brooklet Hill |  |
+  | Pokemon                    | Trainer                  | Energy                    |
+ |----------------------------|-------------------------|---------------------------|
+| 4 Buzzwole-GX CIN 57       | 4 Cynthia               | 7 Basic Fighting Energy   |
+| 2 Rockruff FLI 75          | 3 Guzma                 | 4 Unit Energy FDY         |
+| 2 Lycanroc-GX GRI 74       | 3 Professor Kukui       | 1 Beast Energy Prism Star |
+| 2 Alolan Vulpix GRI 21     | 2 Lillie                |                           |
+| 2 Alolan Ninetales-GX LOT 132| 1 Lisia               |                           |
+| 2 Tapu Lele-GX GRI 60      | 4 Ultra Ball            |                           |
+| 1 Buzzwole FLI 77          | 3 Beast Ring            |                           |
+| 1 Diancie Prism Star FLI 74| 2 Switch                |                           |
+| 1 Girafarig LOT 94         | 1 Multi Switch          |                           |
+| 1 Marshadow SLG 45         | 1 Field Blower          |                           |
+|                          | 1 Rescue Stretcher      |                           |
+|                          | 2 Choice Band           |                           |
+|                          | 3 Brooklet Hill         |                           |
   
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432CIN570232FLI750232GRI740232GRI210233LOT1320232GRI600132FLI770132FLI740132LOT940132SLG450433UPR1190333BUS1150333SUM1280233SUM1220133CES1370432SLG680333FLI1020233CES1470133GRI1290133GRI1250133GRI1300233GRI1210333GRI1200731SUMF0433FLI1180133FLI117)
 
@@ -436,20 +466,20 @@ This deck hopes to come out of the gate swinging, and keep up the pressure in th
 
   This is not one of my favorite decks in format, but it is fun to play. The main goal is to set up a Magnezone which can accelerate as much energy from your hand as your like to one of your attackers. Dusk Mane Necrozma GX is great for dealing with big Pokemon GX with Meteor Tempest, and Dialga can deal with evolving Pokemon with Turn Back Time or other single prizers with Power Blast. Once you get set up, Mount Coronet lets you continually stream metal energy and launch powerful attacks each turn. The stop-gap, however is in setting up. You need to have both rare candy and Magnezone in hand to evolve it, so Cynthia is a long shot to draw into the combo. Steven's Resolve lets you get directly there, but ends your turn which is not great at all. Your opponent also knows you have three good cards in hand, so a Judge or Marshadow is very tempting. Even if you set up Magnezone, you still need to have the energy to accelerate in hand. Lady lets you search 4 out of deck, but takes your supporter for turn which you usually would rather have spent on Cynthia or Guzma. The deck is inconsistent, but has a great matchup spread taking on both big GX Pokemon and single prize decks with ease. It is also great against energy denial strategies since Coronet and Magnezone let you recycle energy as long as you want.s
 
-  | Pokemon | Trainer | Energy | 
- |---|---|---|
-| 3 Magnemite UPR 81 | 4 Cynthia| 10 Metal Energy |
-| 1 Magnemite UPR 80 | 3 Steven's Resolve| 1 Beast Energy Prism Star |
-| 3 Magnezone UPR 83 | 2 Guzma|  |
-| 3 Dusk Mane Necrozma-GX UPR 90 | 2 Fisherman |  |
-| 3 Dialga LOT 127 | 2 Lady |  |
-| 2 Tapu Lele-GX GRI 60 | 1 Lillie |  |
-|  | 1 Sightseer|  |
-|  | 4 Nest Ball|  |
-|  | 4 Ultra Ball|  |
-|  | 4 Rare Candy|  |
-|  | 3 Acro Bike |  |
-|  | 4 Mt. Coronet |  |
+  | Pokemon                    | Trainer                  | Energy                    |
+ |----------------------------|-------------------------|---------------------------|
+| 3 Magnemite UPR 81         | 4 Cynthia               | 10 Metal Energy           |
+| 1 Magnemite UPR 80         | 3 Steven's Resolve      | 1 Beast Energy Prism Star |
+| 3 Magnezone UPR 83         | 2 Guzma                 |                           |
+| 3 Dusk Mane Necrozma-GX UPR 90| 2 Fisherman           |                           |
+| 3 Dialga LOT 127           | 2 Lady                  |                           |
+| 2 Tapu Lele-GX GRI 60      | 1 Lillie                |                           |
+|                          | 1 Sightseer             |                           |
+|                          | 4 Nest Ball             |                           |
+|                          | 4 Ultra Ball            |                           |
+|                          | 4 Rare Candy            |                           |
+|                          | 3 Acro Bike             |                           |
+|                          | 4 Mt. Coronet           |                           |
   
 [Limitless Import](https://my.limitlesstcg.com/builder?i=10332UPR810132UPR800332UPR830332UPR900333LOT1270232GRI600433UPR1190333CES1450233BUS1150233CES1300233FLI1090133UPR1250133LOT1890433SUM1230433SUM1350433SUM1290333CES1230433UPR1300a31SUMM0133FLI117)
 
@@ -465,21 +495,21 @@ This is an interesting single prize deck that can do a lot of damage for not a l
 
 Like other Rare Candy decks with no draw engine, this deck sometimes has a hard time finding the pieces it needs when you need them. Once it sets up, it has little issue running through most meta decks, but setting up can sometimes be a little dodgy. Alolan Ninetales helps this consistency, but putting a 2 prizer in play in an already slow deck is not great for the prize trade. Opponents also have some agency in your damage output as Total Command is limited by both players bench size, so if your opponent waits to bench Pokemon you could be limited to 120 or even 100 damage which rarely cuts it against evolving Pokemon GX.
 
-| Pokemon | Trainer | Energy | 
- |---|---|---|
-| 4 Piplup UPR 31 | 4 Professor Elm's Lecture | 4 Water Energy|    
-| 2 Prinplup UPR 33 | 3 Cynthia | 4 Counter Energy|
-| 3 Empoleon UPR 34 | 2 Guzma | 1 Super Boost Energy Prism Star|     
-| 1 Empoleon FLI 81 | 1 Professor Kukui| 1 Rainbow Energy |
-| 3 Mudkip CES 32 | 1 Lillie  |  |
-| 2 Marshtomp CES 34 | 4 Rare Candy |  |
-| 2 Swampert CES 35 | 3 Timer Ball |  |
-| 2 Alolan Vulpix GRI 21 | 2 Aqua Patch |  |
-| 2 Alolan Ninetales-GX LOT 132 | 2 Rescue Stretcher |  |
-| 1 Oranguru UPR 114 | 1 Pal Pad|  |
-|  | 1 Counter Catcher |  |
-|  | 1 Switch|  |
-|  | 2 Choice Band |  |
+| Pokemon                    | Trainer                  | Energy                    |
+|----------------------------|-------------------------|---------------------------|
+| 4 Piplup UPR 31           | 4 Professor Elm's Lecture | 4 Water Energy          |
+| 2 Prinplup UPR 33         | 3 Cynthia               | 4 Counter Energy          |
+| 3 Empoleon UPR 34         | 2 Guzma                 | 1 Super Boost Energy Prism Star |
+| 1 Empoleon FLI 81         | 1 Professor Kukui      | 1 Rainbow Energy          |
+| 3 Mudkip CES 32           | 1 Lillie                |                           |
+| 2 Marshtomp CES 34        | 4 Rare Candy            |                           |
+| 2 Swampert CES 35         | 3 Timer Ball            |                           |
+| 2 Alolan Vulpix GRI 21    | 2 Aqua Patch            |                           |
+| 2 Alolan Ninetales-GX LOT 132| 2 Rescue Stretcher   |                           |
+| 1 Oranguru UPR 114        | 1 Pal Pad               |                           |
+|                          | 1 Counter Catcher       |                           |
+|                          | 1 Switch                |                           |
+|                          | 2 Choice Band           |                           |
 |  | 1 Brooklet Hill |  |
 
 [Limitless Import](https://my.limitlesstcg.com/builder?i=10432UPR310232UPR330332UPR340132FLI810332CES320232CES340232CES350232GRI210233LOT1320133UPR1140433LOT1880333UPR1190233BUS1150133SUM1280132SLG620433SUM1290333SUM1340233GRI1190233GRI1300133UPR1320132CIN910133CES1470233GRI1210133GRI1200431SUMW0433CIN1000133UPR1360133SUM137)
@@ -495,22 +525,22 @@ Like other Rare Candy decks with no draw engine, this deck sometimes has a hard 
 
 This is a homebrew deck from the dark recesses of my mind. I was looking through GLC cards and found this Garchomp and Lucario and wondered if there were any recorded decks based around it. To my surprise, there weren't. So I built my own. In building it, I found why no one else had: it's **bad**. Doing 200 on a single prizer is great, with quick search on a stage 1 is even better. The issue is that you need Garchomp in play in order to use Lucario, and often you want to use Lucario to get Garchomp in play, making Lucario useless when setting up. The other issue is that if you are using Cynthia to get your 200 damage, you can't Guzma. I've tried to build this as a sort of spread deck with Tapu Koko and Alolan Ninetales, but in practice it's just a bad Empoleon with a worse draw engine. It's fun if you hate Zoroark decks, but has major issues against literally anything else. 
 
-| Pokemon | Trainer | Energy | 
- |---|---|---|
-| 4 Gible FLI 60 | 4 Cynthia| 4 Double Colorless Energy|
-| 2 Gabite FLI 61 | 2 Lillie  | 4 Unit Energy |
-| 4 Garchomp FLI 62 | 1 Guzma | 2 Fighting Energy|
-| 2 Alolan Vulpix GRI 21 | 4 Rare Candy |  |
-| 2 Alolan Ninetales-GX LOT 132 | 4 Ultra Ball |  |
-| 2 Riolu UPR 66 | 4 Nest Ball |  |
-| 2 Lucario UPR 67 | 1 Counter Catcher |  |
-| 1 Ditto Prism Star LOT 154 | 1 Rescue Stretcher|  |
-| 1 Tapu Lele-GX CEL CC25 | 1 Pal Pad|  |
-| 1 Tapu Koko SMP 30 | 1 Switch |  |
-|  | 1 Energy Loto |  |
-|  | 2 Choice Band |  |
-|  | 1 Karate Belt|  |
-|  | 2 Brooklet Hill |  |
+| Pokemon                    | Trainer                  | Energy                    |
+|----------------------------|-------------------------|---------------------------|
+| 4 Gible FLI 60            | 4 Cynthia               | 4 Double Colorless Energy |
+| 2 Gabite FLI 61           | 2 Lillie                | 4 Unit Energy             |
+| 4 Garchomp FLI 62         | 1 Guzma                 | 2 Fighting Energy         |
+| 2 Alolan Vulpix GRI 21    | 4 Rare Candy            |                           |
+| 2 Alolan Ninetales-GX LOT 132| 4 Ultra Ball         |                           |
+| 2 Riolu UPR 66            | 4 Nest Ball             |                           |
+| 2 Lucario UPR 67          | 1 Counter Catcher       |                           |
+| 1 Ditto Prism Star LOT 154| 1 Rescue Stretcher      |                           |
+| 1 Tapu Lele-GX CEL CC25   | 1 Pal Pad               |                           |
+| 1 Tapu Koko SMP 30        | 1 Switch                |                           |
+|                          | 1 Energy Loto           |                           |
+|                          | 2 Choice Band           |                           |
+|                          | 1 Karate Belt           |                           |
+|                          | 2 Brooklet Hill         |                           |
   
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI600232FLI610432FLI620232GRI210233LOT1320232UPR660232UPR670133LOT1540134CELCC250132SMP300433UPR1190233SUM1220133BUS1150433CES1420432SLG680433SUM1230132CIN910133GRI1300133UPR1320133SUM1320133GRI1220233GRI1210133UNM2010233GRI1200432SLG690433FLI1180231SUMF)
 
@@ -527,21 +557,20 @@ This deck won Roanoke Regionals with its unique blend of defense, utility, and p
 
 Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zoroark, but decks that can KO it in one attack can prove hard to deal with. You spend a lot of resources setting up a Gardevoir, so losing it in one turn can be devastating. This deck also relatively slow compare to other evolving decks, so sometimes it can be blown our of the water by aggressive decks or even faster evolving decks. It has a very high skill ceiling, making it a great deck if you want to play SUM-LOT super competively without playing control.
 
-| Pokemon | Trainer | Energy | 
-|---|---|---|
-| 3 Ralts BUS 91 | 4 Professor Elm's Lecture | 7 Fairy Energy|     
-| 1 Kirlia LOT 140 | 3 Cynthia | 4 Double Colorless Energy|
-| 3 Gardevoir-GX BUS 93 | 2 Guzma | 1 Super Boost Energy Prism Star  | 
-| 2 Mudkip CES 32 | 1 Lillie|  |
-| 1 Marshtomp CES 34 | 1 Professor Kukui |  |
-| 2 Swampert CES 35 | 4 Ultra Ball|  |
-| 2 Alolan Vulpix GRI 21 | 4 Rare Candy |  |
-| 2 Alolan Ninetales-GX LOT 132 | 2 Max Potion |  |
-| 2 Tapu Lele-GX GRI 60 | 1 Timer Ball |  |
-| 1 Cosmog SUM 64 | 1 Energy Loto |  |
-| 1 Solgaleo-GX SMP 104 | 2 Choice Band|  |
-| 1 Ditto Prism Star LOT 154 | 2 Brooklet Hill |  |
-  
+| Pokemon                    | Trainer                 | Energy                    |
+|----------------------------|-------------------------|---------------------------|
+| 3 Ralts BUS 91             | 4 Professor Elm's Lecture | 7 Fairy Energy         |
+| 1 Kirlia LOT 140           | 3 Cynthia               | 4 Double Colorless Energy |
+| 3 Gardevoir-GX BUS 93     | 2 Guzma                 | 1 Super Boost Energy Prism Star |
+| 2 Mudkip CES 32           | 1 Lillie                |                           |
+| 1 Marshtomp CES 34        | 1 Professor Kukui       |                           |
+| 2 Swampert CES 35         | 4 Ultra Ball            |                           |
+| 2 Alolan Vulpix GRI 21    | 4 Rare Candy            |                           |
+| 2 Alolan Ninetales-GX LOT 132| 2 Max Potion         |                           |
+| 2 Tapu Lele-GX GRI 60     | 1 Timer Ball            |                           |
+| 1 Cosmog SUM 64           | 1 Energy Loto           |                           |
+| 1 Solgaleo-GX SMP 104     | 2 Choice Band           |                           |
+| 1 Ditto Prism Star LOT 154| 2 Brooklet Hill         |                           |
 [Limitless Import](https://my.limitlesstcg.com/builder?i=10332BUS910133LOT1400332BUS930232CES320132CES340232CES350232GRI210233LOT1320232GRI600132SUM640133SMP1040133LOT1540433LOT1880333UPR1190233BUS1150133UPR1250133SUM1280432SLG680433SUM1290233GRI1280133SUM1340133GRI1220233GRI1210233GRI1200731SUMY0433PHF1110133UPR136)
 
 ---
@@ -577,6 +606,39 @@ Doing upwards of 160 damage on a stage 1 single prizer for 1 basic energy seems 
   
 [Limitless Import](https://my.limitlesstcg.com/builder?i=10433LOT1370433LOT1380332CES230332CES240333SUM1130133LOT1540433CES1240333BUS1150233FLI1050133CES1480432SLG600432SLG680433SUM1230233GRI1300133CES1280133FLI1130133GRI1250133CES1470133UPR1320333GRI1210133BUS1130333CES1430631SUMY)
 
+---
+
+## Kitchen Sink Control {{< boxsprite "regigigas" >}}{{< boxsprite "hoopa-unbound" >}}{{< boxsprite "xurkitree" >}}{#kitchen-sink-control}
+
+  <p align="center">
+    <img src = "/Decklists/sinkcontrol.jpg" width="1000" class="center" />
+  </p>
+
+| Pokemon                      | Trainer                | Energy                    | 
+|------------------------------|------------------------|---------------------------| 
+| 2 Regigigas CIN 84           | 4 Steven's Resolve     | 1 Counter Energy          | 
+| 2 Hoopa SLG 55               | 4 Cynthia              | 1 Rainbow Energy          | 
+| 1 Necrozma-GX SMP 58         | 4 Tate & Liza          | 1 Double Colorless Energy | 
+| 1 Rockruff GRI 73            | 2 Lusamine             |                           | 
+| 1 Lycanroc-GX GRI 74         | 2 Acerola              |                           | 
+| 1 Lugia-GX LOT 159           | 1 Gladion              |                           | 
+| 1 Shuckle-GX LOT 17          | 1 Mars                 |                           | 
+| 1 Xurkitree-GX SMP 68        | 1 Plumeria             |                           | 
+| 1 Solgaleo Prism Star UPR 89 | 1 Guzma                |                           | 
+| 1 Durant LOT 128             | 1 Team Skull Grunt     |                           | 
+| 1 Registeel CES 96           | 1 Faba                 |                           | 
+| 1 Comfey GRI 93              | 4 Max Potion           |                           | 
+| 1 Carbink LOT 143            | 4 Nest Ball            |                           | 
+| 1 Tapu Lele UPR 94           | 1 Counter Catcher      |                           | 
+| 1 Sableye GRI 80             | 1 Rescue Stretcher     |                           | 
+| 1 Unown LOT 91               | 1 Counter Gain         |                           |
+| 1 Girafarig LOT 94           | 1 Metal Frying Pan     |                           |
+| 1 Oranguru UPR 114           | 1 Ancient Crystal      |                           |
+|                              | 1 Shrine of Punishment |                           |
+|                              | 1 Mount Lanakila       |                           |
+
+[Limitless Import](my.limitlesstcg.com/builder?i=10232CIN840232SLG550132SMP580132GRI730132GRI740133LOT1590132LOT170132SMP680132UPR890133LOT1280132CES960132GRI930133LOT1430132UPR940132GRI800132LOT910132LOT940133UPR1140433CES1450433UPR1190433CES1480232CIN960233BUS1120132CIN950133UPR1280133BUS1200133BUS1150133SUM1330133LOT1730433GRI1280433SUM1230132CIN910133GRI1300133LOT1700133FLI1120133UPR1180133CES1430133BUS1180133CIN1000133CES1510132SLG69)
+
 
 ---
 
@@ -590,18 +652,18 @@ This deck was expected to be a meta-defining deck on release, and never quite li
 
 Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. Just 2 Feather Arrows from Decidueye GX can KO a Natu or Hoppip without even attacking. Though it seems it trades well into big GX Pokemon, Lost March takes a lot of resources to set up, so it often will fizzle out before taking the last few prizes. It also only plays 7 energy cards, so heavy energy disruption is diffult to beat unless you can win before they discard your energy. Lost March is a super aggressive deck that can hit absurd numbers and very fun to play, but is inconsistent and has a hard time setting up against faster decks.
 
-  | Pokemon | Trainer | Energy | 
- |---|---|---|
-| 4 Hoppip LOT 12 | 4 Lillie UPR 125 | 4 Double Colorless Energy SLG 69 |
-| 4 Skiploom LOT 13 | 3 Cynthia UPR 119 | 3 Grass Energy Energy 18 |
-| 4 Jumpluff LOT 14 | 2 Professor Elm's Lecture LOT 188 |  |
-| 4 Trumbeak LOT 165 | 2 Guzma BUS 115 |  |
-| 3 Natu LOT 87 | 4 Great Ball SUM 119 |  |
-| 3 Marshadow SLG 45 | 4 Ultra Ball SUM 135 |  |
-| 1 Slugma CES 23 | 4 Lost Blender LOT 181 |  |
-| 1 Magcargo CES 24 | 2 Net Ball LOT 187 |  |
-| 1 Oranguru SUM 113 | 2 Rescue Stretcher GRI 130 |  |
-| 1 Ditto Prism Star LOT 154 |  |  |
+  | Pokemon                    | Trainer                  | Energy                    |
+ |----------------------------|-------------------------|---------------------------|
+| 4 Hoppip LOT 12            | 4 Lillie UPR 125       | 4 Double Colorless Energy SLG 69 |
+| 4 Skiploom LOT 13          | 3 Cynthia UPR 119      | 3 Grass Energy Energy 18  |
+| 4 Jumpluff LOT 14          | 2 Professor Elm's Lecture LOT 188 |                     |
+| 4 Trumbeak LOT 165         | 2 Guzma BUS 115        |                           |
+| 3 Natu LOT 87              | 4 Great Ball SUM 119   |                           |
+| 3 Marshadow SLG 45         | 4 Ultra Ball SUM 135   |                           |
+| 1 Slugma CES 23           | 4 Lost Blender LOT 181 |                           |
+| 1 Magcargo CES 24         | 2 Net Ball LOT 187     |                           |
+| 1 Oranguru SUM 113        | 2 Rescue Stretcher GRI 130 |                        |
+| 1 Ditto Prism Star LOT 154|                         |                           |
  
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432LOT120432LOT130432LOT140433LOT1650332LOT870332SLG450132CES230132CES240133SUM1130133LOT1540433UPR1250333UPR1190233LOT1880233BUS1150433SUM1190433SUM1350433LOT1810233LOT1870233GRI1300432SLG690331SUMG)
 
@@ -618,24 +680,53 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
   The harded part of this deck is getting Psychic energy in the discard to accelerate. Mysterious Treasure helps, but with no way to search basic energy, you need to raw draw into them. Psychic recharge also only accelerates to benched Pokemon, so sometimes you don't have the necessary switch to get it into the active. 4 switch and 4 Guzma help, but with no onboard draw engine, you often have to hope you draw into what you need. Necrozma hits super big numbers, but Zoroark is still a difficult matchup since they can chase down your Malamar leaving you stranded. Consistency in general is an issue with Malamar, but its power is simply too much for certain decks handles.
 
-  | Pokemon | Trainer | Energy | 
- |---|---|---|
-| 4 Inkay FLI 50 | 4 Cynthia UPR 119 | 10 Psychic Energy Energy 22 |
-| 4 Malamar FLI 51 | 4 Lillie SLG 62 |  |
-| 2 Necrozma-GX SMP 58 | 4 Guzma BUS 115 |  |
-| 2 Marshadow SLG 45 | 4 Acro Bike CES 123 |  |
-| 1 Dawn Wings Necrozma-GX UPR 63 | 4 Mysterious Treasure FLI 113 |  |
-| 1 Chimecho CIN 43 | 4 Ultra Ball SUM 135 |  |
-| 1 Lunala Prism Star UPR 62 | 3 Switch CES 147 |  |
-| 1 Marshadow-GX SMP 59 | 2 Nest Ball SUM 123 |  |
-| 1 Giratina LOT 97 | 1 Rescue Stretcher GRI 130 |  |
-| 1 Tapu Lele-GX GRI 60 | 2 Choice Band GRI 121 |  |
+  | Pokemon                    | Trainer                  | Energy                    |
+ |----------------------------|-------------------------|---------------------------|
+| 4 Inkay FLI 50            | 4 Cynthia UPR 119      | 10 Psychic Energy Energy 22 |
+| 4 Malamar FLI 51          | 4 Lillie SLG 62        |                           |
+| 2 Necrozma-GX SMP 58      | 4 Guzma BUS 115        |                           |
+| 2 Marshadow SLG 45        | 4 Acro Bike CES 123    |                           |
+| 1 Dawn Wings Necrozma-GX UPR 63| 4 Mysterious Treasure FLI 113 |                 |
+| 1 Chimecho CIN 43         | 4 Ultra Ball SUM 135   |                           |
+| 1 Lunala Prism Star UPR 62| 3 Switch CES 147       |                           |
+| 1 Marshadow-GX SMP 59     | 2 Nest Ball SUM 123    |                           |
+| 1 Giratina LOT 97         | 1 Rescue Stretcher GRI 130 |                       |
+| 1 Tapu Lele-GX GRI 60    | 2 Choice Band GRI 121  |                           |
  
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI500432FLI510232SMP580232SLG450132UPR630132CIN430132UPR620132SMP590132LOT970132GRI600433UPR1190432SLG620433BUS1150433CES1230433FLI1130433SUM1350333CES1470233SUM1230133GRI1300233GRI1210a31SUMP)
 
   ---
+## Meganium Spread {{< boxsprite "meganium" >}}{{< boxsprite "decidueye" >}}{{< boxsprite "swampert">}}{#meganium-spread}
 
-## Rayquaza Vikavolt  {{< boxsprite "rayquaza" >}}  {{< boxsprite "vikavolt" >}}
+  <p align="center">
+    <img src = "/Decklists/meganiumspread-SUMLOT.jpg" width="1000" class="center" />
+  </p>
+
+| Pokemon                       | Trainer                   | Energy                          | 
+|-------------------------------|---------------------------|---------------------------------|
+| 3 Alolan Vulpix GRI 21        | 4 Professor Elm's Lecture | 4 Double Colorless Energy       |
+| 2 Alolan Ninetales-GX LOT 132 | 1 Lillie                  | 3 Rainbow Energy                |
+| 1 Alolan Ninetales-GX GRI 22  | 1 Cynthia                 | 1 Super Boost Energy Prism Star |
+| 2 Chikorita LOT 5             | 1 Judge                   |                                 |
+| 2 Meganium LOT 8              | 1 Tate & Liza             |                                 |
+| 2 Mudkip CES 32               | 1 Acerola                 |                                 |
+| 2 Swampert CES 35             | 1 Gladion                 |                                 |
+| 2 Rowlet SUM 9                | 1 Guzma                   |                                 |
+| 2 Decidueye-GX SUM 12         | 4 Ultra Ball              |                                 |
+| 2 Tapu Lele-GX GRI 60         | 4 Rare Candy              |                                 |
+| 1 Horsea BUS 29               | 2 Timer Ball              |                                 |
+| 1 Kingdra-GX DRM 18           | 1 Rescue Stretcher        |                                 |
+| 1 Porygon BUS 103             | 1 Counter Gain            |                                 |
+| 1 Porygon-Z BUS 105           | 2 Brooklet Hill           |                                 |
+| 1 Cosmog SUM 64               |                           |                                 |
+| 1 Solgaleo-GX SMP 104         |                           |                                 |
+| 1 Tapu Koko SMP 30            |                           |                                 |
+
+[Limitless Import](my.limitlesstcg.com/builder?i=10332GRI210233LOT1320132GRI220231LOT50231LOT80232CES320232CES350231SUM90232SUM120232GRI600132BUS290132DRM180133BUS1030133BUS1050132SUM640133SMP1040132SMP300433LOT1880133UPR1250133UPR1190133FLI1080133CES1480133BUS1120132CIN950133BUS1150432SLG680433SUM1290233SUM1340133GRI1300133LOT1700233GRI1200432SLG690333CES1510133UPR136)
+
+---
+
+## Rayquaza Vikavolt {{< boxsprite "rayquaza" >}}{{< boxsprite "vikavolt" >}}{#rayquaza-vikavolt}
 
   <p align="center">
     <img src = "/Decklists/vikaray-SUMLOT.jpg" width="1000" class="center" />
@@ -645,71 +736,71 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
   
   Speaking of consistency, this deck misses it at times. Stormy Winds mills the top 3 cards of your deck, so you will often mill important resources which you can't recover. Vikavolt also needs Rare Candy to set up, which like other decks on this list is very hard to achieve with Cynthia alone. Volkner really helps in this regard, but you still have to have one of the pieces in hand to use it to set up Vikavolt.
 
-| Pokemon | Trainer | Energy | 
-|---|---|---| 
-| 4 Rayquaza-GX CES 109 | 4 Guzma BUS 115 | 7 Grass Energy Energy 18 | 
-| 3 Grubbin SUM 13 | 3 Cynthia UPR 119 | 7 Lightning Energy Energy 21 | 
-| 3 Vikavolt SMP 28 | 3 Volkner UPR 135 |  | 
-| 2 Tapu Lele-GX GRI 60 | 2 Lillie SLG 62 |  | 
-| 2 Dhelmise CES 22 | 4 Ultra Ball SLG 68 |  | 
-| 1 Zeraora-GX LOT 86 | 4 Rare Candy SUM 129 |  | 
-| 1 Marshadow SLG 45 | 2 Nest Ball SUM 123 |  |
-|  | 2 Mysterious Treasure FLI 113 |  |
-|  | 2 Energy Recycler GRI 123 |  |
-|  | 2 Rescue Stretcher GRI 130 |  |
-|  | 2 Choice Band GRI 121 |  |
+| Pokemon                    | Trainer                  | Energy                    |
+|----------------------------|-------------------------|---------------------------|
+| 4 Rayquaza-GX CES 109     | 4 Guzma BUS 115        | 7 Grass Energy Energy 18  |
+| 3 Grubbin SUM 13          | 3 Cynthia UPR 119      | 7 Lightning Energy Energy 21 |
+| 3 Vikavolt SMP 28         | 3 Volkner UPR 135      |                           |
+| 2 Tapu Lele-GX GRI 60     | 2 Lillie SLG 62        |                           |
+| 2 Dhelmise CES 22         | 4 Ultra Ball SLG 68    |                           |
+| 1 Zeraora-GX LOT 86       | 4 Rare Candy SUM 129   |                           |
+| 1 Marshadow SLG 45        | 2 Nest Ball SUM 123    |                           |
+|                          | 2 Mysterious Treasure FLI 113 |                    |
+|                          | 2 Energy Recycler GRI 123 |                        |
+|                          | 2 Rescue Stretcher GRI 130 |                        |
+|                          | 2 Choice Band GRI 121  |                           |
 
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10433CES1090332SUM130332SMP280232GRI600232CES220132LOT860132SLG450433BUS1150333UPR1190333UPR1350232SLG620432SLG680433SUM1290233SUM1230233FLI1130233GRI1230233GRI1300233GRI1210731SUMG0731SUML)
 
   ---
 
-## Sceptile  {{< boxsprite "sceptile" >}}
+## Sceptile {{< boxsprite "sceptile" >}}{#sceptile}
 
   <p align="center">
     <img src = "/Decklists/sceptile-SUMLOT.jpg" width="1000" class="center" />
   </p>
 
-| Pokemon | Trainer | Energy |
- |---|---|---|
-| 4 Treecko LOT 20 | 4 Lillie UPR 125 | 7 Grass Energy Energy 18 |
-| 3 Grovyle LOT 21 | 4 Cynthia UPR 119 | 1 Super Boost Energy Prism Star UPR 136 |    
-| 3 Sceptile-GX LOT 22 | 3 Guzma BUS 115 |  |
-| 1 Sceptile CES 10a | 1 Tate & Liza CES 148 |  |
-| 2 Fomantis SUM 14 | 1 Professor Elm's Lecture LOT 188 |  |
-| 2 Lurantis SMP 25 | 1 Judge FLI 108 |  |
-| 2 Tapu Lele-GX GRI 60 | 4 Net Ball LOT 187 |  |
-| 1 Ditto Prism Star LOT 154 | 4 Ultra Ball SLG 68 |  |
-|  | 4 Rare Candy SUM 129 |  |
-|  | 2 Max Potion GRI 128 |  |
-|  | 1 Field Blower GRI 125 |  |
-|  | 1 Rescue Stretcher GRI 130 |  |
-|  | 3 Choice Band GRI 121 |  |
-|  | 1 Life Forest Prism Star LOT 180 |  |
+| Pokemon                    | Trainer                  | Energy                    |
+|----------------------------|-------------------------|---------------------------|
+| 4 Treecko LOT 20          | 4 Lillie UPR 125       | 7 Grass Energy Energy 18  |
+| 3 Grovyle LOT 21          | 4 Cynthia UPR 119      | 1 Super Boost Energy Prism Star UPR 136 |
+| 3 Sceptile-GX LOT 22      | 3 Guzma BUS 115        |                           |
+| 1 Sceptile CES 10a        | 1 Tate & Liza CES 148  |                           |
+| 2 Fomantis SUM 14         | 1 Professor Elm's Lecture LOT 188 |                  |
+| 2 Lurantis SMP 25         | 1 Judge FLI 108        |                           |
+| 2 Tapu Lele-GX GRI 60     | 4 Net Ball LOT 187     |                           |
+| 1 Ditto Prism Star LOT 154| 4 Ultra Ball SLG 68    |                           |
+|                          | 4 Rare Candy SUM 129   |                           |
+|                          | 2 Max Potion GRI 128   |                           |
+|                          | 1 Field Blower GRI 125 |                           |
+|                          | 1 Rescue Stretcher GRI 130 |                        |
+|                          | 3 Choice Band GRI 121  |                           |
+|                          | 1 Life Forest Prism Star LOT 180 |                  |
  
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432LOT200332LOT210332LOT220133CES10a0232SUM140232SMP250232GRI600133LOT1540433UPR1250433UPR1190333BUS1150133CES1480133LOT1880133FLI1080433LOT1870432SLG680433SUM1290233GRI1280133GRI1250133GRI1300333GRI1210133LOT1800731SUMG0133UPR136)
 
 ---
 
-## Steelix Stall  {{< boxsprite "steelix" >}}  {{< boxsprite "hoopa-unbound" >}}
+## Steelix Stall {{< boxsprite "steelix" >}}{{< boxsprite "hoopa-unbound" >}}{#steelix-stall}
 
   <p align="center">
     <img src = "/Decklists/steelix-SUMLOT.jpg" width="1000" class="center" />
   </p>
 
-  | Pokemon              | Trainer                    | Energy                   |
-|----------------------|----------------------------|--------------------------|
-| 4 Onix LOT 109       | 4 Steven's Resolve CES 145 | 1 Water Energy Energy 20 |
-| 4 Steelix CES 89     | 4 Cynthia UPR 119          | 1 Rainbow Energy SUM 137 |
-| 2 Hoopa SLG 55       | 3 Acerola BUS 112          |                          |
-| 1 Oranguru UPR 114   | 3 Lusamine CIN 96          |                          |
-| 1 Unown LOT 91       | 2 Team Skull Grunt SUM 133 |                          |
-| 1 Lapras LOT 56      | 2 Plumeria BUS 120         |                          |
-| 1 Articuno-GX CES 31 | 1 Faba LOT 173             |                          |
-| 1 Girafarig LOT 94   | 1 Gladion CIN 95           |                          |
-|                      | 1 Tate & Liza CES 148      |                          |
-|                      | 1 Guzma BUS 115            |                          |
-|                      | 1 Copycat CES 127          |                          |
-|                      | 4 Max Potion GRI 128       |                          |
+| Pokemon                    | Trainer                  | Energy                    |
+|----------------------------|-------------------------|---------------------------|
+| 4 Onix LOT 109           | 4 Steven's Resolve CES 145 | 1 Water Energy Energy 20 |
+| 4 Steelix CES 89         | 4 Cynthia UPR 119        | 1 Rainbow Energy SUM 137 |
+| 2 Hoopa SLG 55           | 3 Acerola BUS 112        |                           |
+| 1 Oranguru UPR 114       | 3 Lusamine CIN 96        |                           |
+| 1 Unown LOT 91           | 2 Team Skull Grunt SUM 133 |                         |
+| 1 Lapras LOT 56          | 2 Plumeria BUS 120       |                           |
+| 1 Articuno-GX CES 31     | 1 Faba LOT 173           |                           |
+| 1 Girafarig LOT 94       | 1 Gladion CIN 95         |                           |
+|                          | 1 Tate & Liza CES 148    |                           |
+|                          | 1 Guzma BUS 115          |                           |
+|                          | 1 Copycat CES 127        |                           |
+|                          | 4 Max Potion GRI 128     |                           |
 |                      | 3 Enhanced Hammer GRI 124  |                          |
 |                      | 3 Crushing Hammer SUM 115  |                          |
 |                      | 2 Counter Catcher CIN 91   |                          |
@@ -722,7 +813,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## White Kyurem  {{< boxsprite "kyurem-white" >}}
+## White Kyurem {{< boxsprite "kyurem-white" >}}{#white-kyurem}
 
   <p align="center">
     <img src = "/Decklists/whitekyurem-SUMLOT.jpg" width="1000" class="center" />
@@ -776,7 +867,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Zoroark Lycanroc {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}
+## Zoroark Lycanroc {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}{#zoroark-lycanroc}
 
   <p align="center">
     <img src = "/Decklists/zororoc-SUMLOT.jpg" width="1000" class="center" />
@@ -805,7 +896,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Zoroark Glaceon {{< boxsprite "zoroark" >}} {{< boxsprite "glaceon" >}}
+## Zoroark Glaceon {{< boxsprite "zoroark" >}}{{< boxsprite "glaceon" >}}{#zoroark-glaceon}
 
   <p align="center">
     <img src = "/Decklists/zoroglace-SUMLOT.jpg" width="1000" class="center" />

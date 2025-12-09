@@ -42,5 +42,5 @@ def cutOff(input_string):
         return ""
 
 
-print(listToTable("C:/Users/kales/kalestahl/helperstuff/listFile.txt"))
+print(listToTable("E:/_repos/KaleStahl.github.io/helperstuff/listFile.txt"))
 
