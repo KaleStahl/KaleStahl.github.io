@@ -1,39 +1,34 @@
-Pokémon: 27
-3 Alolan Vulpix GRI 21
-2 Alolan Ninetales-GX LOT 132
-1 Alolan Ninetales-GX GRI 22
-2 Chikorita LOT 5
-2 Meganium LOT 8
-2 Mudkip CES 32
-2 Swampert CES 35
-2 Rowlet SUM 9
-2 Decidueye-GX SUM 12
+Pokémon: 18
+4 Zorua SLG 52
+4 Zoroark-GX SLG 53
+2 Oranguru UPR 114
+1 Ditto Prism Star LOT 154
+1 Slugma CES 23
+1 Magcargo CES 24
+1 Alolan Muk SUM 58
+1 Articuno-GX CES 31
+1 Sableye GRI 80
 2 Tapu Lele-GX GRI 60
-1 Horsea BUS 29
-1 Kingdra-GX DRM 18
-1 Porygon BUS 103
-1 Porygon-Z BUS 105
-1 Cosmog SUM 64
-1 Solgaleo-GX SMP 104
-1 Tapu Koko SMP 30
 
-Trainer: 25
+Trainer: 37
 4 Professor Elm's Lecture LOT 188
-1 Lillie UPR 125
-1 Cynthia UPR 119
-1 Judge FLI 108
-1 Tate & Liza CES 148
+4 Cynthia UPR 119
+2 Plumeria BUS 120
+2 Team Skull Grunt SUM 133
+1 Guzma BUS 115
 1 Acerola BUS 112
 1 Gladion CIN 95
-1 Guzma BUS 115
-4 Ultra Ball SLG 68
-4 Rare Candy SUM 129
-2 Timer Ball SUM 134
+4 Ultra Ball SUM 135
+4 Timer Ball SUM 134
+4 Crushing Hammer SUM 115
+2 Enhanced Hammer GRI 124
+2 Counter Catcher CIN 91
 1 Rescue Stretcher GRI 130
-1 Counter Gain LOT 170
-2 Brooklet Hill GRI 120
+1 Pal Pad UPR 132
+1 Max Potion GRI 128
+1 Switch CES 147
+2 Lysandre Labs FLI 111
 
-Energy: 8
-4 Double Colorless Energy SLG 69
-3 Rainbow Energy CES 151
-1 Super Boost Energy Prism Star UPR 136
+Energy: 5
+3 Double Colorless Energy SUM 136
+2 Rainbow Energy CES 151

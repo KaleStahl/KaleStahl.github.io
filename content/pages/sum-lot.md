@@ -315,6 +315,8 @@ Sometimes no matter how well you play, your deck just loses to control. While no
 
 # Decklists
 
+The following decks are my current collection of decks for this format. They may not be the best or most competitively viable, but they are what I have built after playing the format for a few years casually. All of the photos are taken by me, and I have put decklist credit when applicable. I have also discussed the basic strategies of the decks and what certain inclusions do so people who are just picking up the format can have a nice place to start! My most common question from my friends when playing retro is "What the heck is this card in here for?", so I hope that these little blurbs can explain why the decks look like that! Below these are also a written decklist and a Limitless import for each deck if you would like to copy the decklist as text.
+
 - [Alolan Exeggutor](#alolan-exeggutor) {{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}
 - [Baby Buzzwole Garbodor](#baby-buzzwole-garbodor) {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}}{{< boxsprite "weavile" >}}
 - [Blacephalon Naganadel](#blacephalon-naganadel) {{< boxsprite "blacephalon">}}{{< boxsprite "naganadel">}}
@@ -327,19 +329,16 @@ Sometimes no matter how well you play, your deck just loses to control. While no
 - [Kitchen Sink Control](#kitchen-sink-control)  {{< boxsprite "regigigas" >}}{{< boxsprite "hoopa-unbound" >}}{{< boxsprite "xurkitree" >}}
 - [Lost March](#lost-march) {{< boxsprite "jumpluff" >}}{{< boxsprite "natu" >}}
 - [Malamar](#malamar) {{< boxsprite "malamar" >}}{{< boxsprite "necrozma" >}}
-- [Meganium Spread](#meganium-spread) {{< boxsprite "meganium" >}}{{< boxsprite "decidueye" >}}{{< boxsprite "swampert" >}}
+- [Meganium Spread](#meganium-spread) {{< boxsprite "meganium" >}}{{< boxsprite "swampert" >}}{{< boxsprite "decidueye" >}}
+- [Passimian Tapu Koko](#passimian-tapu-koko) {{< boxsprite "passimian" >}}{{< boxsprite "tapu-koko" >}}
 - [Rayquaza Vikavolt](#rayquaza-vikavolt) {{< boxsprite "rayquaza" >}}{{< boxsprite "vikavolt" >}}
 - [Sceptile](#sceptile) {{< boxsprite "sceptile" >}}
 - [Steelix Stall](#steelix-stall) {{< boxsprite "steelix" >}}{{< boxsprite "hoopa-unbound" >}}
 - [White Kyurem](#white-kyurem) {{< boxsprite "kyurem-white" >}}
+- [Zoroark Control](#zoroark-control) {{< boxsprite "zoroark" >}}{{< boxsprite "oranguru">}}
 - [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales) {{< boxsprite "zoroark" >}}{{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}
 - [Zoroark Lycanroc](#zoroark-lycanroc) {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}
 - [Zoroark Glaceon](#zoroark-glaceon) {{< boxsprite "zoroark" >}}{{< boxsprite "glaceon" >}} 
-
-
----
-
-The following decks are my current collection of decks for this format. They may not be the best or most competitively viable, but they are what I have built after playing the format for a few years casually. All of the photos are taken by me, and I have put decklist credit when applicable. I have also discussed the basic strategies of the decks and what certain inclusions do so people who are just picking up the format can have a nice place to start! My most common question from my friends when playing retro is "What the heck is this card in here for?", so I hope that these little blurbs can explain why the decks look like that! Below these are also a written decklist and a Limitless import for each deck if you would like to copy the decklist as text.
 
 ---
 ## Alolan Exeggutor {{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}{#alolan-exeggutor}
@@ -425,7 +424,7 @@ This deck tends to do very well against aggressive GX strategies or slower setup
 
 ---
 
-## Buzzwole Lycanroc Ninetales <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Buzzwole Lycanroc Ninetales <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/buzzroc-SUMLOT.jpg" width="1000" class="center" />
@@ -516,7 +515,7 @@ Like other Rare Candy decks with no draw engine, this deck sometimes has a hard 
 
 ---
 
-## Garchomp <img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Garchomp <img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/garchomp-SUMLOT.jpg" width="1000" class="center" />
@@ -608,10 +607,11 @@ Doing upwards of 160 damage on a stage 1 single prizer for 1 basic energy seems 
 
 ---
 
-## Kitchen Sink Control {{< boxsprite "regigigas" >}}{{< boxsprite "hoopa-unbound" >}}{{< boxsprite "xurkitree" >}}{#kitchen-sink-control}
+## Kitchen Sink Control {{< boxsprite "regigigas" >}} {{< boxsprite "hoopa-unbound" >}} {{< boxsprite "xurkitree" >}}{#kitchen-sink-control}
 
   <p align="center">
     <img src = "/Decklists/sinkcontrol.jpg" width="1000" class="center" />
+    * List Credit - @2010Decklists*
   </p>
 
 | Pokemon                      | Trainer                | Energy                    | 
@@ -669,7 +669,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Malamar  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" />  <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Malamar  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
 
   <p align="center">
     <img src = "/Decklists/malamar-SUMLOT.jpg" width="1000" class="center" />
@@ -696,7 +696,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI500432FLI510232SMP580232SLG450132UPR630132CIN430132UPR620132SMP590132LOT970132GRI600433UPR1190432SLG620433BUS1150433CES1230433FLI1130433SUM1350333CES1470233SUM1230133GRI1300233GRI1210a31SUMP)
 
   ---
-## Meganium Spread {{< boxsprite "meganium" >}}{{< boxsprite "decidueye" >}}{{< boxsprite "swampert">}}{#meganium-spread}
+## Meganium Spread {{< boxsprite "meganium" >}} {{< boxsprite "swampert">}} {{< boxsprite "decidueye" >}} {#meganium-spread}
 
   <p align="center">
     <img src = "/Decklists/meganiumspread-SUMLOT.jpg" width="1000" class="center" />
@@ -726,10 +726,43 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Rayquaza Vikavolt {{< boxsprite "rayquaza" >}}{{< boxsprite "vikavolt" >}}{#rayquaza-vikavolt}
+## Passimian Tapu Koko {{< boxsprite "passimian" >}} {{< boxsprite "tapu-koko" >}} {#passimian-tapu-koko}
+
+  <p align="center">
+    <img src = "/Decklists/passimian-SUMLOT.jpg" width="1000" class="center" />
+    * List Credit - Patricia Gonzalez Walsh*
+  </p>
+
+
+| Pokemon            | Trainer                | Energy                    | 
+|--------------------|------------------------|---------------------------| 
+| 4 Tapu Koko SMP 30 | 4 Lillie               | 4 Double Colorless Energy | 
+| 2 Passimian SUM 73 | 4 Guzma                | 3 Counter Energy          | 
+| 2 Passimian UPR 70 | 3 Professor Kukui      | 1 Psychic Energy          | 
+| 1 Slugma LOT 43    | 1 Cynthia              |                           | 
+| 1 Slugma CES 23    | 1 Tate & Liza          |                           | 
+| 2 Magcargo CES 24  | 1 Judge                |                           | 
+| 1 Oranguru SUM 113 | 4 Ultra Ball           |                           | 
+| 1 Oranguru UPR 114 | 4 Nest Ball            |                           | 
+| 1 Latios SLG 41    | 3 Acro Bike            |                           | 
+| 1 Tapu Lele SMP 45 | 3 Rescue Stretcher     |                           | 
+|                    | 1 Energy Loto          |                           | 
+|                    | 1 Switch               |                           | 
+|                    | 1 Field Blower         |                           | 
+|                    | 2 Choice Band          |                           | 
+|                    | 3 Shrine of Punishment |                           | 
+
+
+[Limitless Import](my.limitlesstcg.com/builder?i=10432SMP300232SUM730232UPR700132LOT430132CES230232CES240133SUM1130133UPR1140132SLG410132SMP450433UPR1250433BUS1150333SUM1280133UPR1190133CES1480133FLI1080433SUM1350433SUM1230333CES1230333GRI1300133GRI1220133CES1470133GRI1250233GRI1210333CES1430433SUM1360333CIN1000131SUMP)
+
+
+---
+
+## Rayquaza Vikavolt {{< boxsprite "rayquaza" >}} {{< boxsprite "vikavolt" >}}{#rayquaza-vikavolt}
 
   <p align="center">
     <img src = "/Decklists/vikaray-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Marcelo Magalhaes*
   </p>
 
   One of my favorite decks in the format (it's just because I like the yellow and green energy), this is one of the few agressive big-basic 2 prizers in format. Rayquaza GX can accerlate to itself with its Stormy Winds ability, and Vikavolt's Strong charge can power up Dragon Gale for huge damage out of nowhere. Tempest GX is also an amazing attack for setting up, discard your hand and drawing 10 is a huge boost to consistency. Zeraora GX is great for mobility, giving free retreat to any Pokemon with Lightning energy attached. Dhelmise seems like an interesting inclusion, but it allows you to have a single prize board state since Vikavolt's attack is not very efficient.
@@ -781,10 +814,11 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Steelix Stall {{< boxsprite "steelix" >}}{{< boxsprite "hoopa-unbound" >}}{#steelix-stall}
+## Steelix Stall {{< boxsprite "steelix" >}} {{< boxsprite "hoopa-unbound" >}}{#steelix-stall}
 
   <p align="center">
     <img src = "/Decklists/steelix-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Aaron Morgan*
   </p>
 
 | Pokemon                    | Trainer                  | Energy                    |
@@ -839,13 +873,46 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
+## Zoroark Control {{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} {#zoroark-control}
+
+  <p align="center">
+    <img src = "/Decklists/zorocontrol-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Daniel Altavilla*
+  </p>
+
+| Pokemon                    | Trainer                   | Energy                    | 
+|----------------------------|---------------------------|---------------------------| 
+| 4 Zorua SLG 52             | 4 Professor Elm's Lecture | 3 Double Colorless Energy | 
+| 4 Zoroark-GX SLG 53        | 4 Cynthia                 | 2 Rainbow Energy          | 
+| 2 Oranguru UPR 114         | 2 Plumeria                |                           | 
+| 1 Ditto Prism Star LOT 154 | 2 Team Skull Grunt        |                           | 
+| 1 Slugma CES 23            | 1 Guzma                   |                           | 
+| 1 Magcargo CES 24          | 1 Acerola                 |                           | 
+| 1 Alolan Muk SUM 58        | 1 Gladion                 |                           | 
+| 1 Articuno-GX CES 31       | 4 Ultra Ball              |                           | 
+| 1 Sableye GRI 80           | 4 Timer Ball              |                           | 
+| 2 Tapu Lele-GX GRI 60      | 4 Crushing Hammer         |                           | 
+|                            | 2 Enhanced Hammer         |                           | 
+|                            | 2 Counter Catcher         |                           | 
+|                            | 1 Rescue Stretcher        |                           | 
+|                            | 1 Pal Pad                 |                           | 
+|                            | 1 Max Potion              |                           | 
+|                            | 1 Switch                  |                           | 
+|                            | 2 Lysandre Labs           |                           | 
+
+  [Limitless Import](my.limitlesstcg.com/builder?i=10432SLG520432SLG530233UPR1140133LOT1540132CES230132CES240132SUM580132CES310132GRI800232GRI600433LOT1880433UPR1190233BUS1200233SUM1330133BUS1150133BUS1120132CIN950433SUM1350433SUM1340433SUM1150233GRI1240232CIN910133GRI1300133UPR1320133GRI1280133CES1470233FLI1110333SUM1360233CES151)
+
+
+---
+
 ## Zoroark Decidueye Ninetales {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}
 
   <p align="center">
     <img src = "/Decklists/zorodecitales-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Me*
   </p>
 
-  | Pokemon                       | Trainer                           | Energy                            |
+| Pokemon                       | Trainer                           | Energy                            |
 |-------------------------------|-----------------------------------|-----------------------------------|
 | 3 Zorua SLG 52                | 4 Cynthia UPR 119                 | 4 Double Colorless Energy SUM 136 |
 | 3 Zoroark-GX SLG 53           | 4 Professor Elm's Lecture LOT 188 | 3 Fairy Energy Energy 26          |
@@ -871,6 +938,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
   <p align="center">
     <img src = "/Decklists/zororoc-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Rahul Reddy*
   </p>
 
   | Pokemon                    | Trainer                           | Energy                           |
@@ -900,6 +968,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
   <p align="center">
     <img src = "/Decklists/zoroglace-SUMLOT.jpg" width="1000" class="center" />
+    *List Credit - Roberto Gomes Coregio Junior*
   </p>
 
   | Pokemon                    | Trainer                           | Energy                            |
