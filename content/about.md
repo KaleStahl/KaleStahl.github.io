@@ -10,12 +10,12 @@ My current research interests lie within applied anlaysis and PDE, and I am part
 
 Outside of math, I have too many hobbies. I enjoy woodworking, playing video games, playing card games, coding, sculpting, cooking, and whatever else I decide I want to do that day. I have made a [separate page](/category/) for ramblings related to these things.
 
-I have a 3 year old german shepard and coonhound mix named Boo who is... let's just say "special". We also recently adopt a cat name Celery! She is an absolute crackhead and loves to get up to trouble with her brother.
+I have a 3 year old german shepard and coonhound mix named Boo who is... a lot. He's very sweet, but a giant ball of anxiety, unlike our cat Celery who could care less about about anything! They love to "play", which entails Celery hitting him in the face, and getting him excited to play before running to an area out of his reach to taunt him until he forgets about her and the cycle repeats.
 <p align="center">
   <img src = "/animals.jpg" width="400" class="center" alt = "my animals before they resume being menaces" />
 </p>
 
-I also play the Pokemon Trading Card game competitively! I started play competitively a few years ago, and since then have attended numerous large regional and national championships, with my best finish being at the 2023 San Antonio Regionals with my beloved [SableZard deck](https://limitlesstcg.com/decks/list/9576). The Pokemon TCG is also awesome because of the sheer amount of retro formats I can build and play! I currently have 71 retro decks built from formats spanning 2004 all the way to 2019, and I can't stop building more!
+I also play the Pokemon Trading Card game competitively! I started play competitively a few years ago, and since then have attended numerous large regional and national championships, with my best finish being at the 2023 San Antonio Regionals with my beloved [SableZard deck](https://limitlesstcg.com/decks/list/9576). The Pokemon TCG is also awesome because of the sheer amount of retro formats I can build and play! I currently have 71 retro decks built from formats spanning 2004 all the way to 2023, and I can't stop building more!
 
 <p align="center">
   <img src = "/pikachu.jpg" width="300" class="center" alt = "me at pokemon" />
