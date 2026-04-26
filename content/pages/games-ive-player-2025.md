@@ -9,8 +9,6 @@ tags:
 
 # Monster Hunter Wilds
 
-# Monster Hunter Wilds
-
 **First Played:** 2/28/2025<br>
 **Play Time so Far:** 24 hours<br>
 **Overall Review Score:** 4/7<br>

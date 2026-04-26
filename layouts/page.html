@@ -1,2 +1,5 @@
-{{ partial "menu.html" (dict "menuID" "main" "page" .) }}
-{{ partial "menu.html" (dict "menuID" "footer" "page" .) }}
+{{ partial "header.html" . }}
+
+{{ .Content }}
+
+{{ partial "footer.html" . }}

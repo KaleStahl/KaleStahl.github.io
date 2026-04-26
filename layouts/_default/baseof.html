@@ -1,6 +1,3 @@
-<head>
-    <meta name="google-site-verification" content="pe4u1jMhP8r1Nch3d7NbcAsupWK5UDsB-K6i5L86u3M" />
-    {{ if .Param "math" }}
-      {{ partialCached "math.html" . }}
-    {{ end }}
-</head>
+{{ partial "header.html" . }}
+{{ block "main" . }}{{ end }}
+{{ partial "footer.html" . }}
