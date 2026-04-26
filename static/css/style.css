@@ -1,5 +1,5 @@
 body {
-  max-width: 800px;
+  max-width: 1000px;
   margin: auto;
   padding: 1em;
   line-height: 1.5;
@@ -49,19 +49,22 @@ table {
   border-right: 1px solid #666;
 }
 
-/* Content wrapper and sidebar */
-.content-wrapper {
+/* Content wrapper and sidebar - only for pages with TOC */
+.content-wrapper.with-sidebar {
   display: flex;
   gap: 2em;
   align-items: flex-start;
+  max-width: 1400px;
+  margin: 0 auto;
 }
 
-.content-wrapper main {
+.content-wrapper.with-sidebar main {
   flex: 1;
-  min-width: 0; /* Allow flex item to shrink */
+  max-width: 1000px;
+  min-width: 0;
 }
 
-.sidebar {
+.content-wrapper.with-sidebar .sidebar {
   flex: 0 0 250px;
   position: sticky;
   top: 2em;

@@ -5,24 +5,9 @@
 {{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
 </div>
 
-<div class="content-wrapper">
-  <main>
-  {{ .Content }}
-  </main>
-
-  {{ if eq .Section "pages" }}
-  <aside class="sidebar">
-    <div class="toc">
-      <h3>Table of Contents</h3>
-      <div class="toc-content">
-        {{ .TableOfContents }}
-      </div>
-    </div>
-  </aside>
-  {{ else }}
-  <!-- Debug: Section={{ .Section }}, TOC Length={{ len .TableOfContents }} -->
-  {{ end }}
-</div>
+<main>
+{{ .Content }}
+</main>
 
 {{ with .Params.tags }}
 <div class="tags">

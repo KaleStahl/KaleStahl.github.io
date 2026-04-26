@@ -1,5 +1,32 @@
 {{ partial "header.html" . }}
 
+{{ if eq .Section "pages" }}
+{{ $toc := .TableOfContents }}
+{{ $hasTOC := and (ge (len $toc) 25) (not (eq $toc "<nav id=\"TableOfContents\"></nav>")) }}
+{{ if $hasTOC }}
+<div class="content-wrapper with-sidebar">
+  <aside class="sidebar">
+    <div class="toc">
+      <h3>Table of Contents</h3>
+      <div class="toc-content">
+        {{ .TableOfContents }}
+      </div>
+    </div>
+  </aside>
+
+  <main>
+  {{ .Content }}
+  </main>
+</div>
+{{ else }}
+<main>
 {{ .Content }}
+</main>
+{{ end }}
+{{ else }}
+<main>
+{{ .Content }}
+</main>
+{{ end }}
 
 {{ partial "footer.html" . }}
