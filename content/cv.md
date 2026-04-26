@@ -4,7 +4,7 @@ menu: main
 weight: 3
 ---
 
-Click [here](/files/Kale_Stahl_CV.pdf) to see my current CV.
+Click [here](/files/Kale_Stahl_CV.pdf) to see a pdf of my current CV.
 
 ## Publications in Referreed Journals
 1. D.L. Nguyen, **K. Stahl**, and T. Truong. *A new sampling indicator function for stable imaging of periodic scattering media* in Inverse Problems, Volume 39, Number 6, May 9, 2023. 
@@ -12,9 +12,13 @@ Link: [https://iopscience.iop.org/article/10.1088/1361-6420/acce5f/meta](https:/
 arXiv: [https://arxiv.org/abs/2205.01206](https://arxiv.org/pdf/2205.01206)
 
 ## Expository Works
+These are works that aren't worthy of publishing, but could be fun to read if you are interested.
+
 **Undergraduate Honors Thesis**: *"On the Factorization Method for Inverse Scattering Problems"* [[pdf]](/files/Factorization%20Method.pdf)
 
 ### Lecture Notes
+These are notes I either typed up while in class or to help document what we covered in meetings with my [Directed Reading Program](https://sites.google.com/view/purdue-drp/home?authuser=0) students. Most of them are useful enough, and I just love LaTeX so sometimes I need an excuse to type math.
+
 - Lecture Notes on Sobolev Inequalities [[pdf]](/files/GMT%20Lecture.pdf)
 - Lecture Notes on Bipolar Green's Functions [[pdf]](/files/bipolarGreen.pdf)
 - Lecture Notes on Discrete Mathematics [[pdf]](/files/discrete.pdf)
@@ -22,6 +26,8 @@ arXiv: [https://arxiv.org/abs/2205.01206](https://arxiv.org/pdf/2205.01206)
 - Some Notes on Scattering Resonances [[pdf]](/files/scatteringresonances.pdf)
 
 ### Purdue Qualifying Exam Study Materials
+These are probably some of the documents that I have spent the most time on. Each has a pretty detailed set of notes along with many worked Qualifying Exam problems. All of them have helped people (including me) pass quals, so maybe a future Purdue student could find them useful if I archive them here.
+
 - MA 530 Complex Analysis [[pdf]](/files/ma530.pdf)
 - MA 553 Abstract Algebra [[pdf]](/files/ma553.pdf)
 - MA 544 Real Analysis [[pdf]](/files/ma544.pdf)
