@@ -38,6 +38,10 @@ markup:
           - - '\('
             - '\)'
         enable: true
+  tableOfContents:
+    endLevel: 6
+    ordered: false
+    startLevel: 1
 
 params:
   math: true

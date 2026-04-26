@@ -7,22 +7,7 @@ tags:
   - Games I've Played
 ---
 
-# Table of Contents
-
-- [Monster Hunter Wilds](#monster-hunter-wilds)
-- [Baldur's Gate III](#baldurs-gate-iii)
-- [Fantasy Life i: The Girl who Steals Time](#fantasy-life-i-the-girl-who-steals-time)
-- [Turnip Boy Robs a Bank](#turnip-boy-robs-a-bank)
-- [Mario Kart World](#mario-kart-world)
-- [Donkey Kong Bananza](#donkey-kong-bananza)
-- [Hollow Knight: Silksong](#hollow-knight-silksong)
-- [Pokemon Legends Z-A](#pokemon-legends-z-a)
-- [Super Mario RPG](#super-mario-rpg-switch-remake)
-- [Monster Sanctuary](#monster-sanctuary)
-- [Persona 4 Golden](#person-4-golden)
-- [Kirby Air Riders](#kirby-air-riders)
-
----
+# Monster Hunter Wilds
 
 # Monster Hunter Wilds
 

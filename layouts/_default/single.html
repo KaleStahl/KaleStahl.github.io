@@ -10,13 +10,17 @@
   {{ .Content }}
   </main>
 
-  {{ if and (eq .Section "pages") (gt (len .TableOfContents) 0) }}
+  {{ if eq .Section "pages" }}
   <aside class="sidebar">
     <div class="toc">
       <h3>Table of Contents</h3>
-      {{ .TableOfContents }}
+      <div class="toc-content">
+        {{ .TableOfContents }}
+      </div>
     </div>
   </aside>
+  {{ else }}
+  <!-- Debug: Section={{ .Section }}, TOC Length={{ len .TableOfContents }} -->
   {{ end }}
 </div>
 
