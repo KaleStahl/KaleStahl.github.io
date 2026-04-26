@@ -5,9 +5,20 @@
 {{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
 </div>
 
-<main>
-{{ .Content }}
-</main>
+<div class="content-wrapper">
+  <main>
+  {{ .Content }}
+  </main>
+
+  {{ if and (eq .Section "pages") (gt (len .TableOfContents) 0) }}
+  <aside class="sidebar">
+    <div class="toc">
+      <h3>Table of Contents</h3>
+      {{ .TableOfContents }}
+    </div>
+  </aside>
+  {{ end }}
+</div>
 
 {{ with .Params.tags }}
 <div class="tags">

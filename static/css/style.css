@@ -48,6 +48,83 @@ table {
   border-left: 1px solid #666;
   border-right: 1px solid #666;
 }
+
+/* Content wrapper and sidebar */
+.content-wrapper {
+  display: flex;
+  gap: 2em;
+  align-items: flex-start;
+}
+
+.content-wrapper main {
+  flex: 1;
+  min-width: 0; /* Allow flex item to shrink */
+}
+
+.sidebar {
+  flex: 0 0 250px;
+  position: sticky;
+  top: 2em;
+}
+
+.toc {
+  background: #f9f9f9;
+  padding: 1em;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
+.toc h3 {
+  margin-top: 0;
+  font-size: 1.1em;
+  color: #333;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.toc li {
+  margin: 0.25em 0;
+}
+
+.toc a {
+  text-decoration: none;
+  color: #666;
+  font-size: 0.9em;
+}
+
+.toc a:hover {
+  color: #333;
+}
+
+.toc .toc-level-2 {
+  padding-left: 1em;
+}
+
+.toc .toc-level-3 {
+  padding-left: 2em;
+  font-size: 0.85em;
+}
+
+/* Responsive design for sidebar */
+@media (max-width: 900px) {
+  .content-wrapper {
+    flex-direction: column;
+  }
+  
+  .sidebar {
+    position: static;
+    order: -1; /* Move sidebar above content on mobile */
+    flex: none;
+    margin-bottom: 2em;
+  }
+  
+  .toc {
+    padding: 0.5em;
+  }
+}
 table head
 table thead th { border-bottom: 1px solid #ddd; }
 th, td { padding: 5px; }
