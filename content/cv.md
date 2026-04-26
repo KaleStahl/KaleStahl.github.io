@@ -1,7 +1,7 @@
 ---
 title: Curriculum Vitae
 menu: main
-weight: 3
+weight: 4
 ---
 
 Click [here](/files/Kale_Stahl_CV.pdf) to see a pdf of my current CV.
