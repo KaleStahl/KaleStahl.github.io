@@ -4,8 +4,7 @@ author: Kale Stahl
 categories:
   - Video games
 tags:
-  - reviews
-  - games
+  - Games I've Played
 ---
 
 # Table of Contents

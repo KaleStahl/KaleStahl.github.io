@@ -7,11 +7,25 @@
 {{ .Content }}
 
 <ul>
-  {{ $pages := .Pages }}
-  {{ range (where $pages "Section" "!=" "") }}
-  <li>
-    <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
-  </li>
+  {{ if eq .Section "pages" }}
+    {{ range .Pages }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+      {{ with .Params.tags }}
+      <span class="tags">
+        [{{ range . }}<a href="/tags/{{ . | urlize }}/">({{ . }})</a>{{ end }}]
+      </span>
+      {{ end }}
+    </li>
+    {{ end }}
+  {{ else }}
+    {{ $pages := .Pages }}
+    {{ if .IsHome }}{{ $pages = .Site.RegularPages }}{{ end }}
+    {{ range (where (where $pages "Section" "!=" "") "Section" "!=" "pages") }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title | markdownify }}</a>
+    </li>
+    {{ end }}
   {{ end }}
 </ul>
 

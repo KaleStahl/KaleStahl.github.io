@@ -13,6 +13,9 @@ permalinks:
 
 menu:
   main:
+    - name: Teaching
+      url: "/teaching/"
+      weight: 3
     - name: Ramblings
       url: "pages/"
       weight: 5

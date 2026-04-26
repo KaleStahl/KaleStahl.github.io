@@ -9,4 +9,10 @@
 {{ .Content }}
 </main>
 
+{{ with .Params.tags }}
+<div class="tags">
+  <strong>Tags:</strong> {{ range . }}<a href="/tags/{{ . | urlize }}/">({{ . }})</a>{{ end }}
+</div>
+{{ end }}
+
 {{ partial "footer.html" . }}

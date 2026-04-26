@@ -1,5 +1,5 @@
 ---
-title: Curriculum Vitae
+title: CV and Papers
 menu: main
 weight: 4
 ---
