@@ -2,42 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://kalestahl.github.io/</loc>
   </url><url>
-    <loc>http://localhost:1313/research/</loc>
+    <loc>https://kalestahl.github.io/research/</loc>
   </url><url>
-    <loc>http://localhost:1313/teaching/</loc>
+    <loc>https://kalestahl.github.io/teaching/</loc>
   </url><url>
-    <loc>http://localhost:1313/cv/</loc>
+    <loc>https://kalestahl.github.io/cv/</loc>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://kalestahl.github.io/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/2018/</loc>
+    <loc>https://kalestahl.github.io/tags/2018/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/sum-lot/</loc>
+    <loc>https://kalestahl.github.io/pages/sum-lot/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kalestahl.github.io/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/deck-showcase/</loc>
+    <loc>https://kalestahl.github.io/categories/deck-showcase/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/games/</loc>
+    <loc>https://kalestahl.github.io/tags/games-ive-played/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/</loc>
+    <loc>https://kalestahl.github.io/pages/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/pokemon-tcg/</loc>
+    <loc>https://kalestahl.github.io/tags/pokemon-tcg/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/retro-formats/</loc>
+    <loc>https://kalestahl.github.io/tags/retro-formats/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/retro-pokemon-tcg/</loc>
+    <loc>https://kalestahl.github.io/categories/retro-pokemon-tcg/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/reviews/</loc>
+    <loc>https://kalestahl.github.io/pages/games-ive-player-2025/</loc>
   </url><url>
-    <loc>http://localhost:1313/pages/games-ive-player-2025/</loc>
+    <loc>https://kalestahl.github.io/tags/sum-lot/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/sum-lot/</loc>
+    <loc>https://kalestahl.github.io/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-  </url><url>
-    <loc>http://localhost:1313/categories/video-games/</loc>
+    <loc>https://kalestahl.github.io/categories/video-games/</loc>
   </url>
 </urlset>
