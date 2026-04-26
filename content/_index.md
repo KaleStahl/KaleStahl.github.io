@@ -4,8 +4,6 @@ menu: main
 weight: 1
 ---
 
-<meta name="google-site-verification" content="pe4u1jMhP8r1Nch3d7NbcAsupWK5UDsB-K6i5L86u3M" />
-
 # Kale Stahl
 ### Email: stahl37[at]purdue[dot]edu
 ### Office: MATH 645
