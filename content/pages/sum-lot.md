@@ -11,19 +11,6 @@ tags:
   - 2018
 ---
 
-# Table of Contents
-
-- 1: [An Introduction to SUM-LOT](#an-introduction-to-sum-lot)
-- 2: [Important Cards](#important-cards)
-  - [Supporters](#supporters)
-  - [Items](#item-cards)
-  - [Stadiums](#stadiums)
-  - [Pokemon](#pokemon)
-- 3: [An Overview of the Metagame](#metagame)
-- 4: [Decklists](#decklists)
-
----
-
 # An Introduction to SUM-LOT
 
  The Sun and Moon era of the Pokemon TCG is looked back on extremely fondly by competitively players, and rightly so. After the dominance of big-basic strategies in the Black and White era, and them continuing into XY due to the lackluster Mega Evolution mechanic, it was exciting to see the evolving Pokemon GX take over the reigns. With the introduction of the first few Sun and Moon sets, many of the less than desirable attributes of the XY era persisted: an over reliance on "turbo" item cards, basic pokemon dominating the format, and supporters that were extremely powerful with no negative impact on deck consistency. Almost every deck ran 4 Trainers' mail, VS Seeker and Puzzle of Time, with hopes of setting up faster than their opponent. If this wasn't enough, the format included Professor Sycamore for draw support, N for late game disruption and even more early draw support, and Lysandre for unconditional gusting, all with unparalleled ease of access with VS seeker.
