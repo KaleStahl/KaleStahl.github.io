@@ -6,9 +6,8 @@ categories:
   - Deck Showcase
 tags:
   - Pokemon TCG
-  - Retro Formats
+  - Retro Pokemon TCG
   - SUM-LOT
-  - 2018
 ---
 
 # An Introduction to SUM-LOT
