@@ -1,6 +1,7 @@
 ---
 title: Teaching
 weight: 3
+layout: single
 ---
 
 Though am am supported through the NSF GRFP, I still serve as a teaching assistant in the math department. For students, any appropriate files (if applicable) will be linked by clicking on the semester you took it.

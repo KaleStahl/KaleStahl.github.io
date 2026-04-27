@@ -329,7 +329,7 @@ The following decks are my current collection of decks for this format. They may
 - [Zoroark Glaceon](#zoroark-glaceon) {{< boxsprite "zoroark" >}}{{< boxsprite "glaceon" >}} 
 
 ---
-## Alolan Exeggutor <span class="no-toc">{{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}</span>{#alolan-exeggutor}
+## Alolan Exeggutor <span class="no-toc">{{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/exeggutor-SUMLOT.jpg" width="1000" class="center" />
@@ -355,7 +355,7 @@ The following decks are my current collection of decks for this format. They may
 
 ---
 
-## Baby Buzzwole Garbodor {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}}{{< boxsprite "weavile" >}}{#baby-buzzwole-garbodor}
+## Baby Buzzwole Garbodor <span class = "no-toc">{{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}}{{< boxsprite "weavile" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/buzzgarb-SUMLOT.jpg" width="1000" class="center" />
@@ -386,7 +386,7 @@ This deck tends to do very well against aggressive GX strategies or slower setup
 
 ---
 
-## Blacephalon Naganadel {{< boxsprite "blacephalon">}}{{< boxsprite "naganadel">}}{#blacephalon-naganadel}
+## Blacephalon Naganadel <span class="no-toc">{{< boxsprite "blacephalon">}}{{< boxsprite "naganadel">}}</span>
 
 
   <p align="center">
@@ -412,7 +412,7 @@ This deck tends to do very well against aggressive GX strategies or slower setup
 
 ---
 
-## Buzzwole Lycanroc Ninetales <img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Buzzwole Lycanroc Ninetales <span class="no-toc"><img src="/boxsprites/buzzwole.png" alt="buzzwole" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/lycanroc-midnight.png" alt="lycanroc" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" /></span>
 
   <p align="center">
     <img src = "/Decklists/buzzroc-SUMLOT.jpg" width="1000" class="center" />
@@ -444,7 +444,7 @@ This deck hopes to come out of the gate swinging, and keep up the pressure in th
 
 ---
 
-## Dusk Mane Necrozma <img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> <img src="/boxsprites/dialga.png" alt="dialga" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/magnezone.png" alt="magnezone" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Dusk Mane Necrozma <span class="no-toc"><img src="/boxsprites/necrozma-dusk.png" alt="dusk mane" style="height:1.5em; vertical-align:bottom; display:inline-block;" /> <img src="/boxsprites/dialga.png" alt="dialga" style="height:1.5em; vertical-align:middle; display:inline-block;" /><img src="/boxsprites/magnezone.png" alt="magnezone" style="height:1.5em; vertical-align:middle; display:inline-block;" /></span>
 
   <p align="center">
     <img src = "/Decklists/duskmane-SUMLOT.jpg" width="1000" class="center" />
@@ -472,7 +472,7 @@ This deck hopes to come out of the gate swinging, and keep up the pressure in th
 
 ---
 
-## Empoleon <img src="/boxsprites/empoleon.png" alt="empoleon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Empoleon <span class="no-toc"><img src="/boxsprites/empoleon.png" alt="empoleon" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /></span>
 
   <p align="center">
     <img src = "/Decklists/empoleon-SUMLOT.jpg" width="1000" class="center" />
@@ -503,7 +503,7 @@ Like other Rare Candy decks with no draw engine, this deck sometimes has a hard 
 
 ---
 
-## Garchomp <img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Garchomp <span class="no-toc"><img src="/boxsprites/garchomp.png" alt="garchomp" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/lucario.png" alt="lucario" style="height:1.5em; vertical-align:middle; display:inline-block;" /></span>
 
   <p align="center">
     <img src = "/Decklists/garchomp-SUMLOT.jpg" width="1000" class="center" />
@@ -533,7 +533,7 @@ This is a homebrew deck from the dark recesses of my mind. I was looking through
 
 ---
 
-## Gardevoir Swampert Ninetales <img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Gardevoir Swampert Ninetales <span class="no-toc"><img src="/boxsprites/gardevoir.png" alt="gardevoir" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/swampert.png" alt="swampert" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/ninetales-alola.png" alt="ninetales" style="height:1.5em; vertical-align:middle; display:inline-block;" /></span>
 
   <p align="center">
     <img src = "/Decklists/gardevoir-SUMLOT.jpg" width="1000" class="center" />
@@ -562,7 +562,7 @@ Gardevoir is super tanky, so it has no issue dealing with 2-hit KO decks like Zo
 
 ---
 
-## Granbull  <img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Granbull  <span class="no-toc"><img src="/boxsprites/granbull.png" alt="granbull" style="height:1.5em; vertical-align:middle; display:inline-block;" /></span>
 
   <p align="center">
     <img src = "/Decklists/granbull-SUMLOT.jpg" width="1000" class="center" />
@@ -595,7 +595,7 @@ Doing upwards of 160 damage on a stage 1 single prizer for 1 basic energy seems 
 
 ---
 
-## Kitchen Sink Control {{< boxsprite "regigigas" >}} {{< boxsprite "hoopa-unbound" >}} {{< boxsprite "xurkitree" >}}{#kitchen-sink-control}
+## Kitchen Sink Control <span class="no-toc">{{< boxsprite "regigigas" >}} {{< boxsprite "hoopa-unbound" >}} {{< boxsprite "xurkitree" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/sinkcontrol.jpg" width="1000" class="center" />
@@ -630,7 +630,7 @@ Doing upwards of 160 damage on a stage 1 single prizer for 1 basic energy seems 
 
 ---
 
-## Lost March  <img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Lost March  <span class="no-toc"><img src="/boxsprites/jumpluff.png" alt="jumpluff" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/natu.png" alt="natu" style="height:1.5em; vertical-align:middle; display:inline-block;" /></span>
 
   <p align="center">
     <img src = "/Decklists/lostmarch-SUMLOT.jpg" width="1000" class="center" />
@@ -657,7 +657,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Malamar  <img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" />
+## Malamar  <span class="no-toc"><img src="/boxsprites/malamar.png" alt="malamar" style="height:1.5em; vertical-align:middle; display:inline-block;" /> <img src="/boxsprites/necrozma.png" alt="necrozma" style="height:1.5em; vertical-align:middle; display:inline-block;" /></span>
 
   <p align="center">
     <img src = "/Decklists/malamar-SUMLOT.jpg" width="1000" class="center" />
@@ -684,7 +684,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
   [Limitless Import](https://my.limitlesstcg.com/builder?i=10432FLI500432FLI510232SMP580232SLG450132UPR630132CIN430132UPR620132SMP590132LOT970132GRI600433UPR1190432SLG620433BUS1150433CES1230433FLI1130433SUM1350333CES1470233SUM1230133GRI1300233GRI1210a31SUMP)
 
   ---
-## Meganium Spread {{< boxsprite "meganium" >}} {{< boxsprite "swampert">}} {{< boxsprite "decidueye" >}} {#meganium-spread}
+## Meganium Spread <span class="no-toc">{{< boxsprite "meganium" >}} {{< boxsprite "swampert">}} {{< boxsprite "decidueye" >}} </span>
 
   <p align="center">
     <img src = "/Decklists/meganiumspread-SUMLOT.jpg" width="1000" class="center" />
@@ -714,7 +714,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Passimian Tapu Koko {{< boxsprite "passimian" >}} {{< boxsprite "tapu-koko" >}} {#passimian-tapu-koko}
+## Passimian Tapu Koko <span class="no-toc"> {{< boxsprite "passimian" >}} {{< boxsprite "tapu-koko" >}}</span> 
 
   <p align="center">
     <img src = "/Decklists/passimian-SUMLOT.jpg" width="1000" class="center" />
@@ -746,7 +746,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Rayquaza Vikavolt {{< boxsprite "rayquaza" >}} {{< boxsprite "vikavolt" >}}{#rayquaza-vikavolt}
+## Rayquaza Vikavolt <span class="no-toc">{{< boxsprite "rayquaza" >}} {{< boxsprite "vikavolt" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/vikaray-SUMLOT.jpg" width="1000" class="center" />
@@ -775,7 +775,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
   ---
 
-## Sceptile {{< boxsprite "sceptile" >}}{#sceptile}
+## Sceptile <span class="no-toc">{{< boxsprite "sceptile" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/sceptile-SUMLOT.jpg" width="1000" class="center" />
@@ -802,7 +802,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Steelix Stall {{< boxsprite "steelix" >}} {{< boxsprite "hoopa-unbound" >}}{#steelix-stall}
+## Steelix Stall <span class="no-toc">{{< boxsprite "steelix" >}} {{< boxsprite "hoopa-unbound" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/steelix-SUMLOT.jpg" width="1000" class="center" />
@@ -835,7 +835,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## White Kyurem {{< boxsprite "kyurem-white" >}}{#white-kyurem}
+## White Kyurem <span class="no-toc">{{< boxsprite "kyurem-white" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/whitekyurem-SUMLOT.jpg" width="1000" class="center" />
@@ -861,7 +861,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Zoroark Control {{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} {#zoroark-control}
+## Zoroark Control <span class="no-toc">{{< boxsprite "zoroark" >}} {{< boxsprite "oranguru" >}} </span>
 
   <p align="center">
     <img src = "/Decklists/zorocontrol-SUMLOT.jpg" width="1000" class="center" />
@@ -893,7 +893,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Zoroark Decidueye Ninetales {{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}
+## Zoroark Decidueye Ninetales <span class="no-toc">{{< boxsprite "zoroark" >}} {{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/zorodecitales-SUMLOT.jpg" width="1000" class="center" />
@@ -922,7 +922,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Zoroark Lycanroc {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}{#zoroark-lycanroc}
+##  Zoroark Lycanroc <span class="no-toc">{{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/zororoc-SUMLOT.jpg" width="1000" class="center" />
@@ -952,7 +952,7 @@ Your main attackers have 70 and 40 HP, so spread decks are super hard to beat. J
 
 ---
 
-## Zoroark Glaceon {{< boxsprite "zoroark" >}}{{< boxsprite "glaceon" >}}{#zoroark-glaceon}
+## Zoroark Glaceon <span class="no-toc">{{< boxsprite "zoroark" >}}{{< boxsprite "glaceon" >}}</span>
 
   <p align="center">
     <img src = "/Decklists/zoroglace-SUMLOT.jpg" width="1000" class="center" />

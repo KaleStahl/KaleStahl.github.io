@@ -2,7 +2,7 @@
 title: About
 menu: main
 weight: 5
-
+layout: single
 ---
 
 I am originally from Topeka, KS and I completed my undergrad in Mathematics and Physics at Kansas State University. I came to Purdue because their Math department is one of the few in the country that actually has a research group for Scattering Theory. After my PhD, my goal is to stay in academia and teach and conduct research full time. Given the current climate and job market I am flexible in that goal however...

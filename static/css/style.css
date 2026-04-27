@@ -21,7 +21,28 @@ hr {
   border-style: dashed;
   color: #ddd;
 }
+.article-meta {
+  background: #eee;
+  padding: 12px;
+  border-radius: 5px;
+  margin: 1.5em 0;
+  text-align: center;
+}
+.article-meta h1 {
+  margin: 0;
+  font-size: 1.5em;
+}
 
+.article-meta .title {
+  display: inline-block;
+}
+
+.article-meta h2 {
+  margin: 0.3em 0 0;
+  font-size: 0.9em;
+  font-weight: normal;
+  color: #666;
+}
 /* code */
 pre {
   border: 1px solid #ddd;
@@ -122,13 +143,11 @@ table {
 /* Collapsible TOC */
 .toc .toc-toggle {
   cursor: pointer;
-  user-select: none;
-  position: relative;
-  padding: 0.1em 0;
+  display: inline-block;
+  width: 1em;
+  font-size: 0.8em;
   color: #666;
-  font-size: 0.9em;
 }
-
 .toc .toc-toggle:hover {
   color: #333;
 }
@@ -144,18 +163,33 @@ table {
 .toc .toc-toggle.expanded::before {
   transform: rotate(90deg);
 }
+.toc-row {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+}
+.toc-submenu .toc-row {
+  padding-left: 1.2em;
+}
+.toc-arrow {
+  cursor: pointer;
+  width: 1em;
+  display: inline-block;
+  color: #666;
+  font-size: 0.85em;
+  user-select: none;
+}
 
-.toc .toc-submenu {
+.toc-submenu {
   display: none;
   margin-left: 1em;
   padding-left: 1em;
   border-left: 2px solid #ddd;
 }
 
-.toc .toc-submenu.expanded {
+.toc-submenu.expanded {
   display: block;
 }
-
 /* Responsive design for sidebar */
 @media (max-width: 900px) {
   .content-wrapper.with-sidebar {

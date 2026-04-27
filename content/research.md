@@ -2,6 +2,7 @@
 title: Research
 menu: main
 weight: 2
+layout: single
 ---
 
 I am currently supported with funding as an NSF Graduate Research Fellow.

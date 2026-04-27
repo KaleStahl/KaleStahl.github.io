@@ -11,30 +11,46 @@
       const toc = document.querySelector(".toc .toc-content");
       if (!toc) return;
     
-      // Find all list items that have nested lists
       toc.querySelectorAll("li").forEach(li => {
-        const subList = li.querySelector("ul");
-        const link = li.querySelector("a");
+        const subList = li.querySelector(":scope > ul");
+        const link = li.querySelector(":scope > a");
     
-        if (subList && link) {
-          // Wrap link text in a toggle span
-          const toggle = document.createElement("span");
-          toggle.classList.add("toc-toggle");
-          toggle.textContent = link.textContent;
+        if (!link) return;
     
-          // Replace link text with toggle
-          link.textContent = "";
-          link.appendChild(toggle);
-    
-          // Mark submenu
+        // Only add toggle if it has children
+        if (subList) {
           subList.classList.add("toc-submenu");
     
-          // Click behavior
-          toggle.addEventListener("click", function (e) {
+          // Create a single row container (arrow + text)
+          const row = document.createElement("span");
+          row.className = "toc-row";
+    
+          // Arrow
+          const arrow = document.createElement("span");
+          arrow.className = "toc-arrow";
+          arrow.textContent = "▶";
+    
+          // Move link into row
+          li.insertBefore(row, link);
+          row.appendChild(arrow);
+          row.appendChild(link);
+    
+          // Toggle behavior
+          arrow.addEventListener("click", function (e) {
             e.preventDefault();
-            subList.classList.toggle("expanded");
-            toggle.classList.toggle("expanded");
+            e.stopPropagation();
+    
+            const expanded = subList.classList.toggle("expanded");
+            arrow.textContent = expanded ? "▼" : "▶";
           });
+    
+        } else {
+          // Leaf nodes: no arrow, just ensure clean layout
+          const row = document.createElement("span");
+          row.className = "toc-row";
+    
+          li.insertBefore(row, link);
+          row.appendChild(link);
         }
       });
     });
