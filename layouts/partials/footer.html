@@ -6,4 +6,37 @@
   {{ end }}
   </footer>
   </body>
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const toc = document.querySelector(".toc .toc-content");
+      if (!toc) return;
+    
+      // Find all list items that have nested lists
+      toc.querySelectorAll("li").forEach(li => {
+        const subList = li.querySelector("ul");
+        const link = li.querySelector("a");
+    
+        if (subList && link) {
+          // Wrap link text in a toggle span
+          const toggle = document.createElement("span");
+          toggle.classList.add("toc-toggle");
+          toggle.textContent = link.textContent;
+    
+          // Replace link text with toggle
+          link.textContent = "";
+          link.appendChild(toggle);
+    
+          // Mark submenu
+          subList.classList.add("toc-submenu");
+    
+          // Click behavior
+          toggle.addEventListener("click", function (e) {
+            e.preventDefault();
+            subList.classList.toggle("expanded");
+            toggle.classList.toggle("expanded");
+          });
+        }
+      });
+    });
+    </script>
 </html>

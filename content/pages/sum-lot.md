@@ -19,19 +19,20 @@ tags:
     <img src = "/Sun-Moon-Promo-Art.png" width="1000" class="center" />
   </p>
 
-  The 2017 and 2018 seasons went on with most of these cards legal, but the new, slower game-design brought on with Pokemon GX was beginning to shine through. It wasn't until all of the XY cards rotated out, do I think the format really got REALLY good. Unfortunately, this format only lasted until Team Up, when Pokemon decided to go back on everything that made Sun and Moon good and introduce insanely powerful basic 3-prize Tag Teams which took the format right back into the grips of turbo big basics. For this short time in 2018, from Sun and Moon base to Lost Thunder, we had one of the most fun and least toxic formats the TCG has seen in its modern era.
-When I say that this format is not "toxic" I mean the following:
+  The 2017 and 2018 seasons went on with most of these cards legal, but the new, slower game-design brought on with Pokemon GX was beginning to shine through. It wasn't until all of the XY cards rotated out, do I think the format really got REALLY good. Unfortunately, this format only lasted until Team Up, when Pokemon decided to go back on everything that made Sun and Moon good and introduce insanely powerful basic 3-prize Tag Teams which took the format right back into the grips of turbo big basics. For this short time in 2018, from Sun and Moon base to Lost Thunder, we had one of the most accessble and enjpoyable formats the TCG has seen in its modern era.
+
+When I say that this format is "enjoyable" I mean the following:
 
  - 1: There is no Tier 0 Deck, that is, a deck that is so much better than anything else you either play it or hard counter it.
  - 2: There are multiple Tier 1 Decks, meaning there are options when it comes to picking a viable deck
  - 3: Few decks lose to a single card tech inclusion, such as an immunity ability or stadium that hard-counters an entire strategy.
 
-Avid SUM-LOT players may conclude that point 1 is false in this format. They would be mostly correct, but I argue it won't matter if you are playing casually. When you aren't playing in organized tournaments, you make the rules! If you don't like playing against control or walls, just don't build it! This allows you to have a curated metagame where you only play the fun matchups. If your favorite deck has an autoloss, you can just not play that matchup, or put in techs just for that game and take them out otherwise. Of course, this does mean if you attend organized tournaments with prizing on the line you might have to play your hated decks, but that's what the prizing is for! Nothing good comes easy, and Pokemon is no different!
+Avid SUM-LOT players may conclude that point 1 is false in this format. They would be mostly correct, but I argue it won't matter if you are playing casually. When you aren't playing in organized tournaments, you make the rules. If you don't like playing against control or walls, just don't build it! This allows you to have a curated metagame where you only play the fun matchups. If your favorite deck has an autoloss, you can just not play that matchup, or put in techs just for that game and take them out otherwise. Of course, this does mean if you attend organized tournaments with prizing on the line you might have to play your hated decks, but that's what the prizing is for! Nothing good comes easy, and Pokemon is no different.
 
- For the most part, this format has many decks that are fun, consistent, and have a decent matchup spread, making it a great format to build some decks and play with your friends. At the time I built these decks (Summer 2023) they were quite affordable (~$40 a deck) to get everything in the correct printing and in decent condition, making SUM-LOT an even better choice for players just starting their venture into retro formats. The format is also quite skill expressive, with many control-type decks running around, players can easily be "skill-diffed" even in losing matchups.
+ For the most part, this format has many decks that are fun, consistent, and have a decent matchup spread, making it a great format to build some decks and play with your friends. At the time I built these decks (Summer 2023) they were quite affordable (~$40 a deck) to get everything in the correct printing and in decent condition, making SUM-LOT an even better choice for players just starting their venture into retro formats. The format is also quite skill expressive, players can often be "skill-diffed" in losing matchups by opponents who know how to play the matchup well.
 
 ## The Rules
-The basic rules of the Pokemon TCG have stayed largely the same since its inception, but certain rules or mechanics have been tweaked throughout the years. Below are some of the bigger changes from modern-day (2025) standard format:
+The basic rules of the Pokemon TCG have stayed largely the same since its inception, but certain rules or mechanics have been tweaked throughout the years. Below are some of the bigger changes from modern-day standard format:
 - The player going first can use items, stadiums, tools, attach energy, AND use supporters on their first turn. They may not attack.
 - Pokemon Tool cards are considered item cards.
 - Pokemon GX give up 2 prizes when knocked out and follow normal evolution rules.
@@ -221,7 +222,7 @@ These are a few of the cards you should definitely consider when building decks 
 
 # Metagame
 
-Since this format is no longer being played competively (at least officially), the only hard data we have to go off is from 2018 when it was played. Luckily, the amazing [Limitless.tcg](https://limitlesstcg.com/tournaments?time=all&type=all&format=SUM-LOT&region=all) has a lot of data on most of the major tournaments that happened at the time, so I can do some data analysis on that. Table 1 is created by me compiling all of the available data from Limitless, and then filtering based on more general archetypes than Limitless does. The meta percentages do not add up to 100%, and that is because certain decks qualify for multiple archetypes, so decks like Zoroark-Glaceon count as both a Zoroark deck and a Glaceon deck. Limitless data is usually limited to only Day 2 qualifiers or Top 8 in smaller tournaments, so this is not a perfect representation of the metagame at the time, but I feel like it can give you a gist of what the top decks were in the meta at any given time.
+Since this format is no longer being played competively (at least officially), the only hard data we have to go off is from 2018 when it was played. Luckily, the amazing [Limitless.tcg](https://limitlesstcg.com/tournaments?time=all&type=all&format=SUM-LOT&region=all) has a lot of data on most of the major tournaments that happened at the time, so I can do some data analysis on that. Table 1 is created by me compiling all of the available data from Limitless, and then filtering based on more general archetypes than Limitless does. The meta percentages do not add up to 100%, and that is because certain decks qualify for multiple archetypes, so decks like Zoroark-Glaceon count as both a Zoroark deck and a Glaceon deck. Limitless data is usually limited to only Day 2 qualifiers or Top 8 in smaller tournaments, so this is not a perfect representation of the metagame at the time, but I feel like it can give you a gist of what the top decks were in the meta.
 
 | Deck Archetype                                    | Number of Decks | Meta Percentage | Best Tournament Finish                                         |
 |--------------------------------------------------|:------------------:|:-----------------:|:----------------------------------------------------------------:|
@@ -270,9 +271,9 @@ The thing that sticks out immediately is the absolute dominance of Zoroark in te
     *Table 2 - Zoroark Archetypes*
   </p>
 
-  Though each of the Zoroark decks are distinct enough that I would not consider them one deck, they all have very similar strategies (minus control, I'll talk about that in a second). Zoroark serves as a draw engine and early game attacker, and then the partner is either additional support in the case of Ninetales or Decidueye, or a strong late game attacker that can efficiently utilize a single attachment or DCE, like Lycanroc or Weavile. Zoroark allows for these decks to also function as pure Zoroark decks if the partner is not useful for a certain matchups, so there is rarely a reason to not run a partner since Zoroark is so strong on its own.
+  Though each of the Zoroark decks are distinct enough that I would not consider them one deck, they all have very similar strategies (minus control, I'll talk about that in a second). Zoroark serves as a draw engine and early game attacker, and then the partner is either additional support in the case of Ninetales or Decidueye, or a strong late game attacker that can efficiently utilize a single attachment or DCE, like Lycanroc or Weavile.
 
-  Now to address the orangutan in the room. Control is really good. Like REALLY good. Depending on the expected metagame, control can either be energy disruption loops with Oranguru, tank and heal with Regigigas or Steelix, special energy or low energy walling with Xurxitree GX or Shuckle GX, retreat locking with Guzma/Counter Catcher and Rockruff, or even mill with Rhyperior. It can really be whatever you want. Are people teched for Zoroark control with shrines and fighting types? Run Swampert control instead! One of my decks below is called "kitchen sink control" because it is exactly that, everything and the kitchen sink for any metagame! In Table 3 is the breakdown of control archetypes I've found.
+  Now to address the orangutan in the room. Control is really good. Like REALLY good. Depending on the expected metagame, control can either be energy disruption loops with Oranguru, tank and heal with Regigigas or Steelix, special energy or low energy walling with Xurxitree GX or Shuckle GX, retreat locking with Guzma/Counter Catcher and Rockruff, or even mill with Rhyperior. It can really be whatever you want. Are people teched for Zoroark control with shrines and fighting types? Run Swampert control instead! One of my decks below is called "kitchen sink control" because it is exactly that, everything and the kitchen sink for the metagame. In Table 3 is the breakdown of control archetypes I've found.
 
 
 | Deck Archetype                                   | Number of Decks | Meta Percentage | Best Tournament Finish                                 |
@@ -328,7 +329,7 @@ The following decks are my current collection of decks for this format. They may
 - [Zoroark Glaceon](#zoroark-glaceon) {{< boxsprite "zoroark" >}}{{< boxsprite "glaceon" >}} 
 
 ---
-## Alolan Exeggutor {{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}{#alolan-exeggutor}
+## Alolan Exeggutor <span class="no-toc">{{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}</span>{#alolan-exeggutor}
 
   <p align="center">
     <img src = "/Decklists/exeggutor-SUMLOT.jpg" width="1000" class="center" />
