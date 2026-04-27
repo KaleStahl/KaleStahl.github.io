@@ -30,7 +30,7 @@
           {{- with $v }}
             {{- printf " %s=%q" $k $v | safeHTMLAttr }}
           {{- end }}
-        {{- end -}} 
+        {{- end -}}
       >{{ $name }}</a>
       {{- with .Children }}
         <ul>
