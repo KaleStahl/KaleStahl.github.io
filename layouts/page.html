@@ -6,9 +6,10 @@
   {{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
 </div>
 
-{{ $toc := .TableOfContents }}
+{{ $page := . }}
+{{ $toc := $page.TableOfContents }}
 
-{{ if ne $toc "" }}
+{{ if gt (len (plainify $toc)) 0 }}
 
   <div class="content-wrapper with-sidebar">
 
@@ -22,7 +23,7 @@
     </aside>
 
     <main>
-      {{ .Content }}
+      {{ $page.Content }}
     </main>
 
   </div>

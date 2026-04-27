@@ -38,6 +38,9 @@ markup:
           - - '\('
             - '\)'
         enable: true
+    parser:
+      autoHeadingIDType: github
+      autoHeadingID: true
   tableOfContents:
     endLevel: 3
     ordered: false
