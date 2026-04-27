@@ -6,37 +6,26 @@
   {{ if (gt .Params.date 0) }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
 </div>
 
-{{ $page := . }}
-{{ $toc := $page.TableOfContents }}
+{{ $toc := .TableOfContents }}
 
-{{ if eq .Section "pages" }}
+{{ if ne $toc "" }}
 
-  {{ if and $toc (findRE "<li>" $toc) }}
+  <div class="content-wrapper with-sidebar">
 
-    <div class="content-wrapper with-sidebar">
-
-      <aside class="sidebar">
-        <div class="toc">
-          <h3>Table of Contents</h3>
-          <div class="toc-content">
-            {{ $toc }}
-          </div>
+    <aside class="sidebar">
+      <div class="toc">
+        <h3>Table of Contents</h3>
+        <div class="toc-content">
+          {{ $toc }}
         </div>
-      </aside>
-
-      <main>
-        {{ $page.Content }}
-      </main>
-
-    </div>
-
-  {{ else }}
+      </div>
+    </aside>
 
     <main>
-      {{ $page.Content }}
+      {{ .Content }}
     </main>
 
-  {{ end }}
+  </div>
 
 {{ else }}
 
