@@ -302,32 +302,10 @@ Sometimes no matter how well you play, your deck just loses to control. While no
 
 # Decklists
 
-The following decks are my current collection of decks for this format. They may not be the best or most competitively viable, but they are what I have built after playing the format for a few years casually. All of the photos are taken by me, and I have put decklist credit when applicable. I have also discussed the basic strategies of the decks and what certain inclusions do so people who are just picking up the format can have a nice place to start! My most common question from my friends when playing retro is "What the heck is this card in here for?", so I hope that these little blurbs can explain why the decks look like that! Below these are also a written decklist and a Limitless import for each deck if you would like to copy the decklist as text.
-
-- [Alolan Exeggutor](#alolan-exeggutor) {{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}
-- [Baby Buzzwole Garbodor](#baby-buzzwole-garbodor) {{< boxsprite "buzzwole" >}}{{< boxsprite "garbodor" >}}{{< boxsprite "weavile" >}}
-- [Blacephalon Naganadel](#blacephalon-naganadel) {{< boxsprite "blacephalon">}}{{< boxsprite "naganadel">}}
-- [Buzzwole Lycanroc Ninetales](#buzzwole-lycanroc-ninetales) {{< boxsprite "buzzwole" >}}{{< boxsprite "lycanroc-midnight" >}}{{< boxsprite "ninetales-alola" >}}
-- [Dusk Mane Necrozma](#dusk-mane-necrozma) {{< boxsprite "necrozma-dusk" >}}{{< boxsprite "dialga" >}}{{< boxsprite "magnezone" >}}
-- [Empoleon](#empoleon) {{< boxsprite "empoleon" >}}{{< boxsprite "swampert" >}}
-- [Garchomp](#garchomp) {{< boxsprite "garchomp" >}}{{< boxsprite "lucario" >}}
-- [Gardevoir Swampert Ninetales](#gardevoir-swampert-ninetales) {{< boxsprite "gardevoir" >}}{{< boxsprite "swampert" >}}{{< boxsprite "ninetales-alola" >}}
-- [Granbull](#granbull) {{< boxsprite "granbull" >}}
-- [Kitchen Sink Control](#kitchen-sink-control)  {{< boxsprite "regigigas" >}}{{< boxsprite "hoopa-unbound" >}}{{< boxsprite "xurkitree" >}}
-- [Lost March](#lost-march) {{< boxsprite "jumpluff" >}}{{< boxsprite "natu" >}}
-- [Malamar](#malamar) {{< boxsprite "malamar" >}}{{< boxsprite "necrozma" >}}
-- [Meganium Spread](#meganium-spread) {{< boxsprite "meganium" >}}{{< boxsprite "swampert" >}}{{< boxsprite "decidueye" >}}
-- [Passimian Tapu Koko](#passimian-tapu-koko) {{< boxsprite "passimian" >}}{{< boxsprite "tapu-koko" >}}
-- [Rayquaza Vikavolt](#rayquaza-vikavolt) {{< boxsprite "rayquaza" >}}{{< boxsprite "vikavolt" >}}
-- [Sceptile](#sceptile) {{< boxsprite "sceptile" >}}
-- [Steelix Stall](#steelix-stall) {{< boxsprite "steelix" >}}{{< boxsprite "hoopa-unbound" >}}
-- [White Kyurem](#white-kyurem) {{< boxsprite "kyurem-white" >}}
-- [Zoroark Control](#zoroark-control) {{< boxsprite "zoroark" >}}{{< boxsprite "oranguru">}}
-- [Zoroark Decidueye Ninetales](#zoroark-decidueye-ninetales) {{< boxsprite "zoroark" >}}{{< boxsprite "decidueye" >}}{{< boxsprite "ninetales-alola" >}}
-- [Zoroark Lycanroc](#zoroark-lycanroc) {{< boxsprite "zoroark" >}}{{< boxsprite "lycanroc-midnight" >}}
-- [Zoroark Glaceon](#zoroark-glaceon) {{< boxsprite "zoroark" >}}{{< boxsprite "glaceon" >}} 
+The following decks are my current collection of decks for this format. They may not be the best or most competitively viable, but they are what I have built after playing the format for a few years casually. All of the photos are taken by me, and I have put decklist credit when applicable. I have also discussed the basic strategies of the decks and what certain inclusions do so people who are just picking up the format can have a nice place to start! My most common question from my friends when playing retro is "What the heck is this card in here for?", so I hope that these little blurbs can explain why the decks look like that! Below these are also a written decklist and a Limitless import for each deck if you would like to copy the decklist as text. You can use the navigation bar on the side to quickly skip to a certain deck.
 
 ---
+
 ## Alolan Exeggutor <span class="no-toc">{{< boxsprite "exeggutor-alola" >}}{{< boxsprite "lurantis" >}}{{< boxsprite "sceptile" >}}</span>
 
   <p align="center">
