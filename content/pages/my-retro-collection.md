@@ -14,11 +14,11 @@ tags:
 
 ## Finding Decklists
 
-In the early days of the Pokemon TCG, decklists were hard to come by. We don't have many records from early tournaments, so a lot of importent decklists are lost to time. Fortunately, the Pokemon community has some of the best and most dedicated preservationists and we have many tools the community maintains.
+In the early days of the Pokemon TCG, decklists were hard to come by. We don't have many records from early tournaments, so a lot of importent decklists are lost to time. Fortunately, the Pokemon community has some of the best and most dedicated preservationists and writers giving us amazing resources for past and present Pokemon formats.
 
-- [Limitless](https://limitlesstcg.com/)
-- [Pokemon TCG Archive](https://ptcgarchive.com/)
-- [PTCGLegends](https://www.ptcglegends.com/)
+- [Limitless](https://limitlesstcg.com/) Introduced in 2016, this is the best place to find Tournament results and high placing decklists from Pokemon's "Modern" era (2016-present). They keep coming out with amazing tools and resources, and even run [play.limitless.com](https://play.limitless.com) which allows for grassroots tournaments for formats past and present.
+- [Pokemon TCG Archive](https://ptcgarchive.com/) One of the best places to find decklists from prior to 2013. It also has an archive of important tournament results before Limitless.
+- [PTCGLegends](https://www.ptcglegends.com/) Regional Champion Alex Wilson's baby.
 - [Jason Klaczynski's Blog](https://jklaczpokemon.com/)
 
 ## Finding Cards
