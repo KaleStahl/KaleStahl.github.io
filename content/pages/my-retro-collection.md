@@ -16,12 +16,28 @@ tags:
 
 In the early days of the Pokemon TCG, decklists were hard to come by. We don't have many records from early tournaments, so a lot of importent decklists are lost to time. Fortunately, the Pokemon community has some of the best and most dedicated preservationists and writers giving us amazing resources for past and present Pokemon formats.
 
-- [Limitless](https://limitlesstcg.com/) Introduced in 2016, this is the best place to find Tournament results and high placing decklists from Pokemon's "Modern" era (2016-present). They keep coming out with amazing tools and resources, and even run [play.limitless.com](https://play.limitless.com) which allows for grassroots tournaments for formats past and present.
-- [Pokemon TCG Archive](https://ptcgarchive.com/) One of the best places to find decklists from prior to 2013. It also has an archive of important tournament results before Limitless.
-- [PTCGLegends](https://www.ptcglegends.com/) Regional Champion Alex Wilson's baby.
-- [Jason Klaczynski's Blog](https://jklaczpokemon.com/)
+- **[Limitless](https://limitlesstcg.com/):** Introduced in 2016, this is the best place to find Tournament results and high placing decklists from Pokemon's "Modern" era (2016-present). They keep coming out with amazing tools and resources, and even run [play.limitless.com](https://play.limitless.com) which allows for grassroots tournaments for formats past and present.
+- **[Pokemon TCG Archive](https://ptcgarchive.com/):** One of the best places to find decklists from prior to 2013. It also has an archive of important tournament results before Limitless.
+- **[PTCGLegends](https://www.ptcglegends.com/):** Regional Champion Alex Wilson's site, it combines the thoroughness of Limitless with the breadth of TCG Archive. It has probably the largest collection of tournament results from the game's inception. I really love the Decks by Era page; it's basically a collection of any deck from any format, regardless of competitive vialbility.
+- **[Jason Klaczynski's Blog](https://jklaczpokemon.com/):** Three time world champion Jason K's blog has a lot of really good articles and resources for formats between 1999 and 2016. It may be the best place to find WOTC era decks and strategies. 
+- **[James G](https://x.com/jgtournaments)** has a great discord where he catalogs his vast deck collection and hosts near weekly retro formats on [TCGOne](https://tcgone.net/).
+- **Kyle Whimsicast** on [Twitter](https://x.com/Whimsicast) or [Youtube]() is another great retro collector who makes great content on decklists and formats, and catalogues his absolutely massive collection on his Twitter.
+
+There are probably a bunch of other great resources I left off, but these are the ones I use the most. If I am unfamiliar with a format, I like to look at tournaments at the time to get a gist of what was good, and then proxy up some of the top decks. If I like playing them, I'll build more. Usually if I like a format enough to build decks, I'll start trying to replace the proxied cards with real cards from my collection. I usually start with stuff I have on hand, and then might order some online if I'm missing a bunch of cheaper staples for the format. I try to avoid buying full decks outright, as sourcing the cards is one of my favorite parts! (also I am a grad student and can't drop $400 on a new deck no matter how cool it is)
 
 ## Finding Cards
+
+Sourcing cards might be my favorite part of retro deck building. Just because a card exists, doesn't mean you will have access to buy it; and even if you do, it could be at a horrible price. Depending on the format, cards for decks can vary widely in price, depending on many factors including collector "value", popularity, and even playability in retro. Original Pokemon ex are one of the biggest examples, as some of the more popular cards like Swampert ex could run you upwards of $200 in good condition, while some damaged or unpopular ex's could be as low as $20 a piece (this is how I got my Armaldo ex's for RS-PK). This means that if you want to buy retro cards for a decent price (and who doesn't), you can't just buy whatever the TCGPlayer optimizer tells you to. To find good deals, this is usually what I look for:
+
+- **World Championship Cards:** These are great. Complete decks are awesome if you like to build as many formats as possible, but even single cards can help you find deals. High rarity cards like Blaziken ex can drop almost 90% in price if you buy a WCS card versus a "real" one. The WCS cards have a different back and border which can be offputting if you really like your decks to be consistent visually, but I would say the price accessability is worth it if you don't like to proxy cards. Many local games stores or online sellers don't have a super big clientel for WCS cards, so this gives you an oppurtunity to negotiate a good price on something sellers are looking to offload.
+
+- **Cards in Poor Conditions:** This is where the big savings comes from. I personally do not care what my cards in my retro decks look like. As long as I can riffle them, they're good by me! Collectors seem to almost universally hate damaged or heavily played cards, so sellers are looking to get rid of them however possible. Often I will ask sellers at stores or card shows specifically if they have any older damaged cards they can't get rid of, and I can often get them for a pretty good deal. I got a damaged Delcatty ex from Crystal Guardians for $5 after searching through damaged cards, so the savings is definitely there. 
+
+- **Cards in Other Languages:** I sometimes prefer this less to proxying, simply from the fact that I have to look up the text if I'm playing with a new player. However, it is still a great value, especially if you know what the card does without looking it up. In the US, cards in other languages are again harder to sell to collectors, so sometimes you can get a good deal. I found an Italian stamped Gardevoir from Delta Species for $15 since my local game store had it forever and couldn't find a buyer.
+
+- **Bulk Bins:** This is definitely more hit and miss on finding playable cards, but its potential is undeniable. Like all the other previous categories, these are cards that are hard to sell as singles. Stores will often put "bulk" cards in a box and sell them all for a very cheap flat rate, 25 or 50 cents each if you're lucky. You can find great competitive staple cards here for a great price, but the selection varies WILDLY from place to place. Some stores only have bulk from new sets, while others are just littered with energy cards or bad trainers. Even in bad bulk, you can find great cards, but good bulk is a high unlike any other. These could be unsorted cards from someone's personal collection, or cards that have been tucked away at a small store, but the rare occasion where you find a Holon's Castform makes all your time going through bulk feel vindicated. It's sort of like gambling, but (probably?) less destructive. If I ever go to a new card store, I always love asking to look through their bulk. It can be time consuming (hence why the sellers haven't combed through it themselves), but sometimes it can be relaxing to peruse cards looking for anything moderately playable, and if you find something good that's just a cherry on top.
+
+If you are unable to find a price that works for you with the above method, there is absolutely no shame in proxying cards. This can help you "try before you buy", or be a permanent replacement depending on what you want. I have a whole [section on proxying](#proxies) later on, so consult that if you want more information.
 
 --- 
 
@@ -70,6 +86,8 @@ I've also been working on printing labels for the Storage boxes I use so they lo
 ---
 
 # Proxies
+
+
 
 ---
 
