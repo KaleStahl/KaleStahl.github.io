@@ -7,7 +7,7 @@ layout: single
 
 I am currently supported with funding as an NSF Graduate Research Fellow.
 
-In general, I am interested in PDE and their applications to physics. I don't have an "official" advisor at the moment, but I have been working on some research problems with [Dr. Isaac Harric](https://sites.google.com/site/isaacpurduemath/) the past few semesters. Recently I have been working on proving the well posedness of the Biharmonic scattering problem for small domains, and hope to have a paper drafted at some point in the future.
+In general, I am interested in PDE and their applications to physics. I don't have an "official" advisor at the moment, but I have been working on some research problems with [Dr. Isaac Harris](https://sites.google.com/site/isaacpurduemath/) the past few semesters. Recently I have been working on proving the well posedness of the Biharmonic scattering problem for small domains, and hope to have a paper drafted at some point in the future.
 
 At K-State I worked with [Dr. Dinh-Liem Nguyen](https://sites.google.com/site/dinhliemnguyen/home) and [Dr. Trung Truong](https://mupages.marshall.edu/sites/truongt/) on projects involving shape reconstruction in acoustic inverse scattering problems. I have worked previously with [Dr. Yulia Hristova](https://www-personal.umd.umich.edu/~yuliagh/) and [Dr. Aditya Viswanathan](https://www-personal.umd.umich.edu/~adityavv/) in the 2022 University of Michigan-Dearborn REU For Analysis and Application on a project detecting edge signals from phaseless signal measurements.
 

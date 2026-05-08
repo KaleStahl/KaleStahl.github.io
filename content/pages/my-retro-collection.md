@@ -3,7 +3,7 @@ title: Retro Pokemon Deck Collecting
 author: Kale Stahl
 categories:
   - Retro Pokemon TCG
-  - Deck Showcase
+  - Guide
 tags:
   - Pokemon TCG
   - Retro Pokemon TCG
@@ -107,12 +107,11 @@ At first, I used my impeccable graphic design skills to make the labels in [Word
 
 Then, in April of 2026, my beloved Robin Schulz of [Limitless](https://limitlesstcg.com) released an amazing new feature: decks can be shared to a unique deck link that didn't change even if the cards changed. This was massive for my operation, as now I could start changing my decklists without generating new labels! Since this means I would never have to print labels again, I wanted to overhaul my process and make sure I was making my labels as good as possible. 
 
-I decided to automate the process of generating labels, which took a LOT of debugging. I used [ReportLab](https://www.reportlab.com/) in Python which is not super intuitive, but ended up making a great product. In my public [Label Repository](https://github.com/KaleStahl/Deckbox-Labels) you can find the files if you want to make your own! This script took the time per label down from like 10 minutes to almost instantly, which is very nice if you plan to print a bajillion like I do. They are made to fit exactly on the perfect fit deck boxes, but I've made the code modular enough that you can change some dimensions or aspect ratios to fit your needs. The README should be helpful if you want to tinker with my code.
-
   <p align="center">
-    <img src = "/Retro_decks/deckbox_perfect.JPG" width="500" class="center" />
+    <img src = "/Retro_decks/deckbox_perfect.JPG" width="700" class="center" />
+    *A completed label for my Haymaker deck*
   </p>
 
-As I've talked about before, I keep a [spreadsheet](https://docs.google.com/spreadsheets/d/1yQj3a01UHcpLyjyHxvb3VPv6R9NJPNF88hA6ThCYRzA/edit?usp=sharing) of all my retro decks, so I just edited it to include all the information I need to generate the label, then downloaded the "Auto Generator Data" as a .csv and the script makes all of the labels in a timely fashion! (it's still Python so don't expect anything too fast) I just print them on sticker paper, then cut them out and stick them to the perfect fit boxes.
+I decided to automate the process of generating labels, which took a LOT of debugging. I used [ReportLab](https://www.reportlab.com/) in Python which is not super intuitive, but ended up making a great product. In my public [Label Repository](https://github.com/KaleStahl/Deckbox-Labels) you can find the files if you want to make your own! This script took the time per label down from like 10 minutes to almost instantly, which is very nice if you plan to print a bajillion like I do. They are made to fit exactly on the perfect fit deck boxes, but I've made the code modular enough that you can change some dimensions or aspect ratios to fit your needs. The README should be helpful if you want to tinker with my code.
 
-I've also been working on printing labels for the Storage boxes I use so they look "cool". There are 8 boxes, so I didn't feel the need to automate them and just used [GIMP](https://www.gimp.org/) (a free but worse Photoshop) to edit them into big stickers for my boxes. I wanted to have a sort of "Pokemon Throughout the Years" vibe so I just took 2 of the most impactful competitive card arts from each year the TCG existed and divided them onto the box labels.
+As I've talked about before, I keep a [spreadsheet](https://docs.google.com/spreadsheets/d/1yQj3a01UHcpLyjyHxvb3VPv6R9NJPNF88hA6ThCYRzA/edit?usp=sharing) of all my retro decks, so I just edited it to include all the information I need to generate the label, then downloaded the "Auto Generator Data" as a .csv and the script makes all of the labels in a timely fashion! (it's still Python so don't expect anything too fast) I just print them on sticker paper, then cut them out and stick them to the perfect fit boxes.
