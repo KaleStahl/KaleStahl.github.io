@@ -28,7 +28,7 @@ There are probably a bunch of other great resources I left off, but these are th
 ## Finding Cards
 
 <p align="center">
-  <img src = "/Retro_decks/cheap_finds.JPG" width="700" class="center" />
+  <img src = "/Retro Decks/cheap_finds.jpg" width="700" class="center" />
   *Some cards that are usually expensive that I got for great deals*
 </p>
 
@@ -54,7 +54,7 @@ Building decks is super fun, but once you're done you have to find somewhere to 
 This is probably the most important way to protect your cards. Any self-respecting card game player knows how important it is to sleeve your cards before playing. Good sleeves help the cards shuffle better, protect the cards, and help you to avoid marked cards in your deck. Since I still actively play the game at locals and regionals, I usually just sleeve my retro decks in sleeves that are too old or dirty for tournament play. This works fine, and doesn't involve spending extra money on sleeves. If you don't have a surplus of excess sleeves like I do, then I will outline some of the best options.
 
 <p align="center">
-  <img src = "/Retro_decks/sleeves.JPG" width="700" class="center" />
+  <img src = "/Retro Decks/sleeves.JPG" width="700" class="center" />
   *Some of the sleeves I recommend using*
 </p>
 
