@@ -10,7 +10,13 @@ tags:
 
 ---
 
+The Pokemon TCG has existed for almost 30 years, with each new set introducing new mechanics and strategies to the card game. Pokemon uses a "rotation" system where each year, they go back and ban all cards released before a designated set. This means that cards that have been rotated out of the game are no longer playable at tournaments, and with the decreased emphasis on the expanded format min recent years, many of these cards will never be able to be played again. 
+
+Despite what "investors" may tell you, Pokemon cards are designed to be opened and played with, so them sitting in a binder for eternity is antithetical to their calling.  
+
 # Building Decks
+
+
 
 ## Finding Decklists
 
@@ -21,7 +27,9 @@ In the early days of the Pokemon TCG, decklists were hard to come by. We don't h
 - **[PTCGLegends](https://www.ptcglegends.com/):** Regional Champion Alex Wilson's site, it combines the thoroughness of Limitless with the breadth of TCG Archive. It has probably the largest collection of tournament results from the game's inception. I really love the Decks by Era page; it's basically a collection of any deck from any format, regardless of competitive vialbility.
 - **[Jason Klaczynski's Blog](https://jklaczpokemon.com/):** Three time world champion Jason K's blog has a lot of really good articles and resources for formats between 1999 and 2016. It may be the best place to find WOTC era decks and strategies. 
 - **[James G](https://x.com/jgtournaments)** has a great discord where he catalogs his vast deck collection and hosts near weekly retro formats on [TCGOne](https://tcgone.net/).
-- **Kyle Whimsicast** on [Twitter](https://x.com/Whimsicast) or [Youtube](https://www.youtube.com/@WhimsicottTCG) is another great retro collector who makes great content on decklists and formats, and catalogues his absolutely massive collection on his Twitter.
+- **Whimsicast** on [Twitter](https://x.com/Whimsicast) or [Youtube](https://www.youtube.com/@WhimsicottTCG) is another great retro collector who makes great content on decklists and formats, and catalogues his absolutely massive collection on his Twitter.
+- **[Holon Phantom](https://www.youtube.com/@holon_phantom)** uploads commentated tabletop gameplay for retro formats, giving a good example of how games in formats go.
+- **[Ruby Retro](https://www.youtube.com/@rubyretro)** provides truly amazing histories of the TCG story, on top of having great taste in Pokemon. They upload infrequently, but the quality and attention to detail is worth it.
 
 There are probably a bunch of other great resources I left off, but these are the ones I use the most. If I am unfamiliar with a format, I like to look at tournaments at the time to get a gist of what was good, and then proxy up some of the top decks. If I like playing them, I'll build more. Usually if I like a format enough to build decks, I'll start trying to replace the proxied cards with real cards from my collection. I usually start with stuff I have on hand, and then might order some online if I'm missing a bunch of cheaper staples for the format. I try to avoid buying full decks outright, as sourcing the cards is one of my favorite parts! (also I am a grad student and can't drop $400 on a new deck no matter how cool it is)
 
@@ -54,7 +62,7 @@ Building decks is super fun, but once you're done you have to find somewhere to 
 This is probably the most important way to protect your cards. Any self-respecting card game player knows how important it is to sleeve your cards before playing. Good sleeves help the cards shuffle better, protect the cards, and help you to avoid marked cards in your deck. Since I still actively play the game at locals and regionals, I usually just sleeve my retro decks in sleeves that are too old or dirty for tournament play. This works fine, and doesn't involve spending extra money on sleeves. If you don't have a surplus of excess sleeves like I do, then I will outline some of the best options.
 
 <p align="center">
-  <img src = "/Retro Decks/sleeves.JPG" width="700" class="center" />
+  <img src = "/Retro Decks/sleeves.jpg" width="700" class="center" />
   *Some of the sleeves I recommend using*
 </p>
 
@@ -68,7 +76,7 @@ This is probably the most important way to protect your cards. Any self-respecti
 Deckboxes are essential if you want to keep your decks together for any period of time (Trust me, piles NEVER end well) and let you take them places without losing any cards. When going to tournaments, I usually just carry around a standard size deckbox with a folding velcro top. These are great, especially since there are so many official designs sold by Pokemon Center. 
 
 <p align="center">
-  <img src = "/Retro_decks/deckboxes.JPG" width="700" class="center" />
+  <img src = "/Retro Decks/deckboxes.jpg" width="700" class="center" />
   *Some deckboxes I outline below*
 </p>
 
@@ -83,8 +91,8 @@ You probably don't need these until you have a bunch of decks built, but I am a 
 Right now, I'm using these [3-row Boxes](https://www.amazon.com/dp/B073513HH6?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2&th=1) from BCW for my decks. The fit 21 perfect fit deckboxes and 4 of them fit perfectly into one of the boxes in my Ikea Kallax shelves. They also have white labels if you want to label them from the front, and even have card inserts so you can organize the rows. They are a bit expensive, but I have found them to be durable and high quality compared to other cardboard boxes. 
 
 <p align="center">
-  <img src = "/Retro_decks/deckboxes_in_shelf.JPG" width="350" class="center" />
-  <img src = "/Retro_decks/box.JPG" width="350" class="center" />
+  <img src = "/Retro Decks/deckboxes_in_shelf.jpg" width="350" class="center" />
+  <img src = "/Retro Decks/box.jpg" width="350" class="center" />
   *3-Row Card Boxes I use*
 </p>
 
@@ -93,7 +101,7 @@ If you don't use my favorite Perfect Fits, I've seen people use the tried and tr
 If you really want to splurge, BCW also has [plastic versions](https://www.bcwsupplies.com/collectible-card-bin-3200-gray?ff=2&fp=2159&utm_campaign=BCW+Google+Shopping+Feed&campaign=22095323490&content=728267529732&keyword=&gad_source=1&gad_campaignid=22095323490&gbraid=0AAAAADq9-V6N3Q5dGtker8vE0QyAN3iYN&gclid=Cj0KCQjwk_bPBhDXARIsACiq8R3oHBGWNMbPwgH_c9Z0AAOQu-UrZRXZPOjjlW9XOHt7XaCOPQUjlKYaAn8TEALw_wcB) of the 4 Row Card Boxes. I use a couple of these to organize my bulk cards, and they are great for that since they stack nicely and have built in divider tabs. I used the carboard boxes for the longest time, but they started to degrade over a few years so I upgraded and do not regret it. I don't use these for my retro decks currently, but they do comfortably fit even an official size deckbox, so I'm sure they are another good premium option.
 
 <p align="center">
-  <img src = "/Retro_decks/plastic boxes.JPG" width="700" class="center" />
+  <img src = "/Retro Decks/plastic boxes.jpg" width="700" class="center" />
   *BCW Plastic Boxes I use for my cards*
 </p>
 
@@ -108,7 +116,7 @@ At first, I used my impeccable graphic design skills to make the labels in [Word
 Then, in April of 2026, my beloved Robin Schulz of [Limitless](https://limitlesstcg.com) released an amazing new feature: decks can be shared to a unique deck link that didn't change even if the cards changed. This was massive for my operation, as now I could start changing my decklists without generating new labels! Since this means I would never have to print labels again, I wanted to overhaul my process and make sure I was making my labels as good as possible. 
 
   <p align="center">
-    <img src = "/Retro_decks/deckbox_perfect.JPG" width="700" class="center" />
+    <img src = "/Retro Decks/deckbox_perfect.jpg" width="700" class="center" />
     *A completed label for my Haymaker deck*
   </p>
 
