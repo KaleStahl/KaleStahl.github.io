@@ -10,9 +10,9 @@ tags:
 
 ---
 
-The Pokemon TCG has existed for almost 30 years, with each new set introducing new mechanics and strategies to the card game. Pokemon uses a "rotation" system where each year, they go back and ban all cards released before a designated set. This means that cards that have been rotated out of the game are no longer playable at tournaments, and with the decreased emphasis on the expanded format min recent years, many of these cards will never be able to be played again. 
+The Pokemon TCG has existed for almost 30 years, with each new set introducing new mechanics and strategies to the card game. Pokemon uses a "rotation" system where each year, they go back and ban all cards released before a designated set. This means that cards that have been rotated out of the game are no longer playable at tournaments, and with the decreased emphasis on the expanded format in recent years, many of these cards will never be able to be played again. 
 
-Despite what "investors" may tell you, Pokemon cards are designed to be opened and played with, so them sitting in a binder for eternity is antithetical to their calling.  
+This gives rise to one of my favorite hobbies: Buiding and Playing retro Pokemon formats! 
 
 # Building Decks
 
@@ -31,7 +31,9 @@ In the early days of the Pokemon TCG, decklists were hard to come by. We don't h
 - **[Holon Phantom](https://www.youtube.com/@holon_phantom)** uploads commentated tabletop gameplay for retro formats, giving a good example of how games in formats go.
 - **[Ruby Retro](https://www.youtube.com/@rubyretro)** provides truly amazing histories of the TCG story, on top of having great taste in Pokemon. They upload infrequently, but the quality and attention to detail is worth it.
 
-There are probably a bunch of other great resources I left off, but these are the ones I use the most. If I am unfamiliar with a format, I like to look at tournaments at the time to get a gist of what was good, and then proxy up some of the top decks. If I like playing them, I'll build more. Usually if I like a format enough to build decks, I'll start trying to replace the proxied cards with real cards from my collection. I usually start with stuff I have on hand, and then might order some online if I'm missing a bunch of cheaper staples for the format. I try to avoid buying full decks outright, as sourcing the cards is one of my favorite parts! (also I am a grad student and can't drop $400 on a new deck no matter how cool it is)
+There are probably a bunch of other great resources I left off, but these are the ones I use the most. If I am unfamiliar with a format, I like to look at tournaments at the time to get a gist of what was good, and then proxy up some of the top decks. If I like playing them, I'll build more. Usually if I like a format enough to build decks, I'll start trying to replace the proxied cards with real cards from my collection. I usually start with stuff I have on hand, and then might order some online if I'm missing a bunch of cheaper staples for the format. I try to avoid buying full decks outright, as sourcing the cards is one of my favorite parts!
+
+---
 
 ## Finding Cards
 
@@ -50,7 +52,7 @@ Sourcing cards might be my favorite part of retro deck building. Just because a 
 
 - **Bulk Bins:** This is definitely more hit and miss on finding playable cards, but its potential is undeniable. Like all the other previous categories, these are cards that are hard to sell as singles. Stores will often put "bulk" cards in a box and sell them all for a very cheap flat rate, 25 or 50 cents each if you're lucky. You can find great competitive staple cards here for a great price, but the selection varies WILDLY from place to place. Some stores only have bulk from new sets, while others are just littered with energy cards or bad trainers. Even in bad bulk, you can find great cards, but good bulk is a high unlike any other. These could be unsorted cards from someone's personal collection, or cards that have been tucked away at a small store, but the rare occasion where you find a Holon's Castform makes all your time going through bulk feel vindicated. It's sort of like gambling, but (probably?) less destructive. If I ever go to a new card store, I always love asking to look through their bulk. It can be time consuming (hence why the sellers haven't combed through it themselves), but sometimes it can be relaxing to peruse cards looking for anything moderately playable, and if you find something good that's just a cherry on top.
 
-If you are unable to find a price that works for you with the above method, there is absolutely no shame in proxying cards. This can help you "try before you buy", or be a permanent replacement depending on what you want. I have a whole [article on proxying](guide-pokemon-proxies), so consult that if you want more information on how I make mine. Some people consider proxy cards to be "taboo" for retro decks, since they are "cheating" and you didn't do the proper "investment", but that is unfathomably stupid. Pokemon cards are fun, and proxies make them readily accessible to more people, which is good. Be careful however, as some retro events at official Play! Pokemon regionals and internationals may not allow proxies (or even WCS cards), so be sure to check in with rules before entering tournaments with proxied cards.
+If you are unable to find a price that works for you with the above method, there is absolutely no shame in proxying cards. This can help you "try before you buy", or be a permanent replacement depending on what you want. I have a whole [article on proxying](/pages/guide-to-pokemon-proxies), so consult that if you want more information on how I make mine. Some people consider proxy cards to be "taboo" for retro decks, since they are "cheating" and you didn't do the proper "investment", but that is unfathomably stupid. Pokemon cards are fun, and proxies make them readily accessible to more people, which is good. Be careful however, as some retro events at official Play! Pokemon regionals and internationals may not allow proxies (or even WCS cards), so be sure to check in with rules before entering tournaments with proxied cards.
 
 --- 
 
@@ -70,6 +72,7 @@ This is probably the most important way to protect your cards. Any self-respecti
 - My new go-to sleeves for tournaments have been from [End Game](https://endgametcg.ca/). They are a fairly new Canadian company so finding their sleeves in stores is a little hard, but for sleeves you can get online, they are great. Color consistency is really good over multiple boxes so I can buy 3 boxes of one color to sleeve up 5 individual decks, which I can never do with Dragon Shields. They also shuffle well for at lot longer than Dragon Shields, which makes them great for reusing on retro decks. They don't have many colors and shipping can be expensive, but I really like these so far.
 - The last option are cheap Chinese sleeves usually sold on Amazon. I don't like buying from Amazon, but sometimes it is the only option if you don't want to spend a lot sleeving your decks. I have actually liked using [these sleeves](https://www.amazon.com/dp/B0DP6SSP6N?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1). They are fully opaque and come out to around $2 per deck if you buy them in bulk, which is not bad. They also don't feel horrible when shuffling, which is not something I can say for all sleeves. I have also bought [these sleeves](https://www.amazon.com/dp/B0CLHTM6QM?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1). They are extremely thin and feel super plasticky to shuffle, but they aren't unusable if you don't really care about sleeve quality and just want a bunch of sleeves to use.
 
+---
 
 ## Deck Boxes
 
@@ -84,6 +87,8 @@ They are not my first choice for retro decks however, since I don't always know 
 
 
 I have also seen many people use the standard [Ultra Pro Deckboxes](https://www.amazon.com/Ultra-Pro-Magic-Pokemon-YuGiOh/dp/B074DVF48M/?_encoding=UTF8&pd_rd_w=UbNZm&content-id=amzn1.sym.ddb3f609-e1e5-4e5d-96f6-88c55733f70a&pf_rd_p=ddb3f609-e1e5-4e5d-96f6-88c55733f70a&pf_rd_r=3HD1RM3G08M67TW0CT9Y&pd_rd_wg=V9pF4&pd_rd_r=486f6aff-fa41-4733-918e-f1507a824015&ref_=pd_hp_d_r_atf_sspa_mw_gateway&ie=UTF8&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGZfd3BfcGhvbmVfaG9tZXBhZ2U&th=1) since they are pretty cheap and also have a small footprint. They also have pre-printed areas to label the boxes without a label maker, which could be nice if you don't love printers as much as I do. They are also in almost any card store, so you won't have to order them online.
+
+---
 
 ## Storage Boxes
 You probably don't need these until you have a bunch of decks built, but I am a degenerate and have too many. BCW makes probably the best selection of trading card storage accessories.
